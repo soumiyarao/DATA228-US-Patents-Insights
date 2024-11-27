@@ -1,0 +1,8 @@
+[
+    {"id": 7, "category": "electronics", "price": 260.0},
+    {"id": 8, "category": "electronics", "price": 375.0},
+    {"id": 9, "category": "furniture", "price": 450.0},
+    {"id": 14, "category": "furniture", "price": 650.0},
+    {"id": 17, "category": "electronics", "price": 350.0},
+    {"id": 21, "category": "appliances", "price": 850.0}
+]
