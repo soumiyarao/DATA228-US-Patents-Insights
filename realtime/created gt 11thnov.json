@@ -1,0 +1,4218 @@
+{
+    "total": 291914,
+    "max_score": 1.0,
+    "data": [
+        {
+            "lens_id": "000-108-270-092-609",
+            "jurisdiction": "CN",
+            "doc_number": "118912861",
+            "kind": "A",
+            "date_published": "2024-11-08",
+            "doc_key": "CN_118912861_A_20241108",
+            "docdb_id": 620711122,
+            "lang": "zh",
+            "biblio": {
+                "publication_reference": {
+                    "jurisdiction": "CN",
+                    "doc_number": "118912861",
+                    "kind": "A",
+                    "date": "2024-11-08"
+                },
+                "application_reference": {
+                    "jurisdiction": "CN",
+                    "doc_number": "202411405154",
+                    "kind": "A",
+                    "date": "2024-10-10"
+                },
+                "priority_claims": {
+                    "claims": [
+                        {
+                            "jurisdiction": "CN",
+                            "doc_number": "202411405154",
+                            "kind": "A",
+                            "date": "2024-10-10",
+                            "sequence": 1
+                        }
+                    ],
+                    "earliest_claim": {
+                        "date": "2024-10-10"
+                    }
+                },
+                "invention_title": [
+                    {
+                        "text": "一种用于服装布料的干燥装置",
+                        "lang": "zh"
+                    }
+                ],
+                "parties": {
+                    "applicants": [
+                        {
+                            "extracted_name": {
+                                "value": "湖南新姿服饰有限公司"
+                            }
+                        }
+                    ],
+                    "inventors": [
+                        {
+                            "sequence": 1,
+                            "extracted_name": {
+                                "value": "谭玲荣"
+                            }
+                        }
+                    ]
+                },
+                "classifications_ipcr": {
+                    "classifications": [
+                        {
+                            "symbol": "F26B13/14",
+                            "classification_value": "I",
+                            "classification_symbol_position": "F"
+                        },
+                        {
+                            "symbol": "F26B13/12",
+                            "classification_value": "I",
+                            "classification_symbol_position": "L"
+                        },
+                        {
+                            "symbol": "F26B25/00",
+                            "classification_value": "I",
+                            "classification_symbol_position": "L"
+                        },
+                        {
+                            "symbol": "F26B25/02",
+                            "classification_value": "I",
+                            "classification_symbol_position": "L"
+                        },
+                        {
+                            "symbol": "F26B25/20",
+                            "classification_value": "I",
+                            "classification_symbol_position": "L"
+                        },
+                        {
+                            "symbol": "F26B25/22",
+                            "classification_value": "I",
+                            "classification_symbol_position": "L"
+                        }
+                    ]
+                },
+                "cited_by": {}
+            },
+            "families": {
+                "simple_family": {
+                    "members": [
+                        {
+                            "document_id": {
+                                "jurisdiction": "CN",
+                                "doc_number": "118912861",
+                                "kind": "A",
+                                "date": "2024-11-08"
+                            },
+                            "lens_id": "000-108-270-092-609"
+                        }
+                    ],
+                    "size": 1
+                },
+                "extended_family": {
+                    "members": [
+                        {
+                            "document_id": {
+                                "jurisdiction": "CN",
+                                "doc_number": "118912861",
+                                "kind": "A",
+                                "date": "2024-11-08"
+                            },
+                            "lens_id": "000-108-270-092-609"
+                        }
+                    ],
+                    "size": 1
+                }
+            },
+            "legal_status": {
+                "calculation_log": [
+                    "Application Filing Date: 2024-10-10"
+                ],
+                "patent_status": "PENDING"
+            },
+            "abstract": [
+                {
+                    "text": "本发明涉及干燥装置技术领域，具体涉及一种用于服装布料的干燥装置，其包括干燥箱、输送件、检测件和调节件，检测件用于检测布料进入干燥腔内时的湿度，调节件中的第一调节单元能够根据检测件检测的数据对第一传动件的传动比进行调整，调节件中的第二调节单元用于在进料辊和出料辊之间存在转速差时调整布料在干燥腔内处于张紧状态，在进料辊和出料辊之间存在转速差时，布料可能在干燥腔内出现褶皱的状况，在第二调节单元的作用下，防止出现布料在干燥腔内出现褶皱的状况，同时，在第一调节单元和第二调节单元的共同作用下，在布料的湿度发生改变时，改变了干燥布料三个阶段中第二阶段的时长，从而确保布料干燥均匀。",
+                    "lang": "zh"
+                }
+            ],
+            "publication_type": "PATENT_APPLICATION"
+        },
+        {
+            "lens_id": "002-117-894-092-508",
+            "jurisdiction": "CN",
+            "doc_number": "118908951",
+            "kind": "A",
+            "date_published": "2024-11-08",
+            "doc_key": "CN_118908951_A_20241108",
+            "docdb_id": 620680975,
+            "lang": "zh",
+            "biblio": {
+                "publication_reference": {
+                    "jurisdiction": "CN",
+                    "doc_number": "118908951",
+                    "kind": "A",
+                    "date": "2024-11-08"
+                },
+                "application_reference": {
+                    "jurisdiction": "CN",
+                    "doc_number": "202411172308",
+                    "kind": "A",
+                    "date": "2020-07-16"
+                },
+                "priority_claims": {
+                    "claims": [
+                        {
+                            "jurisdiction": "US",
+                            "doc_number": "201962875350",
+                            "kind": "P",
+                            "date": "2019-07-17",
+                            "sequence": 1
+                        },
+                        {
+                            "jurisdiction": "CN",
+                            "doc_number": "202080059660",
+                            "kind": "A",
+                            "date": "2020-07-16",
+                            "sequence": 2
+                        },
+                        {
+                            "jurisdiction": "US",
+                            "doc_number": "2020042387",
+                            "kind": "W",
+                            "date": "2020-07-16",
+                            "sequence": 3
+                        }
+                    ],
+                    "earliest_claim": {
+                        "date": "2019-07-17"
+                    }
+                },
+                "invention_title": [
+                    {
+                        "text": "多晶型物",
+                        "lang": "zh"
+                    }
+                ],
+                "parties": {
+                    "applicants": [
+                        {
+                            "extracted_name": {
+                                "value": "赛特凯恩蒂克公司"
+                            }
+                        }
+                    ],
+                    "inventors": [
+                        {
+                            "sequence": 1,
+                            "extracted_name": {
+                                "value": "N·汤姆"
+                            }
+                        },
+                        {
+                            "sequence": 2,
+                            "extracted_name": {
+                                "value": "M·普费弗"
+                            }
+                        },
+                        {
+                            "sequence": 3,
+                            "extracted_name": {
+                                "value": "D·安德森"
+                            }
+                        },
+                        {
+                            "sequence": 4,
+                            "extracted_name": {
+                                "value": "高琦"
+                            }
+                        }
+                    ]
+                },
+                "classifications_ipcr": {
+                    "classifications": [
+                        {
+                            "symbol": "C07D413/12",
+                            "classification_value": "I",
+                            "classification_symbol_position": "F"
+                        },
+                        {
+                            "symbol": "A61P9/00",
+                            "classification_value": "I",
+                            "classification_symbol_position": "L"
+                        }
+                    ]
+                },
+                "classifications_cpc": {
+                    "classifications": [
+                        {
+                            "symbol": "C07D413/12",
+                            "classification_value": "I",
+                            "classification_symbol_position": "F"
+                        },
+                        {
+                            "symbol": "A61P9/04",
+                            "classification_value": "I",
+                            "classification_symbol_position": "L"
+                        },
+                        {
+                            "symbol": "C07B2200/13",
+                            "classification_value": "A",
+                            "classification_symbol_position": "L"
+                        },
+                        {
+                            "symbol": "A61P9/04",
+                            "classification_value": "I",
+                            "classification_symbol_position": "F"
+                        },
+                        {
+                            "symbol": "C07D413/12",
+                            "classification_value": "I",
+                            "classification_symbol_position": "L"
+                        },
+                        {
+                            "symbol": "A61P9/04",
+                            "classification_value": "I",
+                            "classification_symbol_position": "F"
+                        },
+                        {
+                            "symbol": "C07D413/12",
+                            "classification_value": "I",
+                            "classification_symbol_position": "L"
+                        },
+                        {
+                            "symbol": "C07D413/12",
+                            "classification_value": "I",
+                            "classification_symbol_position": "F"
+                        },
+                        {
+                            "symbol": "A61K31/4245",
+                            "classification_value": "I",
+                            "classification_symbol_position": "L"
+                        },
+                        {
+                            "symbol": "A61P9/00",
+                            "classification_value": "I",
+                            "classification_symbol_position": "L"
+                        },
+                        {
+                            "symbol": "A61P9/04",
+                            "classification_value": "I",
+                            "classification_symbol_position": "L"
+                        },
+                        {
+                            "symbol": "C07B2200/13",
+                            "classification_value": "A",
+                            "classification_symbol_position": "L"
+                        },
+                        {
+                            "symbol": "C07B2200/13",
+                            "classification_value": "A",
+                            "classification_symbol_position": "L"
+                        },
+                        {
+                            "symbol": "C07D413/12",
+                            "classification_value": "I",
+                            "classification_symbol_position": "F"
+                        }
+                    ]
+                },
+                "cited_by": {}
+            },
+            "families": {
+                "simple_family": {
+                    "members": [
+                        {
+                            "document_id": {
+                                "jurisdiction": "CN",
+                                "doc_number": "118908951",
+                                "kind": "A",
+                                "date": "2024-11-08"
+                            },
+                            "lens_id": "002-117-894-092-508"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "EP",
+                                "doc_number": "3999180",
+                                "kind": "B1",
+                                "date": "2024-05-08"
+                            },
+                            "lens_id": "019-606-532-017-054"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "CA",
+                                "doc_number": "3144975",
+                                "kind": "A1",
+                                "date": "2021-01-21"
+                            },
+                            "lens_id": "041-233-738-921-688"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "WO",
+                                "doc_number": "2021011807",
+                                "kind": "A1",
+                                "date": "2021-01-21"
+                            },
+                            "lens_id": "173-277-700-157-937"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "CN",
+                                "doc_number": "114555590",
+                                "kind": "A",
+                                "date": "2022-05-27"
+                            },
+                            "lens_id": "072-160-499-924-979"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "ES",
+                                "doc_number": "2980885",
+                                "kind": "T3",
+                                "date": "2024-10-03"
+                            },
+                            "lens_id": "004-783-005-971-340"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "FI",
+                                "doc_number": "3999180",
+                                "kind": "T3",
+                                "date": "2024-06-18"
+                            },
+                            "lens_id": "091-839-412-468-836"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "PT",
+                                "doc_number": "3999180",
+                                "kind": "T",
+                                "date": "2024-06-25"
+                            },
+                            "lens_id": "197-909-043-383-590"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "EP",
+                                "doc_number": "3999180",
+                                "kind": "A1",
+                                "date": "2022-05-25"
+                            },
+                            "lens_id": "107-960-298-781-645"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "RS",
+                                "doc_number": "65611",
+                                "kind": "B1",
+                                "date": "2024-07-31"
+                            },
+                            "lens_id": "120-799-362-153-735"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "CL",
+                                "doc_number": "2022000054",
+                                "kind": "A1",
+                                "date": "2022-10-07"
+                            },
+                            "lens_id": "059-183-529-186-729"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "US",
+                                "doc_number": "20220315571",
+                                "kind": "A1",
+                                "date": "2022-10-06"
+                            },
+                            "lens_id": "040-243-476-755-888"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "LT",
+                                "doc_number": "3999180",
+                                "kind": "T",
+                                "date": "2024-08-26"
+                            },
+                            "lens_id": "151-472-231-086-958"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "HR",
+                                "doc_number": "P20240713",
+                                "kind": "T1",
+                                "date": "2024-09-13"
+                            },
+                            "lens_id": "170-679-673-594-965"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "AU",
+                                "doc_number": "2020313965",
+                                "kind": "A1",
+                                "date": "2022-03-03"
+                            },
+                            "lens_id": "092-905-265-867-739"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "KR",
+                                "doc_number": "20220084008",
+                                "kind": "A",
+                                "date": "2022-06-21"
+                            },
+                            "lens_id": "087-898-172-685-836"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "MX",
+                                "doc_number": "2022000504",
+                                "kind": "A",
+                                "date": "2022-02-10"
+                            },
+                            "lens_id": "058-473-761-821-917"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "PL",
+                                "doc_number": "3999180",
+                                "kind": "T3",
+                                "date": "2024-09-23"
+                            },
+                            "lens_id": "174-915-339-975-807"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "IL",
+                                "doc_number": "289875",
+                                "kind": "A",
+                                "date": "2022-03-01"
+                            },
+                            "lens_id": "035-852-132-515-058"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "BR",
+                                "doc_number": "112022000494",
+                                "kind": "A2",
+                                "date": "2022-03-03"
+                            },
+                            "lens_id": "104-284-329-955-987"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "HU",
+                                "doc_number": "E066891",
+                                "kind": "T2",
+                                "date": "2024-09-28"
+                            },
+                            "lens_id": "056-330-629-819-35X"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "DK",
+                                "doc_number": "3999180",
+                                "kind": "T3",
+                                "date": "2024-05-21"
+                            },
+                            "lens_id": "008-689-112-642-707"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "JP",
+                                "doc_number": "2022540668",
+                                "kind": "A",
+                                "date": "2022-09-16"
+                            },
+                            "lens_id": "102-191-234-076-503"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "TW",
+                                "doc_number": "202116763",
+                                "kind": "A",
+                                "date": "2021-05-01"
+                            },
+                            "lens_id": "075-659-705-073-741"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "CN",
+                                "doc_number": "114555590",
+                                "kind": "B",
+                                "date": "2024-09-10"
+                            },
+                            "lens_id": "134-708-240-860-329"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "SI",
+                                "doc_number": "3999180",
+                                "kind": "T1",
+                                "date": "2024-07-31"
+                            },
+                            "lens_id": "109-774-450-545-131"
+                        }
+                    ],
+                    "size": 26
+                },
+                "extended_family": {
+                    "members": [
+                        {
+                            "document_id": {
+                                "jurisdiction": "CN",
+                                "doc_number": "118908951",
+                                "kind": "A",
+                                "date": "2024-11-08"
+                            },
+                            "lens_id": "002-117-894-092-508"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "EP",
+                                "doc_number": "3999180",
+                                "kind": "B1",
+                                "date": "2024-05-08"
+                            },
+                            "lens_id": "019-606-532-017-054"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "CA",
+                                "doc_number": "3144975",
+                                "kind": "A1",
+                                "date": "2021-01-21"
+                            },
+                            "lens_id": "041-233-738-921-688"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "WO",
+                                "doc_number": "2021011807",
+                                "kind": "A1",
+                                "date": "2021-01-21"
+                            },
+                            "lens_id": "173-277-700-157-937"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "CN",
+                                "doc_number": "114555590",
+                                "kind": "A",
+                                "date": "2022-05-27"
+                            },
+                            "lens_id": "072-160-499-924-979"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "ES",
+                                "doc_number": "2980885",
+                                "kind": "T3",
+                                "date": "2024-10-03"
+                            },
+                            "lens_id": "004-783-005-971-340"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "FI",
+                                "doc_number": "3999180",
+                                "kind": "T3",
+                                "date": "2024-06-18"
+                            },
+                            "lens_id": "091-839-412-468-836"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "PT",
+                                "doc_number": "3999180",
+                                "kind": "T",
+                                "date": "2024-06-25"
+                            },
+                            "lens_id": "197-909-043-383-590"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "EP",
+                                "doc_number": "3999180",
+                                "kind": "A1",
+                                "date": "2022-05-25"
+                            },
+                            "lens_id": "107-960-298-781-645"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "RS",
+                                "doc_number": "65611",
+                                "kind": "B1",
+                                "date": "2024-07-31"
+                            },
+                            "lens_id": "120-799-362-153-735"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "CL",
+                                "doc_number": "2022000054",
+                                "kind": "A1",
+                                "date": "2022-10-07"
+                            },
+                            "lens_id": "059-183-529-186-729"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "US",
+                                "doc_number": "20220315571",
+                                "kind": "A1",
+                                "date": "2022-10-06"
+                            },
+                            "lens_id": "040-243-476-755-888"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "LT",
+                                "doc_number": "3999180",
+                                "kind": "T",
+                                "date": "2024-08-26"
+                            },
+                            "lens_id": "151-472-231-086-958"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "HR",
+                                "doc_number": "P20240713",
+                                "kind": "T1",
+                                "date": "2024-09-13"
+                            },
+                            "lens_id": "170-679-673-594-965"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "AU",
+                                "doc_number": "2020313965",
+                                "kind": "A1",
+                                "date": "2022-03-03"
+                            },
+                            "lens_id": "092-905-265-867-739"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "KR",
+                                "doc_number": "20220084008",
+                                "kind": "A",
+                                "date": "2022-06-21"
+                            },
+                            "lens_id": "087-898-172-685-836"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "MX",
+                                "doc_number": "2022000504",
+                                "kind": "A",
+                                "date": "2022-02-10"
+                            },
+                            "lens_id": "058-473-761-821-917"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "PL",
+                                "doc_number": "3999180",
+                                "kind": "T3",
+                                "date": "2024-09-23"
+                            },
+                            "lens_id": "174-915-339-975-807"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "IL",
+                                "doc_number": "289875",
+                                "kind": "A",
+                                "date": "2022-03-01"
+                            },
+                            "lens_id": "035-852-132-515-058"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "BR",
+                                "doc_number": "112022000494",
+                                "kind": "A2",
+                                "date": "2022-03-03"
+                            },
+                            "lens_id": "104-284-329-955-987"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "HU",
+                                "doc_number": "E066891",
+                                "kind": "T2",
+                                "date": "2024-09-28"
+                            },
+                            "lens_id": "056-330-629-819-35X"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "DK",
+                                "doc_number": "3999180",
+                                "kind": "T3",
+                                "date": "2024-05-21"
+                            },
+                            "lens_id": "008-689-112-642-707"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "JP",
+                                "doc_number": "2022540668",
+                                "kind": "A",
+                                "date": "2022-09-16"
+                            },
+                            "lens_id": "102-191-234-076-503"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "TW",
+                                "doc_number": "202116763",
+                                "kind": "A",
+                                "date": "2021-05-01"
+                            },
+                            "lens_id": "075-659-705-073-741"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "CN",
+                                "doc_number": "114555590",
+                                "kind": "B",
+                                "date": "2024-09-10"
+                            },
+                            "lens_id": "134-708-240-860-329"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "SI",
+                                "doc_number": "3999180",
+                                "kind": "T1",
+                                "date": "2024-07-31"
+                            },
+                            "lens_id": "109-774-450-545-131"
+                        }
+                    ],
+                    "size": 26
+                }
+            },
+            "legal_status": {
+                "calculation_log": [
+                    "Application Filing Date: 2020-07-16",
+                    "Earliest Filing Date: 2020-07-16 priority to US2020042387W"
+                ],
+                "patent_status": "PENDING"
+            },
+            "abstract": [
+                {
+                    "text": "本文中提供(R)‑N‑(5‑(5‑乙基‑1,2,4‑噁二唑‑3‑基)‑2,3‑二氢‑1H‑茚‑1‑基)‑1‑甲基‑1H‑吡唑‑4‑甲酰胺的多晶型物、其组合物、其制备方法及其使用方法。",
+                    "lang": "zh"
+                }
+            ],
+            "publication_type": "PATENT_APPLICATION"
+        },
+        {
+            "lens_id": "002-256-999-824-357",
+            "jurisdiction": "CN",
+            "doc_number": "116836262",
+            "kind": "B",
+            "date_published": "2024-11-05",
+            "doc_key": "CN_116836262_B_20241105",
+            "docdb_id": 620512790,
+            "lang": "zh",
+            "biblio": {
+                "publication_reference": {
+                    "jurisdiction": "CN",
+                    "doc_number": "116836262",
+                    "kind": "B",
+                    "date": "2024-11-05"
+                },
+                "application_reference": {
+                    "jurisdiction": "CN",
+                    "doc_number": "202310232836",
+                    "kind": "A",
+                    "date": "2023-03-13"
+                },
+                "priority_claims": {
+                    "claims": [
+                        {
+                            "jurisdiction": "CN",
+                            "doc_number": "202310232836",
+                            "kind": "A",
+                            "date": "2023-03-13",
+                            "sequence": 1
+                        }
+                    ],
+                    "earliest_claim": {
+                        "date": "2023-03-13"
+                    }
+                },
+                "invention_title": [
+                    {
+                        "text": "一种重组类胶原蛋白的水解肽、其制备方法及其用途",
+                        "lang": "zh"
+                    }
+                ],
+                "parties": {
+                    "applicants": [
+                        {
+                            "extracted_name": {
+                                "value": "南京迪诺薇华生物科技有限公司"
+                            }
+                        },
+                        {
+                            "extracted_name": {
+                                "value": "南京诺唯赞生物科技股份有限公司"
+                            }
+                        }
+                    ],
+                    "inventors": [
+                        {
+                            "sequence": 1,
+                            "extracted_name": {
+                                "value": "聂俊伟"
+                            }
+                        },
+                        {
+                            "sequence": 2,
+                            "extracted_name": {
+                                "value": "谢佳荣"
+                            }
+                        },
+                        {
+                            "sequence": 3,
+                            "extracted_name": {
+                                "value": "孙璞"
+                            }
+                        },
+                        {
+                            "sequence": 4,
+                            "extracted_name": {
+                                "value": "曹泽彧"
+                            }
+                        },
+                        {
+                            "sequence": 5,
+                            "extracted_name": {
+                                "value": "李治林"
+                            }
+                        },
+                        {
+                            "sequence": 6,
+                            "extracted_name": {
+                                "value": "朱莉"
+                            }
+                        },
+                        {
+                            "sequence": 7,
+                            "extracted_name": {
+                                "value": "闻鹏"
+                            }
+                        },
+                        {
+                            "sequence": 8,
+                            "extracted_name": {
+                                "value": "冯速"
+                            }
+                        }
+                    ]
+                },
+                "classifications_ipcr": {
+                    "classifications": [
+                        {
+                            "symbol": "C07K14/78",
+                            "classification_value": "I",
+                            "classification_symbol_position": "F"
+                        },
+                        {
+                            "symbol": "A23L33/18",
+                            "classification_value": "I",
+                            "classification_symbol_position": "L"
+                        },
+                        {
+                            "symbol": "A61K8/65",
+                            "classification_value": "I",
+                            "classification_symbol_position": "L"
+                        },
+                        {
+                            "symbol": "A61Q19/00",
+                            "classification_value": "I",
+                            "classification_symbol_position": "L"
+                        },
+                        {
+                            "symbol": "A61Q19/08",
+                            "classification_value": "I",
+                            "classification_symbol_position": "L"
+                        },
+                        {
+                            "symbol": "C12N15/12",
+                            "classification_value": "I",
+                            "classification_symbol_position": "L"
+                        },
+                        {
+                            "symbol": "C12P21/06",
+                            "classification_value": "I",
+                            "classification_symbol_position": "L"
+                        }
+                    ]
+                },
+                "classifications_cpc": {
+                    "classifications": [
+                        {
+                            "symbol": "A61K8/65",
+                            "classification_value": "I",
+                            "classification_symbol_position": "F"
+                        },
+                        {
+                            "symbol": "A61Q19/08",
+                            "classification_value": "I",
+                            "classification_symbol_position": "L"
+                        },
+                        {
+                            "symbol": "A61Q19/00",
+                            "classification_value": "I",
+                            "classification_symbol_position": "L"
+                        },
+                        {
+                            "symbol": "A23L33/18",
+                            "classification_value": "I",
+                            "classification_symbol_position": "L"
+                        },
+                        {
+                            "symbol": "C07K14/78",
+                            "classification_value": "I",
+                            "classification_symbol_position": "L"
+                        },
+                        {
+                            "symbol": "C12P21/06",
+                            "classification_value": "I",
+                            "classification_symbol_position": "L"
+                        },
+                        {
+                            "symbol": "A61K2800/805",
+                            "classification_value": "A",
+                            "classification_symbol_position": "L"
+                        },
+                        {
+                            "symbol": "A23V2002/00",
+                            "classification_value": "A",
+                            "classification_symbol_position": "L"
+                        }
+                    ]
+                },
+                "cited_by": {}
+            },
+            "families": {
+                "simple_family": {
+                    "members": [
+                        {
+                            "document_id": {
+                                "jurisdiction": "CN",
+                                "doc_number": "116836262",
+                                "kind": "B",
+                                "date": "2024-11-05"
+                            },
+                            "lens_id": "002-256-999-824-357"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "CN",
+                                "doc_number": "116836262",
+                                "kind": "A",
+                                "date": "2023-10-03"
+                            },
+                            "lens_id": "044-780-068-989-879"
+                        }
+                    ],
+                    "size": 2
+                },
+                "extended_family": {
+                    "members": [
+                        {
+                            "document_id": {
+                                "jurisdiction": "CN",
+                                "doc_number": "116836262",
+                                "kind": "B",
+                                "date": "2024-11-05"
+                            },
+                            "lens_id": "002-256-999-824-357"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "CN",
+                                "doc_number": "116836262",
+                                "kind": "A",
+                                "date": "2023-10-03"
+                            },
+                            "lens_id": "044-780-068-989-879"
+                        }
+                    ],
+                    "size": 2
+                }
+            },
+            "legal_status": {
+                "calculation_log": [
+                    "Application Filing Date: 2023-03-13"
+                ],
+                "patent_status": "PENDING"
+            },
+            "abstract": [
+                {
+                    "text": "本公开提供了一种重组类胶原蛋白的水解肽及其应用，本公开的水解肽是氨基酸序列如SEQ ID NO:1所示的重组类胶原蛋白的水解肽，该水解肽能够促进细胞迁移和黏附，还具有修复、抗氧化、补水保湿和抗衰的功效。将水解肽与适宜的原、辅料配合使用时，可制成保健品、化妆品、医美产品和生物医学产品。",
+                    "lang": "zh"
+                }
+            ],
+            "publication_type": "GRANTED_PATENT"
+        },
+        {
+            "lens_id": "002-455-551-770-17X",
+            "jurisdiction": "CN",
+            "doc_number": "118894584",
+            "kind": "A",
+            "date_published": "2024-11-05",
+            "doc_key": "CN_118894584_A_20241105",
+            "docdb_id": 620503094,
+            "lang": "zh",
+            "biblio": {
+                "publication_reference": {
+                    "jurisdiction": "CN",
+                    "doc_number": "118894584",
+                    "kind": "A",
+                    "date": "2024-11-05"
+                },
+                "application_reference": {
+                    "jurisdiction": "CN",
+                    "doc_number": "202411101481",
+                    "kind": "A",
+                    "date": "2024-08-12"
+                },
+                "priority_claims": {
+                    "claims": [
+                        {
+                            "jurisdiction": "CN",
+                            "doc_number": "202411101481",
+                            "kind": "A",
+                            "date": "2024-08-12",
+                            "sequence": 1
+                        }
+                    ],
+                    "earliest_claim": {
+                        "date": "2024-08-12"
+                    }
+                },
+                "invention_title": [
+                    {
+                        "text": "一种去除伴生放射性废水中放射性元素的装置及方法",
+                        "lang": "zh"
+                    }
+                ],
+                "parties": {
+                    "applicants": [
+                        {
+                            "extracted_name": {
+                                "value": "中科核润（陕西）生态环境有限公司"
+                            }
+                        }
+                    ],
+                    "inventors": [
+                        {
+                            "sequence": 1,
+                            "extracted_name": {
+                                "value": "张亚强"
+                            }
+                        },
+                        {
+                            "sequence": 2,
+                            "extracted_name": {
+                                "value": "张志鹏"
+                            }
+                        },
+                        {
+                            "sequence": 3,
+                            "extracted_name": {
+                                "value": "刘建辉"
+                            }
+                        },
+                        {
+                            "sequence": 4,
+                            "extracted_name": {
+                                "value": "程乐富"
+                            }
+                        },
+                        {
+                            "sequence": 5,
+                            "extracted_name": {
+                                "value": "张玉婷"
+                            }
+                        },
+                        {
+                            "sequence": 6,
+                            "extracted_name": {
+                                "value": "靳艳文"
+                            }
+                        },
+                        {
+                            "sequence": 7,
+                            "extracted_name": {
+                                "value": "武小娇"
+                            }
+                        },
+                        {
+                            "sequence": 8,
+                            "extracted_name": {
+                                "value": "徐娅芳"
+                            }
+                        }
+                    ]
+                },
+                "classifications_ipcr": {
+                    "classifications": [
+                        {
+                            "symbol": "C02F1/58",
+                            "classification_value": "I",
+                            "classification_symbol_position": "F"
+                        },
+                        {
+                            "symbol": "B01D35/16",
+                            "classification_value": "I",
+                            "classification_symbol_position": "L"
+                        },
+                        {
+                            "symbol": "B01D36/04",
+                            "classification_value": "I",
+                            "classification_symbol_position": "L"
+                        }
+                    ]
+                },
+                "cited_by": {}
+            },
+            "families": {
+                "simple_family": {
+                    "members": [
+                        {
+                            "document_id": {
+                                "jurisdiction": "CN",
+                                "doc_number": "118894584",
+                                "kind": "A",
+                                "date": "2024-11-05"
+                            },
+                            "lens_id": "002-455-551-770-17X"
+                        }
+                    ],
+                    "size": 1
+                },
+                "extended_family": {
+                    "members": [
+                        {
+                            "document_id": {
+                                "jurisdiction": "CN",
+                                "doc_number": "118894584",
+                                "kind": "A",
+                                "date": "2024-11-05"
+                            },
+                            "lens_id": "002-455-551-770-17X"
+                        }
+                    ],
+                    "size": 1
+                }
+            },
+            "legal_status": {
+                "calculation_log": [
+                    "Application Filing Date: 2024-08-12"
+                ],
+                "patent_status": "PENDING"
+            },
+            "abstract": [
+                {
+                    "text": "本发明公开了一种去除伴生放射性废水中放射性元素的装置及方法，包括反应器内筒，所述反应器内筒设置在反应器外筒的内腔中，所述反应器外筒与所述反应器内筒的中轴位于同一线，所述反应器外筒顶部设置有晶种装填口，所述晶种装填口与所述反应器内筒顶部连通，所述反应器内筒底部构造有循环再生反应器，所述循环再生反应器上设置有若干循环进水口，所述循环再生反应器底部开设有排晶口，所述排晶口伸出所述反应器外筒底部，循环再生反应器上方两侧设置进水口与所述进药口，所述进水口与所述进药口与所述循环再生反应器连通，反应器外筒上侧设置出水口。本发明使得废水中放射性元素能够高效去除。",
+                    "lang": "zh"
+                }
+            ],
+            "publication_type": "PATENT_APPLICATION"
+        },
+        {
+            "lens_id": "002-516-017-008-325",
+            "jurisdiction": "CN",
+            "doc_number": "221955034",
+            "kind": "U",
+            "date_published": "2024-11-05",
+            "doc_key": "CN_221955034_U_20241105",
+            "docdb_id": 620519617,
+            "lang": "zh",
+            "biblio": {
+                "publication_reference": {
+                    "jurisdiction": "CN",
+                    "doc_number": "221955034",
+                    "kind": "U",
+                    "date": "2024-11-05"
+                },
+                "application_reference": {
+                    "jurisdiction": "CN",
+                    "doc_number": "202420695261",
+                    "kind": "U",
+                    "date": "2024-04-07"
+                },
+                "priority_claims": {
+                    "claims": [
+                        {
+                            "jurisdiction": "CN",
+                            "doc_number": "202420695261",
+                            "kind": "U",
+                            "date": "2024-04-07",
+                            "sequence": 1
+                        }
+                    ],
+                    "earliest_claim": {
+                        "date": "2024-04-07"
+                    }
+                },
+                "invention_title": [
+                    {
+                        "text": "一种蜂蜜加工用储存罐",
+                        "lang": "zh"
+                    }
+                ],
+                "parties": {
+                    "applicants": [
+                        {
+                            "extracted_name": {
+                                "value": "凤阳县兰花蜂业有限公司"
+                            }
+                        }
+                    ],
+                    "inventors": [
+                        {
+                            "sequence": 1,
+                            "extracted_name": {
+                                "value": "朱玉洁"
+                            }
+                        },
+                        {
+                            "sequence": 2,
+                            "extracted_name": {
+                                "value": "朱红岩"
+                            }
+                        },
+                        {
+                            "sequence": 3,
+                            "extracted_name": {
+                                "value": "谢学武"
+                            }
+                        },
+                        {
+                            "sequence": 4,
+                            "extracted_name": {
+                                "value": "张海霞"
+                            }
+                        },
+                        {
+                            "sequence": 5,
+                            "extracted_name": {
+                                "value": "朱春亮"
+                            }
+                        },
+                        {
+                            "sequence": 6,
+                            "extracted_name": {
+                                "value": "朱正武"
+                            }
+                        }
+                    ]
+                },
+                "classifications_ipcr": {
+                    "classifications": [
+                        {
+                            "symbol": "B65D88/74",
+                            "classification_value": "I",
+                            "classification_symbol_position": "F"
+                        }
+                    ]
+                },
+                "cited_by": {}
+            },
+            "families": {
+                "simple_family": {
+                    "members": [
+                        {
+                            "document_id": {
+                                "jurisdiction": "CN",
+                                "doc_number": "221955034",
+                                "kind": "U",
+                                "date": "2024-11-05"
+                            },
+                            "lens_id": "002-516-017-008-325"
+                        }
+                    ],
+                    "size": 1
+                },
+                "extended_family": {
+                    "members": [
+                        {
+                            "document_id": {
+                                "jurisdiction": "CN",
+                                "doc_number": "221955034",
+                                "kind": "U",
+                                "date": "2024-11-05"
+                            },
+                            "lens_id": "002-516-017-008-325"
+                        }
+                    ],
+                    "size": 1
+                }
+            },
+            "legal_status": {
+                "granted": true,
+                "grant_date": "2024-11-05",
+                "anticipated_term_date": "2034-04-07",
+                "calculation_log": [
+                    "Application Filing Date: 2024-04-07",
+                    "Publication of CN221955034U [2024-11-05]",
+                    "Granted Date: 2024-11-05",
+                    "Anticipated Termination Date: 2034-04-07"
+                ],
+                "patent_status": "ACTIVE"
+            },
+            "abstract": [
+                {
+                    "text": "本实用新型公开了一种蜂蜜加工用储存罐，包括罐体和罐盖，所述罐体侧面连接有传动轴，传动轴贯穿支架后与第一电机传动连接，所述罐盖的侧面设置有限位块，支架侧面设置有限位机构，限位机构包括插杆和拉板，且插杆上套设有弹簧，所述罐盖内腔的安装座上安装有第二电机，所述第二电机底部连接有搅拌轴，搅拌轴侧面安装有多个搅拌片，且搅拌轴的底部设置有锯齿板。本实用新型结构设计科学合理，通过在罐体的外部设置传动轴和第一电机配合使用，可以持续带动罐体进行旋转，从而进一步提升了罐体内部蜂蜜的均匀性，同时通过在罐体内壁设置电阻丝能够对罐体进行加热，进而可以保持罐体内部的蜂蜜处于合适的温度范围。",
+                    "lang": "zh"
+                }
+            ],
+            "publication_type": "LIMITED_PATENT"
+        },
+        {
+            "lens_id": "002-522-275-175-24X",
+            "jurisdiction": "CN",
+            "doc_number": "221970210",
+            "kind": "U",
+            "date_published": "2024-11-08",
+            "doc_key": "CN_221970210_U_20241108",
+            "docdb_id": 620758417,
+            "lang": "zh",
+            "biblio": {
+                "publication_reference": {
+                    "jurisdiction": "CN",
+                    "doc_number": "221970210",
+                    "kind": "U",
+                    "date": "2024-11-08"
+                },
+                "application_reference": {
+                    "jurisdiction": "CN",
+                    "doc_number": "202420359458",
+                    "kind": "U",
+                    "date": "2024-02-27"
+                },
+                "priority_claims": {
+                    "claims": [
+                        {
+                            "jurisdiction": "CN",
+                            "doc_number": "202420359458",
+                            "kind": "U",
+                            "date": "2024-02-27",
+                            "sequence": 1
+                        }
+                    ],
+                    "earliest_claim": {
+                        "date": "2024-02-27"
+                    }
+                },
+                "invention_title": [
+                    {
+                        "text": "一种烟草存储箱柜遮盖装置",
+                        "lang": "zh"
+                    }
+                ],
+                "parties": {
+                    "applicants": [
+                        {
+                            "extracted_name": {
+                                "value": "红塔烟草（集团）有限责任公司"
+                            }
+                        }
+                    ],
+                    "inventors": [
+                        {
+                            "sequence": 1,
+                            "extracted_name": {
+                                "value": "赵建勇"
+                            }
+                        },
+                        {
+                            "sequence": 2,
+                            "extracted_name": {
+                                "value": "杨鹏"
+                            }
+                        },
+                        {
+                            "sequence": 3,
+                            "extracted_name": {
+                                "value": "杨鸿杰"
+                            }
+                        }
+                    ]
+                },
+                "classifications_ipcr": {
+                    "classifications": [
+                        {
+                            "symbol": "B65D55/02",
+                            "classification_value": "I",
+                            "classification_symbol_position": "F"
+                        },
+                        {
+                            "symbol": "A24B1/02",
+                            "classification_value": "I",
+                            "classification_symbol_position": "L"
+                        }
+                    ]
+                },
+                "cited_by": {}
+            },
+            "families": {
+                "simple_family": {
+                    "members": [
+                        {
+                            "document_id": {
+                                "jurisdiction": "CN",
+                                "doc_number": "221970210",
+                                "kind": "U",
+                                "date": "2024-11-08"
+                            },
+                            "lens_id": "002-522-275-175-24X"
+                        }
+                    ],
+                    "size": 1
+                },
+                "extended_family": {
+                    "members": [
+                        {
+                            "document_id": {
+                                "jurisdiction": "CN",
+                                "doc_number": "221970210",
+                                "kind": "U",
+                                "date": "2024-11-08"
+                            },
+                            "lens_id": "002-522-275-175-24X"
+                        }
+                    ],
+                    "size": 1
+                }
+            },
+            "legal_status": {
+                "granted": true,
+                "grant_date": "2024-11-08",
+                "anticipated_term_date": "2034-02-27",
+                "calculation_log": [
+                    "Application Filing Date: 2024-02-27",
+                    "Publication of CN221970210U [2024-11-08]",
+                    "Granted Date: 2024-11-08",
+                    "Anticipated Termination Date: 2034-02-27"
+                ],
+                "patent_status": "ACTIVE"
+            },
+            "abstract": [
+                {
+                    "text": "本实用新型公开了一种烟草存储箱柜遮盖装置，在箱柜的长度方向的端头外侧设置第一侧边定位架和第二侧边定位架，所述第二侧边定位架设置在卷带系统的箱壁上，在卷带系统下方的箱柜的外壁上设置磁悬浮控制器，在箱柜长度方向的柜沿上设置磁悬浮下导轨连接至磁悬浮控制器，在磁悬浮下导轨的上方悬设磁悬浮上导轨连接至磁悬浮控制器，磁悬浮下导轨与磁悬浮上导轨通过磁悬浮控制器通电产生相互磁吸或磁斥，所述磁悬浮上导轨滑接在第一侧边定位架和第二侧边定位架内；解决了现有技术中现有的遮盖装置遮盖密封性不好，且采用重物的重压与提起需要设备驱动，设备的支撑支架就会影响到遮盖装置的运行，不方便遮盖装置的正常运行的问题。",
+                    "lang": "zh"
+                }
+            ],
+            "publication_type": "LIMITED_PATENT"
+        },
+        {
+            "lens_id": "003-318-935-554-260",
+            "jurisdiction": "KR",
+            "doc_number": "102719998",
+            "kind": "B1",
+            "date_published": "2024-10-18",
+            "doc_key": "KR_102719998_B1_20241018",
+            "docdb_id": 620088843,
+            "lang": "ko",
+            "biblio": {
+                "publication_reference": {
+                    "jurisdiction": "KR",
+                    "doc_number": "102719998",
+                    "kind": "B1",
+                    "date": "2024-10-18"
+                },
+                "application_reference": {
+                    "jurisdiction": "KR",
+                    "doc_number": "20237042933",
+                    "kind": "A",
+                    "date": "2021-11-10"
+                },
+                "priority_claims": {
+                    "claims": [
+                        {
+                            "jurisdiction": "JP",
+                            "doc_number": "2021041263",
+                            "kind": "W",
+                            "date": "2021-11-10",
+                            "sequence": 1
+                        }
+                    ],
+                    "earliest_claim": {
+                        "date": "2021-11-10"
+                    }
+                },
+                "invention_title": [
+                    {
+                        "text": "SoT 모듈",
+                        "lang": "ko"
+                    }
+                ],
+                "parties": {
+                    "applicants": [
+                        {
+                            "extracted_name": {
+                                "value": "가부시키가이샤 미치히로"
+                            }
+                        }
+                    ],
+                    "inventors": [
+                        {
+                            "sequence": 1,
+                            "extracted_name": {
+                                "value": "김 경수"
+                            }
+                        },
+                        {
+                            "sequence": 2,
+                            "extracted_name": {
+                                "value": "오야카와 준"
+                            }
+                        },
+                        {
+                            "sequence": 3,
+                            "extracted_name": {
+                                "value": "야기 미치히로"
+                            }
+                        },
+                        {
+                            "sequence": 4,
+                            "extracted_name": {
+                                "value": "나카무라 시노부"
+                            }
+                        }
+                    ]
+                },
+                "classifications_ipcr": {
+                    "classifications": [
+                        {
+                            "symbol": "H04R17/00",
+                            "classification_value": "I",
+                            "classification_symbol_position": "F"
+                        },
+                        {
+                            "symbol": "G10K9/122",
+                            "classification_value": "I",
+                            "classification_symbol_position": "L"
+                        },
+                        {
+                            "symbol": "H04R1/02",
+                            "classification_value": "I",
+                            "classification_symbol_position": "L"
+                        }
+                    ]
+                },
+                "classifications_cpc": {
+                    "classifications": [
+                        {
+                            "symbol": "G10K9/122",
+                            "classification_value": "I",
+                            "classification_symbol_position": "F"
+                        },
+                        {
+                            "symbol": "H04R17/005",
+                            "classification_value": "I",
+                            "classification_symbol_position": "L"
+                        },
+                        {
+                            "symbol": "H04R7/045",
+                            "classification_value": "A",
+                            "classification_symbol_position": "L"
+                        },
+                        {
+                            "symbol": "H04R2440/01",
+                            "classification_value": "A",
+                            "classification_symbol_position": "L"
+                        },
+                        {
+                            "symbol": "H04R2440/05",
+                            "classification_value": "A",
+                            "classification_symbol_position": "L"
+                        },
+                        {
+                            "symbol": "H04R2499/13",
+                            "classification_value": "A",
+                            "classification_symbol_position": "L"
+                        },
+                        {
+                            "symbol": "G10K2210/105",
+                            "classification_value": "A",
+                            "classification_symbol_position": "L"
+                        },
+                        {
+                            "symbol": "G10K2210/1282",
+                            "classification_value": "A",
+                            "classification_symbol_position": "L"
+                        },
+                        {
+                            "symbol": "H04R17/00",
+                            "classification_value": "I",
+                            "classification_symbol_position": "F"
+                        },
+                        {
+                            "symbol": "G10K9/122",
+                            "classification_value": "I",
+                            "classification_symbol_position": "L"
+                        },
+                        {
+                            "symbol": "H04R1/02",
+                            "classification_value": "I",
+                            "classification_symbol_position": "L"
+                        },
+                        {
+                            "symbol": "H04R7/045",
+                            "classification_value": "I",
+                            "classification_symbol_position": "L"
+                        },
+                        {
+                            "symbol": "H04R17/00",
+                            "classification_value": "I",
+                            "classification_symbol_position": "F"
+                        },
+                        {
+                            "symbol": "H04R2440/01",
+                            "classification_value": "A",
+                            "classification_symbol_position": "L"
+                        },
+                        {
+                            "symbol": "H04R2499/13",
+                            "classification_value": "A",
+                            "classification_symbol_position": "L"
+                        }
+                    ]
+                },
+                "cited_by": {}
+            },
+            "families": {
+                "simple_family": {
+                    "members": [
+                        {
+                            "document_id": {
+                                "jurisdiction": "EP",
+                                "doc_number": "4340386",
+                                "kind": "A4",
+                                "date": "2024-07-31"
+                            },
+                            "lens_id": "168-341-264-643-666"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "KR",
+                                "doc_number": "20240007931",
+                                "kind": "A",
+                                "date": "2024-01-17"
+                            },
+                            "lens_id": "089-401-006-823-670"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "JP",
+                                "doc_number": "WO2023084623",
+                                "kind": "A1",
+                                "date": "2023-05-19"
+                            },
+                            "lens_id": "032-116-122-622-189"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "US",
+                                "doc_number": "20240284118",
+                                "kind": "A1",
+                                "date": "2024-08-22"
+                            },
+                            "lens_id": "158-122-993-607-654"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "EP",
+                                "doc_number": "4340386",
+                                "kind": "A1",
+                                "date": "2024-03-20"
+                            },
+                            "lens_id": "013-297-792-595-032"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "JP",
+                                "doc_number": "7360002",
+                                "kind": "B2",
+                                "date": "2023-10-12"
+                            },
+                            "lens_id": "004-156-420-330-628"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "CN",
+                                "doc_number": "117581565",
+                                "kind": "B",
+                                "date": "2024-06-18"
+                            },
+                            "lens_id": "091-504-323-963-697"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "KR",
+                                "doc_number": "102719998",
+                                "kind": "B1",
+                                "date": "2024-10-18"
+                            },
+                            "lens_id": "003-318-935-554-260"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "CN",
+                                "doc_number": "117581565",
+                                "kind": "A",
+                                "date": "2024-02-20"
+                            },
+                            "lens_id": "048-494-612-537-736"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "WO",
+                                "doc_number": "2023084623",
+                                "kind": "A1",
+                                "date": "2023-05-19"
+                            },
+                            "lens_id": "155-212-845-949-708"
+                        }
+                    ],
+                    "size": 10
+                },
+                "extended_family": {
+                    "members": [
+                        {
+                            "document_id": {
+                                "jurisdiction": "EP",
+                                "doc_number": "4340386",
+                                "kind": "A4",
+                                "date": "2024-07-31"
+                            },
+                            "lens_id": "168-341-264-643-666"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "KR",
+                                "doc_number": "20240007931",
+                                "kind": "A",
+                                "date": "2024-01-17"
+                            },
+                            "lens_id": "089-401-006-823-670"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "JP",
+                                "doc_number": "WO2023084623",
+                                "kind": "A1",
+                                "date": "2023-05-19"
+                            },
+                            "lens_id": "032-116-122-622-189"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "US",
+                                "doc_number": "20240284118",
+                                "kind": "A1",
+                                "date": "2024-08-22"
+                            },
+                            "lens_id": "158-122-993-607-654"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "EP",
+                                "doc_number": "4340386",
+                                "kind": "A1",
+                                "date": "2024-03-20"
+                            },
+                            "lens_id": "013-297-792-595-032"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "JP",
+                                "doc_number": "7360002",
+                                "kind": "B2",
+                                "date": "2023-10-12"
+                            },
+                            "lens_id": "004-156-420-330-628"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "CN",
+                                "doc_number": "117581565",
+                                "kind": "B",
+                                "date": "2024-06-18"
+                            },
+                            "lens_id": "091-504-323-963-697"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "KR",
+                                "doc_number": "102719998",
+                                "kind": "B1",
+                                "date": "2024-10-18"
+                            },
+                            "lens_id": "003-318-935-554-260"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "CN",
+                                "doc_number": "117581565",
+                                "kind": "A",
+                                "date": "2024-02-20"
+                            },
+                            "lens_id": "048-494-612-537-736"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "WO",
+                                "doc_number": "2023084623",
+                                "kind": "A1",
+                                "date": "2023-05-19"
+                            },
+                            "lens_id": "155-212-845-949-708"
+                        }
+                    ],
+                    "size": 10
+                }
+            },
+            "legal_status": {
+                "granted": true,
+                "grant_date": "2024-10-18",
+                "anticipated_term_date": "2041-11-10",
+                "calculation_log": [
+                    "Application Filing Date: 2021-11-10",
+                    "Earliest Filing Date: 2021-11-10 priority to JP2021041263W",
+                    "Granted Date: 2024-10-18",
+                    "Anticipated Termination Date: 2041-11-10"
+                ],
+                "patent_status": "ACTIVE"
+            },
+            "abstract": [
+                {
+                    "text": "중저음역에서 충분한 음압이 얻어져, 다양한 용도에 적용할 수 있는 SoT 모듈(100)을 제공한다. SoT 모듈(100)은, 교류 전압의 인가에 의해 굴곡 진동을 발생시키는 평판상의 압전 복합체(105)와, 일단이 압전 복합체(105)의 주면에 접착되어, 압전 복합체(105)의 진동을 전달하는 탄성체(120a, 120b)와, 탄성체(120a, 120b)의 타단에 주면이 접착된 진동판(130)을 구비하고, 압전 복합체(105)는, 직사각형 평판으로 형성된 압전 소자(110a, 110b)를 포함하고, 복수의 탄성체(120a, 120b) 사이에, 압전 복합체(105)의 무게 중심 위치가 있다.",
+                    "lang": "ko"
+                }
+            ],
+            "publication_type": "GRANTED_PATENT"
+        },
+        {
+            "lens_id": "003-706-761-730-352",
+            "jurisdiction": "TW",
+            "doc_number": "202430203",
+            "kind": "A",
+            "date_published": "2024-08-01",
+            "doc_key": "TW_202430203_A_20240801",
+            "docdb_id": 619547315,
+            "lang": "zh",
+            "biblio": {
+                "publication_reference": {
+                    "jurisdiction": "TW",
+                    "doc_number": "202430203",
+                    "kind": "A",
+                    "date": "2024-08-01"
+                },
+                "application_reference": {
+                    "jurisdiction": "TW",
+                    "doc_number": "112137716",
+                    "kind": "A",
+                    "date": "2023-10-02"
+                },
+                "priority_claims": {
+                    "claims": [
+                        {
+                            "jurisdiction": "JP",
+                            "doc_number": "2022159075",
+                            "kind": "A",
+                            "date": "2022-09-30",
+                            "sequence": 1
+                        }
+                    ],
+                    "earliest_claim": {
+                        "date": "2022-09-30"
+                    }
+                },
+                "invention_title": [
+                    {
+                        "text": "Cyclic peptide derivative composition for treating or preventing ophthalmic diseases",
+                        "lang": "en"
+                    }
+                ],
+                "parties": {
+                    "applicants": [
+                        {
+                            "residence": "JP",
+                            "extracted_name": {
+                                "value": "DKS CO LTD"
+                            }
+                        }
+                    ],
+                    "inventors": [
+                        {
+                            "residence": "JP",
+                            "sequence": 1,
+                            "extracted_name": {
+                                "value": "MATSUMOTO KOHEI"
+                            }
+                        },
+                        {
+                            "residence": "JP",
+                            "sequence": 2,
+                            "extracted_name": {
+                                "value": "ONISHI KAITO"
+                            }
+                        },
+                        {
+                            "residence": "JP",
+                            "sequence": 3,
+                            "extracted_name": {
+                                "value": "TERAGAMI KANA"
+                            }
+                        },
+                        {
+                            "residence": "JP",
+                            "sequence": 4,
+                            "extracted_name": {
+                                "value": "KARITA YUMA"
+                            }
+                        },
+                        {
+                            "residence": "JP",
+                            "sequence": 5,
+                            "extracted_name": {
+                                "value": "TANABE SHICHIDAI"
+                            }
+                        },
+                        {
+                            "residence": "JP",
+                            "sequence": 6,
+                            "extracted_name": {
+                                "value": "YASUI KOSUKE"
+                            }
+                        },
+                        {
+                            "residence": "JP",
+                            "sequence": 7,
+                            "extracted_name": {
+                                "value": "SHOSU TAKESHI"
+                            }
+                        }
+                    ]
+                },
+                "classifications_ipcr": {
+                    "classifications": [
+                        {
+                            "symbol": "A61K38/12",
+                            "classification_value": "I",
+                            "classification_symbol_position": "F"
+                        },
+                        {
+                            "symbol": "A61P27/02",
+                            "classification_value": "I",
+                            "classification_symbol_position": "L"
+                        }
+                    ]
+                },
+                "classifications_cpc": {
+                    "classifications": [
+                        {
+                            "symbol": "A61K38/12",
+                            "classification_value": "I",
+                            "classification_symbol_position": "L"
+                        },
+                        {
+                            "symbol": "A61P27/02",
+                            "classification_value": "I",
+                            "classification_symbol_position": "L"
+                        },
+                        {
+                            "symbol": "A61P27/06",
+                            "classification_value": "I",
+                            "classification_symbol_position": "L"
+                        }
+                    ]
+                },
+                "cited_by": {}
+            },
+            "families": {
+                "simple_family": {
+                    "members": [
+                        {
+                            "document_id": {
+                                "jurisdiction": "WO",
+                                "doc_number": "2024071370",
+                                "kind": "A1",
+                                "date": "2024-04-04"
+                            },
+                            "lens_id": "085-568-855-461-140"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "TW",
+                                "doc_number": "202430203",
+                                "kind": "A",
+                                "date": "2024-08-01"
+                            },
+                            "lens_id": "003-706-761-730-352"
+                        }
+                    ],
+                    "size": 2
+                },
+                "extended_family": {
+                    "members": [
+                        {
+                            "document_id": {
+                                "jurisdiction": "WO",
+                                "doc_number": "2024071370",
+                                "kind": "A1",
+                                "date": "2024-04-04"
+                            },
+                            "lens_id": "085-568-855-461-140"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "TW",
+                                "doc_number": "202430203",
+                                "kind": "A",
+                                "date": "2024-08-01"
+                            },
+                            "lens_id": "003-706-761-730-352"
+                        }
+                    ],
+                    "size": 2
+                }
+            },
+            "legal_status": {
+                "calculation_log": [
+                    "Application Filing Date: 2023-10-02"
+                ],
+                "patent_status": "PENDING"
+            },
+            "abstract": [
+                {
+                    "text": "The present disclosure provides a cyclic peptide derivative composition for treating or preventing ophthalmic diseases. The disclosure relates to a composition containing compounds or pharmaceutically acceptable salts, solvates or prodrugs thereof for treating or preventing ophthalmic diseases. More specifically, the composition of the present disclosure can treat or prevent diabetic retinopathy, glaucoma or age-related macular degeneration. The techniques provided in the present disclosure can be utilized in cyclic peptide derivatives for modulating the activity of neural cells and method for manufacturing the same.",
+                    "lang": "en"
+                }
+            ],
+            "publication_type": "PATENT_OF_ADDITION"
+        },
+        {
+            "lens_id": "003-719-932-479-047",
+            "jurisdiction": "CN",
+            "doc_number": "118920310",
+            "kind": "A",
+            "date_published": "2024-11-08",
+            "doc_key": "CN_118920310_A_20241108",
+            "docdb_id": 620712325,
+            "lang": "zh",
+            "biblio": {
+                "publication_reference": {
+                    "jurisdiction": "CN",
+                    "doc_number": "118920310",
+                    "kind": "A",
+                    "date": "2024-11-08"
+                },
+                "application_reference": {
+                    "jurisdiction": "CN",
+                    "doc_number": "202410981543",
+                    "kind": "A",
+                    "date": "2024-09-20"
+                },
+                "priority_claims": {
+                    "claims": [
+                        {
+                            "jurisdiction": "CN",
+                            "doc_number": "202410981543",
+                            "kind": "A",
+                            "date": "2024-09-20",
+                            "sequence": 1
+                        }
+                    ],
+                    "earliest_claim": {
+                        "date": "2024-09-20"
+                    }
+                },
+                "invention_title": [
+                    {
+                        "text": "一种带有可调节装配结构的配电箱",
+                        "lang": "zh"
+                    }
+                ],
+                "parties": {
+                    "applicants": [
+                        {
+                            "extracted_name": {
+                                "value": "南京信息职业技术学院"
+                            }
+                        }
+                    ],
+                    "inventors": [
+                        {
+                            "sequence": 1,
+                            "extracted_name": {
+                                "value": "李建林"
+                            }
+                        }
+                    ]
+                },
+                "classifications_ipcr": {
+                    "classifications": [
+                        {
+                            "symbol": "H02B1/48",
+                            "classification_value": "I",
+                            "classification_symbol_position": "F"
+                        },
+                        {
+                            "symbol": "H02B1/20",
+                            "classification_value": "I",
+                            "classification_symbol_position": "L"
+                        },
+                        {
+                            "symbol": "H02B1/46",
+                            "classification_value": "I",
+                            "classification_symbol_position": "L"
+                        },
+                        {
+                            "symbol": "H02B1/56",
+                            "classification_value": "I",
+                            "classification_symbol_position": "L"
+                        }
+                    ]
+                },
+                "cited_by": {}
+            },
+            "families": {
+                "simple_family": {
+                    "members": [
+                        {
+                            "document_id": {
+                                "jurisdiction": "CN",
+                                "doc_number": "118920310",
+                                "kind": "A",
+                                "date": "2024-11-08"
+                            },
+                            "lens_id": "003-719-932-479-047"
+                        }
+                    ],
+                    "size": 1
+                },
+                "extended_family": {
+                    "members": [
+                        {
+                            "document_id": {
+                                "jurisdiction": "CN",
+                                "doc_number": "118920310",
+                                "kind": "A",
+                                "date": "2024-11-08"
+                            },
+                            "lens_id": "003-719-932-479-047"
+                        }
+                    ],
+                    "size": 1
+                }
+            },
+            "legal_status": {
+                "calculation_log": [
+                    "Application Filing Date: 2024-09-20"
+                ],
+                "patent_status": "PENDING"
+            },
+            "abstract": [
+                {
+                    "text": "本发明涉及配电箱技术领域，公开了一种带有可调节装配结构的配电箱，包括箱体，所述箱体内底部设置有转动调节组件，所述转动调节组件连接有内箱，所述内箱前表面设置有活动门，所述活动门上安装电器元件，所述箱体下方设置有铺线箱，所述内箱内部设置有线路，所述线路穿过内箱下方设置的穿线槽铺设在铺线箱内，所述箱体顶部设置有风箱，本发明配电箱内部可以旋转调节方便调整电器元件的安装位置，且在顶部设置风箱加强了该配电箱使用时的散热性。",
+                    "lang": "zh"
+                }
+            ],
+            "publication_type": "PATENT_APPLICATION"
+        },
+        {
+            "lens_id": "003-860-714-181-288",
+            "jurisdiction": "CN",
+            "doc_number": "221950562",
+            "kind": "U",
+            "date_published": "2024-11-05",
+            "doc_key": "CN_221950562_U_20241105",
+            "docdb_id": 620542512,
+            "lang": "zh",
+            "biblio": {
+                "publication_reference": {
+                    "jurisdiction": "CN",
+                    "doc_number": "221950562",
+                    "kind": "U",
+                    "date": "2024-11-05"
+                },
+                "application_reference": {
+                    "jurisdiction": "CN",
+                    "doc_number": "202323068514",
+                    "kind": "U",
+                    "date": "2023-11-14"
+                },
+                "priority_claims": {
+                    "claims": [
+                        {
+                            "jurisdiction": "CN",
+                            "doc_number": "202323068514",
+                            "kind": "U",
+                            "date": "2023-11-14",
+                            "sequence": 1
+                        }
+                    ],
+                    "earliest_claim": {
+                        "date": "2023-11-14"
+                    }
+                },
+                "invention_title": [
+                    {
+                        "text": "一种新型垂直过山车",
+                        "lang": "zh"
+                    }
+                ],
+                "parties": {
+                    "applicants": [
+                        {
+                            "extracted_name": {
+                                "value": "河北智跑游乐设备制造有限公司"
+                            }
+                        }
+                    ],
+                    "inventors": [
+                        {
+                            "sequence": 1,
+                            "extracted_name": {
+                                "value": "刘子旭"
+                            }
+                        },
+                        {
+                            "sequence": 2,
+                            "extracted_name": {
+                                "value": "李兴英"
+                            }
+                        },
+                        {
+                            "sequence": 3,
+                            "extracted_name": {
+                                "value": "张振虎"
+                            }
+                        },
+                        {
+                            "sequence": 4,
+                            "extracted_name": {
+                                "value": "申东波"
+                            }
+                        },
+                        {
+                            "sequence": 5,
+                            "extracted_name": {
+                                "value": "荣盼"
+                            }
+                        },
+                        {
+                            "sequence": 6,
+                            "extracted_name": {
+                                "value": "刘子念"
+                            }
+                        }
+                    ]
+                },
+                "classifications_ipcr": {
+                    "classifications": [
+                        {
+                            "symbol": "A63G21/06",
+                            "classification_value": "I",
+                            "classification_symbol_position": "F"
+                        }
+                    ]
+                },
+                "cited_by": {}
+            },
+            "families": {
+                "simple_family": {
+                    "members": [
+                        {
+                            "document_id": {
+                                "jurisdiction": "CN",
+                                "doc_number": "221950562",
+                                "kind": "U",
+                                "date": "2024-11-05"
+                            },
+                            "lens_id": "003-860-714-181-288"
+                        }
+                    ],
+                    "size": 1
+                },
+                "extended_family": {
+                    "members": [
+                        {
+                            "document_id": {
+                                "jurisdiction": "CN",
+                                "doc_number": "221950562",
+                                "kind": "U",
+                                "date": "2024-11-05"
+                            },
+                            "lens_id": "003-860-714-181-288"
+                        }
+                    ],
+                    "size": 1
+                }
+            },
+            "legal_status": {
+                "granted": true,
+                "grant_date": "2024-11-05",
+                "anticipated_term_date": "2033-11-14",
+                "calculation_log": [
+                    "Application Filing Date: 2023-11-14",
+                    "Publication of CN221950562U [2024-11-05]",
+                    "Granted Date: 2024-11-05",
+                    "Anticipated Termination Date: 2033-11-14"
+                ],
+                "patent_status": "ACTIVE"
+            },
+            "abstract": [
+                {
+                    "text": "本实用新型公开了一种新型垂直过山车，包括轨道，所述轨道通过立柱和提升塔固定在地面基础上，所述轨道起始处设有供乘客上下车的站台，所述轨道上升段设有多组永磁防坠装置，所述提升塔上设有牵引系统，所述轨道上设有多组列车，所述轨道顶部设有两组气动刹车装置，所述轨道末端设有多组永磁刹车装置、气动刹车装置和送车装置，所述轨道上设有换轨装置。本实用新型通过设置永磁防坠装置、牵引系统等装置，通过在轨道上升段设置永磁防坠装置，在牵引系统发生意外故障时可以为列车提供向上的涡流制力，进而使列车缓慢匀速下降，保障乘客安全。",
+                    "lang": "zh"
+                }
+            ],
+            "publication_type": "LIMITED_PATENT"
+        },
+        {
+            "lens_id": "003-917-232-824-345",
+            "jurisdiction": "CN",
+            "doc_number": "221975069",
+            "kind": "U",
+            "date_published": "2024-11-08",
+            "doc_key": "CN_221975069_U_20241108",
+            "docdb_id": 620744047,
+            "lang": "zh",
+            "biblio": {
+                "publication_reference": {
+                    "jurisdiction": "CN",
+                    "doc_number": "221975069",
+                    "kind": "U",
+                    "date": "2024-11-08"
+                },
+                "application_reference": {
+                    "jurisdiction": "CN",
+                    "doc_number": "202420132715",
+                    "kind": "U",
+                    "date": "2024-01-19"
+                },
+                "priority_claims": {
+                    "claims": [
+                        {
+                            "jurisdiction": "CN",
+                            "doc_number": "202420132715",
+                            "kind": "U",
+                            "date": "2024-01-19",
+                            "sequence": 1
+                        }
+                    ],
+                    "earliest_claim": {
+                        "date": "2024-01-19"
+                    }
+                },
+                "invention_title": [
+                    {
+                        "text": "一种摩托车警示灯",
+                        "lang": "zh"
+                    }
+                ],
+                "parties": {
+                    "applicants": [
+                        {
+                            "extracted_name": {
+                                "value": "广州市耀凯电子灯饰有限责任公司"
+                            }
+                        }
+                    ],
+                    "inventors": [
+                        {
+                            "sequence": 1,
+                            "extracted_name": {
+                                "value": "王海军"
+                            }
+                        }
+                    ]
+                },
+                "classifications_ipcr": {
+                    "classifications": [
+                        {
+                            "symbol": "F21S43/16",
+                            "classification_value": "I",
+                            "classification_symbol_position": "F"
+                        },
+                        {
+                            "symbol": "F21S43/14",
+                            "classification_value": "I",
+                            "classification_symbol_position": "L"
+                        },
+                        {
+                            "symbol": "F21V9/30",
+                            "classification_value": "I",
+                            "classification_symbol_position": "L"
+                        },
+                        {
+                            "symbol": "F21V9/32",
+                            "classification_value": "I",
+                            "classification_symbol_position": "L"
+                        },
+                        {
+                            "symbol": "F21W107/17",
+                            "classification_value": "A",
+                            "classification_symbol_position": "L"
+                        },
+                        {
+                            "symbol": "F21Y115/10",
+                            "classification_value": "A",
+                            "classification_symbol_position": "L"
+                        }
+                    ]
+                },
+                "cited_by": {}
+            },
+            "families": {
+                "simple_family": {
+                    "members": [
+                        {
+                            "document_id": {
+                                "jurisdiction": "CN",
+                                "doc_number": "221975069",
+                                "kind": "U",
+                                "date": "2024-11-08"
+                            },
+                            "lens_id": "003-917-232-824-345"
+                        }
+                    ],
+                    "size": 1
+                },
+                "extended_family": {
+                    "members": [
+                        {
+                            "document_id": {
+                                "jurisdiction": "CN",
+                                "doc_number": "221975069",
+                                "kind": "U",
+                                "date": "2024-11-08"
+                            },
+                            "lens_id": "003-917-232-824-345"
+                        }
+                    ],
+                    "size": 1
+                }
+            },
+            "legal_status": {
+                "granted": true,
+                "grant_date": "2024-11-08",
+                "anticipated_term_date": "2034-01-19",
+                "calculation_log": [
+                    "Application Filing Date: 2024-01-19",
+                    "Publication of CN221975069U [2024-11-08]",
+                    "Granted Date: 2024-11-08",
+                    "Anticipated Termination Date: 2034-01-19"
+                ],
+                "patent_status": "ACTIVE"
+            },
+            "abstract": [
+                {
+                    "text": "本实用新型申请公开了一种摩托车警示灯，包括灯体和光源模块，所述光源模块安装在灯体内，所述灯体内内嵌有荧光粉，灯体的后侧设置有安装槽，安装槽与光源模块适配，光源模块安装在安装槽内，所述光源模块包括电路板和若干LED灯珠，各所述的LED灯珠安装在电路板上，电路板安装在安装槽中；本摩托车警示灯通过将在灯体内填充荧光粉，灯体与荧光粉一体混合注塑成型，使得灯体在荧光粉的作用下能够自发光，同时通过光源模块能够发出多种灯效，进而有效地提高本警示灯的灯光警示效果，同时使得本警示灯的灯光观感效果更佳，满足用户的使用需求。",
+                    "lang": "zh"
+                }
+            ],
+            "publication_type": "LIMITED_PATENT"
+        },
+        {
+            "lens_id": "004-519-412-100-099",
+            "jurisdiction": "CN",
+            "doc_number": "118899489",
+            "kind": "A",
+            "date_published": "2024-11-05",
+            "doc_key": "CN_118899489_A_20241105",
+            "docdb_id": 620489817,
+            "lang": "zh",
+            "biblio": {
+                "publication_reference": {
+                    "jurisdiction": "CN",
+                    "doc_number": "118899489",
+                    "kind": "A",
+                    "date": "2024-11-05"
+                },
+                "application_reference": {
+                    "jurisdiction": "CN",
+                    "doc_number": "202411393058",
+                    "kind": "A",
+                    "date": "2024-10-08"
+                },
+                "priority_claims": {
+                    "claims": [
+                        {
+                            "jurisdiction": "CN",
+                            "doc_number": "202411393058",
+                            "kind": "A",
+                            "date": "2024-10-08",
+                            "sequence": 1
+                        }
+                    ],
+                    "earliest_claim": {
+                        "date": "2024-10-08"
+                    }
+                },
+                "invention_title": [
+                    {
+                        "text": "一种钒电池用接枝改性磺化聚苯并咪唑复合膜及制备方法",
+                        "lang": "zh"
+                    }
+                ],
+                "parties": {
+                    "applicants": [
+                        {
+                            "extracted_name": {
+                                "value": "杭州德海艾科能源科技有限公司"
+                            }
+                        }
+                    ],
+                    "inventors": [
+                        {
+                            "sequence": 1,
+                            "extracted_name": {
+                                "value": "王宇"
+                            }
+                        },
+                        {
+                            "sequence": 2,
+                            "extracted_name": {
+                                "value": "熊仁海"
+                            }
+                        },
+                        {
+                            "sequence": 3,
+                            "extracted_name": {
+                                "value": "陈广新"
+                            }
+                        },
+                        {
+                            "sequence": 4,
+                            "extracted_name": {
+                                "value": "白江"
+                            }
+                        },
+                        {
+                            "sequence": 5,
+                            "extracted_name": {
+                                "value": "鲁昆昆"
+                            }
+                        }
+                    ]
+                },
+                "classifications_ipcr": {
+                    "classifications": [
+                        {
+                            "symbol": "H01M8/1069",
+                            "classification_value": "I",
+                            "classification_symbol_position": "F"
+                        },
+                        {
+                            "symbol": "H01M8/103",
+                            "classification_value": "I",
+                            "classification_symbol_position": "L"
+                        },
+                        {
+                            "symbol": "H01M8/1088",
+                            "classification_value": "I",
+                            "classification_symbol_position": "L"
+                        },
+                        {
+                            "symbol": "H01M8/18",
+                            "classification_value": "I",
+                            "classification_symbol_position": "L"
+                        }
+                    ]
+                },
+                "cited_by": {}
+            },
+            "families": {
+                "simple_family": {
+                    "members": [
+                        {
+                            "document_id": {
+                                "jurisdiction": "CN",
+                                "doc_number": "118899489",
+                                "kind": "A",
+                                "date": "2024-11-05"
+                            },
+                            "lens_id": "004-519-412-100-099"
+                        }
+                    ],
+                    "size": 1
+                },
+                "extended_family": {
+                    "members": [
+                        {
+                            "document_id": {
+                                "jurisdiction": "CN",
+                                "doc_number": "118899489",
+                                "kind": "A",
+                                "date": "2024-11-05"
+                            },
+                            "lens_id": "004-519-412-100-099"
+                        }
+                    ],
+                    "size": 1
+                }
+            },
+            "legal_status": {
+                "calculation_log": [
+                    "Application Filing Date: 2024-10-08"
+                ],
+                "patent_status": "PENDING"
+            },
+            "abstract": [
+                {
+                    "text": "本发明涉及全钒液流电池离子传导膜技术领域，公开了一种钒电池用接枝改性磺化聚苯并咪唑复合膜及制备方法，该复合膜是通过对磺化聚苯并咪唑进行接枝改性，使其接上疏水柔性支链和亲水支链后成膜而成。还包括以下步骤：S1：配置磺化聚苯并咪唑溶液；S2：制备疏水支链接枝改性磺化聚苯咪唑溶液；S3：制备亲疏水支链接枝改性磺化聚苯并咪唑溶液；S4：制备接枝改性磺化聚苯并咪唑复合膜。本发明接枝改性磺化聚苯并咪唑聚合物链段上同时具备亲疏水支链，可通过调控亲疏水支链的比例，调控复合膜的综合性能，使得复合膜在高阻钒特性的同时具备高的质子传导密度，进而提升钒电池的能量效率。",
+                    "lang": "zh"
+                }
+            ],
+            "publication_type": "PATENT_APPLICATION"
+        },
+        {
+            "lens_id": "004-917-858-737-178",
+            "jurisdiction": "CN",
+            "doc_number": "221949378",
+            "kind": "U",
+            "date_published": "2024-11-05",
+            "doc_key": "CN_221949378_U_20241105",
+            "docdb_id": 620531009,
+            "lang": "zh",
+            "biblio": {
+                "publication_reference": {
+                    "jurisdiction": "CN",
+                    "doc_number": "221949378",
+                    "kind": "U",
+                    "date": "2024-11-05"
+                },
+                "application_reference": {
+                    "jurisdiction": "CN",
+                    "doc_number": "202420501956",
+                    "kind": "U",
+                    "date": "2024-03-15"
+                },
+                "priority_claims": {
+                    "claims": [
+                        {
+                            "jurisdiction": "CN",
+                            "doc_number": "202420501956",
+                            "kind": "U",
+                            "date": "2024-03-15",
+                            "sequence": 1
+                        }
+                    ],
+                    "earliest_claim": {
+                        "date": "2024-03-15"
+                    }
+                },
+                "invention_title": [
+                    {
+                        "text": "一种定量出液的化妆瓶",
+                        "lang": "zh"
+                    }
+                ],
+                "parties": {
+                    "applicants": [
+                        {
+                            "extracted_name": {
+                                "value": "广州梵之容化妆品有限公司"
+                            }
+                        },
+                        {
+                            "extracted_name": {
+                                "value": "广州谷雨生物科技有限公司"
+                            }
+                        }
+                    ],
+                    "inventors": [
+                        {
+                            "sequence": 1,
+                            "extracted_name": {
+                                "value": "陶智"
+                            }
+                        },
+                        {
+                            "sequence": 2,
+                            "extracted_name": {
+                                "value": "吴金霞"
+                            }
+                        },
+                        {
+                            "sequence": 3,
+                            "extracted_name": {
+                                "value": "徐进军"
+                            }
+                        },
+                        {
+                            "sequence": 4,
+                            "extracted_name": {
+                                "value": "李安章"
+                            }
+                        },
+                        {
+                            "sequence": 5,
+                            "extracted_name": {
+                                "value": "王安宁"
+                            }
+                        }
+                    ]
+                },
+                "classifications_ipcr": {
+                    "classifications": [
+                        {
+                            "symbol": "A45D34/00",
+                            "classification_value": "I",
+                            "classification_symbol_position": "F"
+                        }
+                    ]
+                },
+                "cited_by": {}
+            },
+            "families": {
+                "simple_family": {
+                    "members": [
+                        {
+                            "document_id": {
+                                "jurisdiction": "CN",
+                                "doc_number": "221949378",
+                                "kind": "U",
+                                "date": "2024-11-05"
+                            },
+                            "lens_id": "004-917-858-737-178"
+                        }
+                    ],
+                    "size": 1
+                },
+                "extended_family": {
+                    "members": [
+                        {
+                            "document_id": {
+                                "jurisdiction": "CN",
+                                "doc_number": "221949378",
+                                "kind": "U",
+                                "date": "2024-11-05"
+                            },
+                            "lens_id": "004-917-858-737-178"
+                        }
+                    ],
+                    "size": 1
+                }
+            },
+            "legal_status": {
+                "granted": true,
+                "grant_date": "2024-11-05",
+                "anticipated_term_date": "2034-03-15",
+                "calculation_log": [
+                    "Application Filing Date: 2024-03-15",
+                    "Publication of CN221949378U [2024-11-05]",
+                    "Granted Date: 2024-11-05",
+                    "Anticipated Termination Date: 2034-03-15"
+                ],
+                "patent_status": "ACTIVE"
+            },
+            "abstract": [
+                {
+                    "text": "本实用新型提供一种定量出液的化妆瓶，涉及化妆瓶技术领域，包括瓶体，所述瓶体的外围螺纹设置有外盖和内盖，所述内盖内设置有相互连通的进液区、定量区、储液区和出液区，所述储液区内可移动设置有活动塞，所述定量区内设置有调节组件；所述调节组件包括收纳块与收缩块，所述收纳块的外表面与定量区的端壁一体设置，所述收缩块一部分滑动设置于收纳块内且收缩块另一部分可移动设置于定量区内。本实用新型通过顺时针或逆时针转动调节组件中的螺杆，控制收缩块在定量区内向前或向后移动，可实现定量区内部面积的灵活的调整达到灵活改变进液量的作用，使用者可根据自己调节自己日常的定量，进而满足多数使用者，为使用者提供便利。",
+                    "lang": "zh"
+                }
+            ],
+            "publication_type": "LIMITED_PATENT"
+        },
+        {
+            "lens_id": "005-321-574-648-738",
+            "jurisdiction": "CN",
+            "doc_number": "118905148",
+            "kind": "A",
+            "date_published": "2024-11-08",
+            "doc_key": "CN_118905148_A_20241108",
+            "docdb_id": 620693899,
+            "lang": "zh",
+            "biblio": {
+                "publication_reference": {
+                    "jurisdiction": "CN",
+                    "doc_number": "118905148",
+                    "kind": "A",
+                    "date": "2024-11-08"
+                },
+                "application_reference": {
+                    "jurisdiction": "CN",
+                    "doc_number": "202411385365",
+                    "kind": "A",
+                    "date": "2024-09-30"
+                },
+                "priority_claims": {
+                    "claims": [
+                        {
+                            "jurisdiction": "CN",
+                            "doc_number": "202411385365",
+                            "kind": "A",
+                            "date": "2024-09-30",
+                            "sequence": 1
+                        }
+                    ],
+                    "earliest_claim": {
+                        "date": "2024-09-30"
+                    }
+                },
+                "invention_title": [
+                    {
+                        "text": "一种毛坯锻造用辅助输送装置",
+                        "lang": "zh"
+                    }
+                ],
+                "parties": {
+                    "applicants": [
+                        {
+                            "extracted_name": {
+                                "value": "安徽骆氏升泰汽车零部件有限公司"
+                            }
+                        }
+                    ],
+                    "inventors": [
+                        {
+                            "sequence": 1,
+                            "extracted_name": {
+                                "value": "何良兵"
+                            }
+                        },
+                        {
+                            "sequence": 2,
+                            "extracted_name": {
+                                "value": "蔡之坤"
+                            }
+                        },
+                        {
+                            "sequence": 3,
+                            "extracted_name": {
+                                "value": "祁国银"
+                            }
+                        },
+                        {
+                            "sequence": 4,
+                            "extracted_name": {
+                                "value": "丁昌启"
+                            }
+                        },
+                        {
+                            "sequence": 5,
+                            "extracted_name": {
+                                "value": "蔡道喜"
+                            }
+                        }
+                    ]
+                },
+                "classifications_ipcr": {
+                    "classifications": [
+                        {
+                            "symbol": "B21K27/00",
+                            "classification_value": "I",
+                            "classification_symbol_position": "F"
+                        },
+                        {
+                            "symbol": "B07C5/02",
+                            "classification_value": "I",
+                            "classification_symbol_position": "L"
+                        },
+                        {
+                            "symbol": "B07C5/34",
+                            "classification_value": "I",
+                            "classification_symbol_position": "L"
+                        }
+                    ]
+                },
+                "cited_by": {}
+            },
+            "families": {
+                "simple_family": {
+                    "members": [
+                        {
+                            "document_id": {
+                                "jurisdiction": "CN",
+                                "doc_number": "118905148",
+                                "kind": "A",
+                                "date": "2024-11-08"
+                            },
+                            "lens_id": "005-321-574-648-738"
+                        }
+                    ],
+                    "size": 1
+                },
+                "extended_family": {
+                    "members": [
+                        {
+                            "document_id": {
+                                "jurisdiction": "CN",
+                                "doc_number": "118905148",
+                                "kind": "A",
+                                "date": "2024-11-08"
+                            },
+                            "lens_id": "005-321-574-648-738"
+                        }
+                    ],
+                    "size": 1
+                }
+            },
+            "legal_status": {
+                "calculation_log": [
+                    "Application Filing Date: 2024-09-30"
+                ],
+                "patent_status": "PENDING"
+            },
+            "abstract": [
+                {
+                    "text": "本发明提供一种毛坯锻造用辅助输送装置，包括输送机，所述输送机的前侧设置有检测机构，所述检测机构的前侧设置有下料台，所述检测机构的上方设置有位置调节机构，所述检测机构上设置有底面检测相机和侧面检测机构，所述位置调节机构的输出端上设置有旋转气缸，所述旋转气缸的输出端上设置有夹持机构和顶面检测相机。本发明通过输送机、检测机构、位置调节机构和下料台的设置，实现了毛坯锻造件的连续输送、检测和下料，提高了生产效率，通过检测机构以及顶面检测相机，能够对毛坯锻造件进行全方位的检测，确保产品质量，本发明自动化程度较高，减少了人工干预，降低了劳动强度，提高了生产的稳定性和一致性。",
+                    "lang": "zh"
+                }
+            ],
+            "publication_type": "PATENT_APPLICATION"
+        },
+        {
+            "lens_id": "005-458-460-950-880",
+            "jurisdiction": "CN",
+            "doc_number": "118896956",
+            "kind": "A",
+            "date_published": "2024-11-05",
+            "doc_key": "CN_118896956_A_20241105",
+            "docdb_id": 620486310,
+            "lang": "zh",
+            "biblio": {
+                "publication_reference": {
+                    "jurisdiction": "CN",
+                    "doc_number": "118896956",
+                    "kind": "A",
+                    "date": "2024-11-05"
+                },
+                "application_reference": {
+                    "jurisdiction": "CN",
+                    "doc_number": "202310472035",
+                    "kind": "A",
+                    "date": "2023-04-26"
+                },
+                "priority_claims": {
+                    "claims": [
+                        {
+                            "jurisdiction": "CN",
+                            "doc_number": "202310472035",
+                            "kind": "A",
+                            "date": "2023-04-26",
+                            "sequence": 1
+                        }
+                    ],
+                    "earliest_claim": {
+                        "date": "2023-04-26"
+                    }
+                },
+                "invention_title": [
+                    {
+                        "text": "检测方法、系统、终端设备以及存储介质",
+                        "lang": "zh"
+                    }
+                ],
+                "parties": {
+                    "applicants": [
+                        {
+                            "extracted_name": {
+                                "value": "深圳中科飞测科技股份有限公司"
+                            }
+                        }
+                    ],
+                    "inventors": [
+                        {
+                            "sequence": 1,
+                            "extracted_name": {
+                                "value": "陈鲁"
+                            }
+                        },
+                        {
+                            "sequence": 2,
+                            "extracted_name": {
+                                "value": "刘伟龙"
+                            }
+                        },
+                        {
+                            "sequence": 3,
+                            "extracted_name": {
+                                "value": "辛自强"
+                            }
+                        },
+                        {
+                            "sequence": 4,
+                            "extracted_name": {
+                                "value": "许理北"
+                            }
+                        },
+                        {
+                            "sequence": 5,
+                            "extracted_name": {
+                                "value": "张龙"
+                            }
+                        },
+                        {
+                            "sequence": 6,
+                            "extracted_name": {
+                                "value": "黄有为"
+                            }
+                        },
+                        {
+                            "sequence": 7,
+                            "extracted_name": {
+                                "value": "张嵩"
+                            }
+                        }
+                    ]
+                },
+                "classifications_ipcr": {
+                    "classifications": [
+                        {
+                            "symbol": "G01N21/88",
+                            "classification_value": "I",
+                            "classification_symbol_position": "F"
+                        },
+                        {
+                            "symbol": "G01N21/01",
+                            "classification_value": "I",
+                            "classification_symbol_position": "L"
+                        },
+                        {
+                            "symbol": "G01N21/95",
+                            "classification_value": "I",
+                            "classification_symbol_position": "L"
+                        }
+                    ]
+                },
+                "cited_by": {}
+            },
+            "families": {
+                "simple_family": {
+                    "members": [
+                        {
+                            "document_id": {
+                                "jurisdiction": "CN",
+                                "doc_number": "118896956",
+                                "kind": "A",
+                                "date": "2024-11-05"
+                            },
+                            "lens_id": "005-458-460-950-880"
+                        }
+                    ],
+                    "size": 1
+                },
+                "extended_family": {
+                    "members": [
+                        {
+                            "document_id": {
+                                "jurisdiction": "CN",
+                                "doc_number": "118896956",
+                                "kind": "A",
+                                "date": "2024-11-05"
+                            },
+                            "lens_id": "005-458-460-950-880"
+                        }
+                    ],
+                    "size": 1
+                }
+            },
+            "legal_status": {
+                "calculation_log": [
+                    "Application Filing Date: 2023-04-26"
+                ],
+                "patent_status": "PENDING"
+            },
+            "abstract": [
+                {
+                    "text": "一种检测方法、系统、终端设备以及存储介质，检测方法包括：对待测件的第一表面进行照明；获取第一表面的第一图像、第二表面的第二图像以及侧面的第三信号；第一表面与第二表面为相对的两个表面；第三信号为待测件的侧面反射的散射光产生的光信号；根据第一图像、第二图像以及第三信号，检测待测件的边缘的待测特征。本申请不仅可以检测待测件的侧面的大尺寸缺陷，还可以进一步检测侧面是否存在小尺寸缺陷，降低后续制造环节的风险。",
+                    "lang": "zh"
+                }
+            ],
+            "publication_type": "PATENT_APPLICATION"
+        },
+        {
+            "lens_id": "006-118-966-922-33X",
+            "jurisdiction": "CN",
+            "doc_number": "118903312",
+            "kind": "A",
+            "date_published": "2024-11-08",
+            "doc_key": "CN_118903312_A_20241108",
+            "docdb_id": 620693041,
+            "lang": "zh",
+            "biblio": {
+                "publication_reference": {
+                    "jurisdiction": "CN",
+                    "doc_number": "118903312",
+                    "kind": "A",
+                    "date": "2024-11-08"
+                },
+                "application_reference": {
+                    "jurisdiction": "CN",
+                    "doc_number": "202411060360",
+                    "kind": "A",
+                    "date": "2024-08-05"
+                },
+                "priority_claims": {
+                    "claims": [
+                        {
+                            "jurisdiction": "CN",
+                            "doc_number": "202411060360",
+                            "kind": "A",
+                            "date": "2024-08-05",
+                            "sequence": 1
+                        }
+                    ],
+                    "earliest_claim": {
+                        "date": "2024-08-05"
+                    }
+                },
+                "invention_title": [
+                    {
+                        "text": "一种用于治疗缺血性心肌病的中药组合物及其应用",
+                        "lang": "zh"
+                    }
+                ],
+                "parties": {
+                    "applicants": [
+                        {
+                            "extracted_name": {
+                                "value": "无锡市中医医院"
+                            }
+                        }
+                    ],
+                    "inventors": [
+                        {
+                            "sequence": 1,
+                            "extracted_name": {
+                                "value": "陆曙"
+                            }
+                        },
+                        {
+                            "sequence": 2,
+                            "extracted_name": {
+                                "value": "沈丽娟"
+                            }
+                        },
+                        {
+                            "sequence": 3,
+                            "extracted_name": {
+                                "value": "朱红俊"
+                            }
+                        },
+                        {
+                            "sequence": 4,
+                            "extracted_name": {
+                                "value": "高枫"
+                            }
+                        },
+                        {
+                            "sequence": 5,
+                            "extracted_name": {
+                                "value": "夏成霞"
+                            }
+                        },
+                        {
+                            "sequence": 6,
+                            "extracted_name": {
+                                "value": "谈晓东"
+                            }
+                        },
+                        {
+                            "sequence": 7,
+                            "extracted_name": {
+                                "value": "陈浩"
+                            }
+                        },
+                        {
+                            "sequence": 8,
+                            "extracted_name": {
+                                "value": "张卓珺"
+                            }
+                        }
+                    ]
+                },
+                "classifications_ipcr": {
+                    "classifications": [
+                        {
+                            "symbol": "A61K36/8968",
+                            "classification_value": "I",
+                            "classification_symbol_position": "F"
+                        },
+                        {
+                            "symbol": "A61P9/10",
+                            "classification_value": "I",
+                            "classification_symbol_position": "L"
+                        }
+                    ]
+                },
+                "cited_by": {}
+            },
+            "families": {
+                "simple_family": {
+                    "members": [
+                        {
+                            "document_id": {
+                                "jurisdiction": "CN",
+                                "doc_number": "118903312",
+                                "kind": "A",
+                                "date": "2024-11-08"
+                            },
+                            "lens_id": "006-118-966-922-33X"
+                        }
+                    ],
+                    "size": 1
+                },
+                "extended_family": {
+                    "members": [
+                        {
+                            "document_id": {
+                                "jurisdiction": "CN",
+                                "doc_number": "118903312",
+                                "kind": "A",
+                                "date": "2024-11-08"
+                            },
+                            "lens_id": "006-118-966-922-33X"
+                        }
+                    ],
+                    "size": 1
+                }
+            },
+            "legal_status": {
+                "calculation_log": [
+                    "Application Filing Date: 2024-08-05"
+                ],
+                "patent_status": "PENDING"
+            },
+            "abstract": [
+                {
+                    "text": "本发明涉及一种用于治疗缺血性心肌病的中药组合物及其应用，具体用于治疗缺血性心肌病的中药组合物，包括以下重量份的原料药制成：太子参或红参1～20份、黄芪10～50份、麦冬5～30份、五味子1～15份、炒白芍1～20份、丹参5～30份、甘草0.1～10份。本发明提供的中药组合物具有明显改善缺血性心肌病症状。",
+                    "lang": "zh"
+                }
+            ],
+            "publication_type": "PATENT_APPLICATION"
+        },
+        {
+            "lens_id": "006-315-693-699-699",
+            "jurisdiction": "KR",
+            "doc_number": "102720428",
+            "kind": "B1",
+            "date_published": "2024-10-22",
+            "doc_key": "KR_102720428_B1_20241022",
+            "docdb_id": 620088833,
+            "lang": "ko",
+            "biblio": {
+                "publication_reference": {
+                    "jurisdiction": "KR",
+                    "doc_number": "102720428",
+                    "kind": "B1",
+                    "date": "2024-10-22"
+                },
+                "application_reference": {
+                    "jurisdiction": "KR",
+                    "doc_number": "20210152146",
+                    "kind": "A",
+                    "date": "2021-11-08"
+                },
+                "priority_claims": {
+                    "claims": [
+                        {
+                            "jurisdiction": "KR",
+                            "doc_number": "20210152146",
+                            "kind": "A",
+                            "date": "2021-11-08",
+                            "sequence": 1
+                        }
+                    ],
+                    "earliest_claim": {
+                        "date": "2021-11-08"
+                    }
+                },
+                "invention_title": [
+                    {
+                        "text": "HYBRID MEMBRANE COMPRISING QUANTUM DOT AND METHOD OF MANUFACTURING SAME",
+                        "lang": "en"
+                    },
+                    {
+                        "text": "양자점을 포함하는 하이브리드 분리막 및 그의 제조방법",
+                        "lang": "ko"
+                    }
+                ],
+                "parties": {
+                    "applicants": [
+                        {
+                            "extracted_name": {
+                                "value": "한국생산기술연구원"
+                            }
+                        }
+                    ],
+                    "inventors": [
+                        {
+                            "sequence": 1,
+                            "extracted_name": {
+                                "value": "박제성"
+                            }
+                        },
+                        {
+                            "sequence": 2,
+                            "extracted_name": {
+                                "value": "임성남"
+                            }
+                        },
+                        {
+                            "sequence": 3,
+                            "extracted_name": {
+                                "value": "우주영"
+                            }
+                        },
+                        {
+                            "sequence": 4,
+                            "extracted_name": {
+                                "value": "정다솜"
+                            }
+                        },
+                        {
+                            "sequence": 5,
+                            "extracted_name": {
+                                "value": "강민구"
+                            }
+                        },
+                        {
+                            "sequence": 6,
+                            "extracted_name": {
+                                "value": "김성천"
+                            }
+                        }
+                    ]
+                },
+                "classifications_ipcr": {
+                    "classifications": [
+                        {
+                            "symbol": "H01M8/1051",
+                            "classification_value": "I",
+                            "classification_symbol_position": "F"
+                        },
+                        {
+                            "symbol": "H01M8/0239",
+                            "classification_value": "I",
+                            "classification_symbol_position": "L"
+                        },
+                        {
+                            "symbol": "H01M8/0243",
+                            "classification_value": "I",
+                            "classification_symbol_position": "L"
+                        },
+                        {
+                            "symbol": "H01M8/1039",
+                            "classification_value": "I",
+                            "classification_symbol_position": "L"
+                        },
+                        {
+                            "symbol": "H01M8/1044",
+                            "classification_value": "I",
+                            "classification_symbol_position": "L"
+                        },
+                        {
+                            "symbol": "H01M8/1067",
+                            "classification_value": "I",
+                            "classification_symbol_position": "L"
+                        },
+                        {
+                            "symbol": "H01M8/1081",
+                            "classification_value": "I",
+                            "classification_symbol_position": "L"
+                        },
+                        {
+                            "symbol": "H01M8/18",
+                            "classification_value": "I",
+                            "classification_symbol_position": "L"
+                        }
+                    ]
+                },
+                "classifications_cpc": {
+                    "classifications": [
+                        {
+                            "symbol": "Y02E60/50",
+                            "classification_value": "A",
+                            "classification_symbol_position": "L"
+                        },
+                        {
+                            "symbol": "H01M8/1051",
+                            "classification_value": "I",
+                            "classification_symbol_position": "F"
+                        },
+                        {
+                            "symbol": "H01M8/1044",
+                            "classification_value": "I",
+                            "classification_symbol_position": "L"
+                        },
+                        {
+                            "symbol": "H01M8/1039",
+                            "classification_value": "I",
+                            "classification_symbol_position": "L"
+                        },
+                        {
+                            "symbol": "H01M8/1067",
+                            "classification_value": "I",
+                            "classification_symbol_position": "L"
+                        },
+                        {
+                            "symbol": "H01M8/1081",
+                            "classification_value": "I",
+                            "classification_symbol_position": "L"
+                        },
+                        {
+                            "symbol": "H01M8/0239",
+                            "classification_value": "I",
+                            "classification_symbol_position": "L"
+                        },
+                        {
+                            "symbol": "H01M8/0243",
+                            "classification_value": "I",
+                            "classification_symbol_position": "L"
+                        },
+                        {
+                            "symbol": "H01M8/188",
+                            "classification_value": "I",
+                            "classification_symbol_position": "L"
+                        }
+                    ]
+                },
+                "cited_by": {}
+            },
+            "families": {
+                "simple_family": {
+                    "members": [
+                        {
+                            "document_id": {
+                                "jurisdiction": "KR",
+                                "doc_number": "20230066783",
+                                "kind": "A",
+                                "date": "2023-05-16"
+                            },
+                            "lens_id": "061-022-286-354-509"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "KR",
+                                "doc_number": "102720428",
+                                "kind": "B1",
+                                "date": "2024-10-22"
+                            },
+                            "lens_id": "006-315-693-699-699"
+                        }
+                    ],
+                    "size": 2
+                },
+                "extended_family": {
+                    "members": [
+                        {
+                            "document_id": {
+                                "jurisdiction": "KR",
+                                "doc_number": "20230066783",
+                                "kind": "A",
+                                "date": "2023-05-16"
+                            },
+                            "lens_id": "061-022-286-354-509"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "KR",
+                                "doc_number": "102720428",
+                                "kind": "B1",
+                                "date": "2024-10-22"
+                            },
+                            "lens_id": "006-315-693-699-699"
+                        }
+                    ],
+                    "size": 2
+                }
+            },
+            "legal_status": {
+                "granted": true,
+                "grant_date": "2024-10-22",
+                "anticipated_term_date": "2041-11-08",
+                "calculation_log": [
+                    "Application Filing Date: 2021-11-08",
+                    "Granted Date: 2024-10-22",
+                    "Anticipated Termination Date: 2041-11-08"
+                ],
+                "patent_status": "ACTIVE"
+            },
+            "abstract": [
+                {
+                    "text": "양자점을 포함하는 하이브리드 분리막 및 그의 제조방법을 개시한다. 상기 하이브리드 분리막은 고분자를 포함하는 고분자막; 및 상기 고분자막에 분산된 양자점(quantum dot);을 포함함으로써 레독스 흐름전지의 충방전 과정에서 발생하는 용량 저하 문제를 개선시키는 효과가 있고, 또한 고가의 분리막 소재의 사용을 줄여 경제성을 높이는 효과가 있다.",
+                    "lang": "ko"
+                }
+            ],
+            "publication_type": "GRANTED_PATENT"
+        },
+        {
+            "lens_id": "006-519-263-569-08X",
+            "jurisdiction": "TW",
+            "doc_number": "I852265",
+            "kind": "B",
+            "date_published": "2024-08-11",
+            "doc_key": "TW_I852265_B_20240811",
+            "docdb_id": 619545539,
+            "lang": "zh",
+            "biblio": {
+                "publication_reference": {
+                    "jurisdiction": "TW",
+                    "doc_number": "I852265",
+                    "kind": "B",
+                    "date": "2024-08-11"
+                },
+                "application_reference": {
+                    "jurisdiction": "TW",
+                    "doc_number": "112100539",
+                    "kind": "A",
+                    "date": "2023-01-06"
+                },
+                "priority_claims": {
+                    "claims": [
+                        {
+                            "jurisdiction": "US",
+                            "doc_number": "202217584695",
+                            "kind": "A",
+                            "date": "2022-01-26",
+                            "sequence": 1
+                        }
+                    ],
+                    "earliest_claim": {
+                        "date": "2022-01-26"
+                    }
+                },
+                "invention_title": [
+                    {
+                        "text": "Systems, methods, and non-transitory computer-readable media for thin provisioning in non-volatile memory storage devices",
+                        "lang": "en"
+                    }
+                ],
+                "parties": {
+                    "applicants": [
+                        {
+                            "residence": "JP",
+                            "extracted_name": {
+                                "value": "KIOXIA CORP"
+                            }
+                        }
+                    ],
+                    "inventors": [
+                        {
+                            "residence": "US",
+                            "sequence": 1,
+                            "extracted_name": {
+                                "value": "WELLS STEVEN"
+                            }
+                        },
+                        {
+                            "residence": "GB",
+                            "sequence": 2,
+                            "extracted_name": {
+                                "value": "BUXTON NEIL"
+                            }
+                        }
+                    ]
+                },
+                "classifications_ipcr": {},
+                "classifications_cpc": {
+                    "classifications": [
+                        {
+                            "symbol": "G06F12/0646",
+                            "classification_value": "I",
+                            "classification_symbol_position": "F"
+                        },
+                        {
+                            "symbol": "G06F3/0608",
+                            "classification_value": "I",
+                            "classification_symbol_position": "L"
+                        },
+                        {
+                            "symbol": "G06F3/0604",
+                            "classification_value": "I",
+                            "classification_symbol_position": "F"
+                        },
+                        {
+                            "symbol": "G06F3/0638",
+                            "classification_value": "I",
+                            "classification_symbol_position": "L"
+                        },
+                        {
+                            "symbol": "G06F3/0661",
+                            "classification_value": "I",
+                            "classification_symbol_position": "L"
+                        },
+                        {
+                            "symbol": "G06F3/0679",
+                            "classification_value": "I",
+                            "classification_symbol_position": "L"
+                        },
+                        {
+                            "symbol": "G06F3/0644",
+                            "classification_value": "I",
+                            "classification_symbol_position": "L"
+                        },
+                        {
+                            "symbol": "G06F3/0659",
+                            "classification_value": "I",
+                            "classification_symbol_position": "F"
+                        },
+                        {
+                            "symbol": "G06F3/0644",
+                            "classification_value": "I",
+                            "classification_symbol_position": "L"
+                        },
+                        {
+                            "symbol": "G06F3/0673",
+                            "classification_value": "I",
+                            "classification_symbol_position": "L"
+                        },
+                        {
+                            "symbol": "G06F3/0604",
+                            "classification_value": "I",
+                            "classification_symbol_position": "L"
+                        },
+                        {
+                            "symbol": "G06F3/061",
+                            "classification_value": "I",
+                            "classification_symbol_position": "L"
+                        },
+                        {
+                            "symbol": "G06F3/0679",
+                            "classification_value": "I",
+                            "classification_symbol_position": "L"
+                        },
+                        {
+                            "symbol": "G06F3/064",
+                            "classification_value": "I",
+                            "classification_symbol_position": "L"
+                        }
+                    ]
+                },
+                "references_cited": {
+                    "citations": [
+                        {
+                            "sequence": 1,
+                            "patcit": {
+                                "document_id": {
+                                    "jurisdiction": "TW",
+                                    "doc_number": "201824033",
+                                    "kind": "A",
+                                    "date": "2018-07-01"
+                                },
+                                "lens_id": "025-429-493-373-349"
+                            },
+                            "cited_phase": "EXA"
+                        },
+                        {
+                            "sequence": 2,
+                            "patcit": {
+                                "document_id": {
+                                    "jurisdiction": "TW",
+                                    "doc_number": "202203033",
+                                    "kind": "A",
+                                    "date": "2022-01-16"
+                                },
+                                "lens_id": "195-550-067-216-278"
+                            },
+                            "cited_phase": "EXA"
+                        },
+                        {
+                            "sequence": 3,
+                            "patcit": {
+                                "document_id": {
+                                    "jurisdiction": "CN",
+                                    "doc_number": "109002258",
+                                    "kind": "A",
+                                    "date": "2018-12-14"
+                                },
+                                "lens_id": "087-361-134-296-119"
+                            },
+                            "cited_phase": "EXA"
+                        },
+                        {
+                            "sequence": 4,
+                            "patcit": {
+                                "document_id": {
+                                    "jurisdiction": "CN",
+                                    "doc_number": "111800450",
+                                    "kind": "A",
+                                    "date": "2020-10-20"
+                                },
+                                "lens_id": "004-773-144-065-410"
+                            },
+                            "cited_phase": "EXA"
+                        },
+                        {
+                            "sequence": 5,
+                            "patcit": {
+                                "document_id": {
+                                    "jurisdiction": "US",
+                                    "doc_number": "2018121344",
+                                    "kind": "A1",
+                                    "date": "2018-05-03"
+                                },
+                                "lens_id": "042-406-106-096-762"
+                            },
+                            "cited_phase": "EXA"
+                        },
+                        {
+                            "sequence": 6,
+                            "patcit": {
+                                "document_id": {
+                                    "jurisdiction": "US",
+                                    "doc_number": "2021326319",
+                                    "kind": "A1",
+                                    "date": "2021-10-21"
+                                },
+                                "lens_id": "026-854-505-748-712"
+                            },
+                            "cited_phase": "EXA"
+                        },
+                        {
+                            "sequence": 7,
+                            "patcit": {
+                                "document_id": {
+                                    "jurisdiction": "US",
+                                    "doc_number": "2022011953",
+                                    "kind": "A1",
+                                    "date": "2022-01-13"
+                                },
+                                "lens_id": "012-587-615-847-955"
+                            },
+                            "cited_phase": "EXA"
+                        }
+                    ],
+                    "patent_count": 7
+                },
+                "cited_by": {}
+            },
+            "families": {
+                "simple_family": {
+                    "members": [
+                        {
+                            "document_id": {
+                                "jurisdiction": "US",
+                                "doc_number": "20230236763",
+                                "kind": "A1",
+                                "date": "2023-07-27"
+                            },
+                            "lens_id": "032-550-540-554-192"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "TW",
+                                "doc_number": "I852265",
+                                "kind": "B",
+                                "date": "2024-08-11"
+                            },
+                            "lens_id": "006-519-263-569-08X"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "TW",
+                                "doc_number": "202331527",
+                                "kind": "A",
+                                "date": "2023-08-01"
+                            },
+                            "lens_id": "098-634-885-279-707"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "US",
+                                "doc_number": "11914898",
+                                "kind": "B2",
+                                "date": "2024-02-27"
+                            },
+                            "lens_id": "142-831-521-240-912"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "CN",
+                                "doc_number": "116501656",
+                                "kind": "A",
+                                "date": "2023-07-28"
+                            },
+                            "lens_id": "188-223-785-608-450"
+                        }
+                    ],
+                    "size": 5
+                },
+                "extended_family": {
+                    "members": [
+                        {
+                            "document_id": {
+                                "jurisdiction": "US",
+                                "doc_number": "20230236763",
+                                "kind": "A1",
+                                "date": "2023-07-27"
+                            },
+                            "lens_id": "032-550-540-554-192"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "TW",
+                                "doc_number": "I852265",
+                                "kind": "B",
+                                "date": "2024-08-11"
+                            },
+                            "lens_id": "006-519-263-569-08X"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "TW",
+                                "doc_number": "202331527",
+                                "kind": "A",
+                                "date": "2023-08-01"
+                            },
+                            "lens_id": "098-634-885-279-707"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "US",
+                                "doc_number": "11914898",
+                                "kind": "B2",
+                                "date": "2024-02-27"
+                            },
+                            "lens_id": "142-831-521-240-912"
+                        },
+                        {
+                            "document_id": {
+                                "jurisdiction": "CN",
+                                "doc_number": "116501656",
+                                "kind": "A",
+                                "date": "2023-07-28"
+                            },
+                            "lens_id": "188-223-785-608-450"
+                        }
+                    ],
+                    "size": 5
+                }
+            },
+            "legal_status": {
+                "granted": true,
+                "grant_date": "2024-08-11",
+                "anticipated_term_date": "2043-01-06",
+                "calculation_log": [
+                    "Application Filing Date: 2023-01-06",
+                    "Publication of TWI852265B [2024-08-11]",
+                    "Granted Date: 2024-08-11",
+                    "Anticipated Termination Date: 2043-01-06"
+                ],
+                "patent_status": "ACTIVE"
+            },
+            "publication_type": "GRANTED_PATENT"
+        },
+        {
+            "lens_id": "006-685-304-983-919",
+            "jurisdiction": "CN",
+            "doc_number": "221963426",
+            "kind": "U",
+            "date_published": "2024-11-08",
+            "doc_key": "CN_221963426_U_20241108",
+            "docdb_id": 620745289,
+            "lang": "zh",
+            "biblio": {
+                "publication_reference": {
+                    "jurisdiction": "CN",
+                    "doc_number": "221963426",
+                    "kind": "U",
+                    "date": "2024-11-08"
+                },
+                "application_reference": {
+                    "jurisdiction": "CN",
+                    "doc_number": "202323494937",
+                    "kind": "U",
+                    "date": "2023-12-20"
+                },
+                "priority_claims": {
+                    "claims": [
+                        {
+                            "jurisdiction": "CN",
+                            "doc_number": "202323494937",
+                            "kind": "U",
+                            "date": "2023-12-20",
+                            "sequence": 1
+                        }
+                    ],
+                    "earliest_claim": {
+                        "date": "2023-12-20"
+                    }
+                },
+                "invention_title": [
+                    {
+                        "text": "一种搅拌件及其烹饪装置",
+                        "lang": "zh"
+                    }
+                ],
+                "parties": {
+                    "applicants": [
+                        {
+                            "extracted_name": {
+                                "value": "广州富港万嘉智能科技有限公司"
+                            }
+                        }
+                    ],
+                    "inventors": [
+                        {
+                            "sequence": 1,
+                            "extracted_name": {
+                                "value": "傅峰峰"
+                            }
+                        },
+                        {
+                            "sequence": 2,
+                            "extracted_name": {
+                                "value": "丘健强"
+                            }
+                        }
+                    ]
+                },
+                "classifications_ipcr": {
+                    "classifications": [
+                        {
+                            "symbol": "A47J36/16",
+                            "classification_value": "I",
+                            "classification_symbol_position": "F"
+                        },
+                        {
+                            "symbol": "A47J27/00",
+                            "classification_value": "I",
+                            "classification_symbol_position": "L"
+                        }
+                    ]
+                },
+                "cited_by": {}
+            },
+            "families": {
+                "simple_family": {
+                    "members": [
+                        {
+                            "document_id": {
+                                "jurisdiction": "CN",
+                                "doc_number": "221963426",
+                                "kind": "U",
+                                "date": "2024-11-08"
+                            },
+                            "lens_id": "006-685-304-983-919"
+                        }
+                    ],
+                    "size": 1
+                },
+                "extended_family": {
+                    "members": [
+                        {
+                            "document_id": {
+                                "jurisdiction": "CN",
+                                "doc_number": "221963426",
+                                "kind": "U",
+                                "date": "2024-11-08"
+                            },
+                            "lens_id": "006-685-304-983-919"
+                        }
+                    ],
+                    "size": 1
+                }
+            },
+            "legal_status": {
+                "granted": true,
+                "grant_date": "2024-11-08",
+                "anticipated_term_date": "2033-12-20",
+                "calculation_log": [
+                    "Application Filing Date: 2023-12-20",
+                    "Publication of CN221963426U [2024-11-08]",
+                    "Granted Date: 2024-11-08",
+                    "Anticipated Termination Date: 2033-12-20"
+                ],
+                "patent_status": "ACTIVE"
+            },
+            "abstract": [
+                {
+                    "text": "本实用新型公开了一种搅拌件及其烹饪装置，包括搅拌叶片，所述搅拌叶片具有第一搅拌段、第二搅拌段以及第三搅拌段，所述第一搅拌段与所述第二搅拌段的一端呈螺旋状衔接；所述第二搅拌段的另一端与所述第三搅拌段的一端呈螺旋状衔接；所述第二搅拌段在一轴向上呈螺旋状延伸；所述第一搅拌段以及所述第三搅拌段在所述轴向上的投影错开设置。一种烹饪装置，包括锅体以及所述的搅拌件，所述锅体内设有炒菜腔；所述搅拌件的所述第一搅拌段以及所述第三搅拌段分别可转动的安装于所述炒菜腔的两端。本实用新型的搅拌件及其烹饪装置，其搅拌件以三段螺旋延伸搅拌段衔接，在搅拌时搅拌叶片具有更多的搅拌接触面，提高搅拌效率。",
+                    "lang": "zh"
+                }
+            ],
+            "publication_type": "LIMITED_PATENT"
+        },
+        {
+            "lens_id": "007-708-988-245-655",
+            "jurisdiction": "CN",
+            "doc_number": "118919066",
+            "kind": "A",
+            "date_published": "2024-11-08",
+            "doc_key": "CN_118919066_A_20241108",
+            "docdb_id": 620694927,
+            "lang": "zh",
+            "biblio": {
+                "publication_reference": {
+                    "jurisdiction": "CN",
+                    "doc_number": "118919066",
+                    "kind": "A",
+                    "date": "2024-11-08"
+                },
+                "application_reference": {
+                    "jurisdiction": "CN",
+                    "doc_number": "202410817460",
+                    "kind": "A",
+                    "date": "2024-06-24"
+                },
+                "priority_claims": {
+                    "claims": [
+                        {
+                            "jurisdiction": "CN",
+                            "doc_number": "202410817460",
+                            "kind": "A",
+                            "date": "2024-06-24",
+                            "sequence": 1
+                        }
+                    ],
+                    "earliest_claim": {
+                        "date": "2024-06-24"
+                    }
+                },
+                "invention_title": [
+                    {
+                        "text": "一种认知功能的智能化评估系统",
+                        "lang": "zh"
+                    }
+                ],
+                "parties": {
+                    "applicants": [
+                        {
+                            "extracted_name": {
+                                "value": "苏州复变医疗科技有限公司"
+                            }
+                        }
+                    ],
+                    "inventors": [
+                        {
+                            "sequence": 1,
+                            "extracted_name": {
+                                "value": "陈扬斌"
+                            }
+                        },
+                        {
+                            "sequence": 2,
+                            "extracted_name": {
+                                "value": "阿茹娜"
+                            }
+                        },
+                        {
+                            "sequence": 3,
+                            "extracted_name": {
+                                "value": "蒋肖杰"
+                            }
+                        },
+                        {
+                            "sequence": 4,
+                            "extracted_name": {
+                                "value": "丁安祺"
+                            }
+                        },
+                        {
+                            "sequence": 5,
+                            "extracted_name": {
+                                "value": "刘冰冰"
+                            }
+                        },
+                        {
+                            "sequence": 6,
+                            "extracted_name": {
+                                "value": "束俊"
+                            }
+                        },
+                        {
+                            "sequence": 7,
+                            "extracted_name": {
+                                "value": "梁春丰"
+                            }
+                        },
+                        {
+                            "sequence": 8,
+                            "extracted_name": {
+                                "value": "胡希塔"
+                            }
+                        }
+                    ]
+                },
+                "classifications_ipcr": {
+                    "classifications": [
+                        {
+                            "symbol": "G16H50/30",
+                            "classification_value": "I",
+                            "classification_symbol_position": "F"
+                        },
+                        {
+                            "symbol": "G16H10/20",
+                            "classification_value": "I",
+                            "classification_symbol_position": "L"
+                        }
+                    ]
+                },
+                "cited_by": {}
+            },
+            "families": {
+                "simple_family": {
+                    "members": [
+                        {
+                            "document_id": {
+                                "jurisdiction": "CN",
+                                "doc_number": "118919066",
+                                "kind": "A",
+                                "date": "2024-11-08"
+                            },
+                            "lens_id": "007-708-988-245-655"
+                        }
+                    ],
+                    "size": 1
+                },
+                "extended_family": {
+                    "members": [
+                        {
+                            "document_id": {
+                                "jurisdiction": "CN",
+                                "doc_number": "118919066",
+                                "kind": "A",
+                                "date": "2024-11-08"
+                            },
+                            "lens_id": "007-708-988-245-655"
+                        }
+                    ],
+                    "size": 1
+                }
+            },
+            "legal_status": {
+                "calculation_log": [
+                    "Application Filing Date: 2024-06-24"
+                ],
+                "patent_status": "PENDING"
+            },
+            "abstract": [
+                {
+                    "text": "本发明公开了一种认知功能的智能化评估系统。该系统包括：知识库模块、资料库模块、人机交互模块、算法模块、前端医生应用模块、前端患者应用模块；知识库模块用于储备认知功能评估相关的专业数据；资料库模块用于存储测试题目可自定义部分的内容；人机交互模块用于实现认知评估过程的自动化；算法模块用于理解测试用户在的反馈并结合专业标准对进行评分；前端医生应用模块用于为医生提供可编辑的认知功能评估题目生成模块；前端患者应用模块用于为患者提供一个可自主评估以及可自动评估的模块。本发明提供了一套数字化、自动化、智能化的认知功能评估系统，以标准化的测试流程和评分标准，能够更加客观地评估认知功能。",
+                    "lang": "zh"
+                }
+            ],
+            "publication_type": "PATENT_APPLICATION"
+        }
+    ],
+    "results": 20
+}
+​
+​
