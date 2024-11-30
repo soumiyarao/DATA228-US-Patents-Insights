@@ -1,0 +1,2756 @@
+[
+    {
+        "patent_id": "20240395009",
+        "num_claims": 20,
+        "patent_date": "2024-11-28",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "Sailesh Bharathwaaj Krishnamurthy",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Sumedh Vilas Datar",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Crystal Maung",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Tejas Pradip Rode",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Shantanu Yadunath Thakurdesai",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Shahmeer Ali Mirza",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "7-Eleven, Inc."
+            }
+        ]
+    },
+    {
+        "patent_id": "20240394336",
+        "num_claims": 12,
+        "patent_date": "2024-11-28",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "Anuraag Singh",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Christopher L. Magee",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "Technext, Inc."
+            }
+        ]
+    },
+    {
+        "patent_id": "20240394232",
+        "num_claims": 20,
+        "patent_date": "2024-11-28",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "Zachary J. Mark",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "Pure Storage, Inc."
+            }
+        ]
+    },
+    {
+        "patent_id": "20240394540",
+        "num_claims": 21,
+        "patent_date": "2024-11-28",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "Jonathan Schwarz",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Razvan Pascanu",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Raia Thais Hadsell",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Wojciech Czarnecki",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Yee Whye Teh",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Jelena Luketina",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "DEEPMIND TECHNOLOGIES LIMITED"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240396883",
+        "num_claims": 1,
+        "patent_date": "2024-11-28",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "Satoru HIRAKATA",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Ryoh SHIMOMOTO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Shinya MUKASA",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Teruaki TAKAHASHI",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "Ricoh Company, Ltd."
+            }
+        ]
+    },
+    {
+        "patent_id": "20240395168",
+        "num_claims": 20,
+        "patent_date": "2024-11-28",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "Michael Nicholas DiMauro",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Sukru Murat Cebeci",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Sally Reis Renzulli",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Joseph S. Renzulli",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "Renzulli Learning, LLC"
+            }
+        ]
+    },
+    {
+        "patent_id": "3531893",
+        "num_claims": 42,
+        "patent_date": "2024-11-27",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "PHAMDUY THERESA",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "NORWOOD KELSEY",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "OREAL"
+            },
+            {
+                "organization": "PHAMDUY THERESA"
+            },
+            {
+                "organization": "NORWOOD KELSEY"
+            }
+        ]
+    },
+    {
+        "patent_id": "4468176",
+        "num_claims": 15,
+        "patent_date": "2024-11-27",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "LONGDEN CAMILLA ALICE",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "MASSICETI DANIELA",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "GRAYSON MARTIN PHILIP",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "MICROSOFT TECHNOLOGY LICENSING LLC"
+            }
+        ]
+    },
+    {
+        "patent_id": "3989060",
+        "num_claims": 42,
+        "patent_date": "2024-11-27",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "KREINES ALEXANDER",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "MENDELOWITZ SHACHAR",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "MORGULIS NIR",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "PERES NURIT",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "RED BEND LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "4273817",
+        "num_claims": 45,
+        "patent_date": "2024-11-27",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "GAO GUOWEN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "LIU HAO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "LI GUOQI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "WANG WEI",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "HUAWEI TECH CO LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "12154377",
+        "num_claims": 17,
+        "patent_date": "2024-11-26",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "Changyong Son",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Wonsuk Chang",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Deoksang Kim",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Dae-Kyu Shin",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Byungin Yoo",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Seungju Han",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Jaejoon Han",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Jinwoo Son",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Chang Kyu Choi",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "Samsung Electronics Co., Ltd."
+            }
+        ]
+    },
+    {
+        "patent_id": "12154177",
+        "num_claims": 20,
+        "patent_date": "2024-11-26",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "Nathan L. Tofte",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Timothy W. Ryan",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Nathan W. Baumann",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Michael Shawn Jacob",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Joshua David Lillie",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Brian N. Harvey",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Roxane Lyons",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Rosemarie Geier Grant",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "State Farm Mutual Automobile Insurance Company"
+            }
+        ]
+    },
+    {
+        "patent_id": "12154262",
+        "num_claims": 17,
+        "patent_date": "2024-11-26",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "Huihui Xiao",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Lei Nie",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Jianfa Zou",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Feng Huang",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "BEIJING BAIDU NETCOM SCIENCE AND TECHNOLOGY CO., LTD."
+            }
+        ]
+    },
+    {
+        "patent_id": "12154301",
+        "num_claims": 20,
+        "patent_date": "2024-11-26",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "Danny Portman",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "Zeta Global Corp."
+            }
+        ]
+    },
+    {
+        "patent_id": "12154071",
+        "num_claims": 5,
+        "patent_date": "2024-11-26",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "Yaeko Yonezawa",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Kaito Horita",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Akira Yajima",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Mizuto Sekine",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Yoshinori Ehara",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "NEC Corporation"
+            }
+        ]
+    },
+    {
+        "patent_id": "12154030",
+        "num_claims": 14,
+        "patent_date": "2024-11-26",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "Yoo Jin Choi",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Mostafa El-Khamy",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Jungwon Lee",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "Samsung Electronics Co., Ltd."
+            }
+        ]
+    },
+    {
+        "patent_id": "12154379",
+        "num_claims": 20,
+        "patent_date": "2024-11-26",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "Jinoh Oh",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Xin Lu",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Gahye Park",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Jen-Chan Jeff Chien",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Yumin Jia",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "Adobe Inc."
+            }
+        ]
+    },
+    {
+        "patent_id": "20240386539",
+        "num_claims": 10,
+        "patent_date": "2024-11-21",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "CAO MIN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "LIN HONG",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "WANG XINLIN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "QU XUAN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "WANG YUQIANG",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "GAO CHAO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "CHEN QI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "XING XUKAI",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "WUHAN OPTICS VALLEY ZOYON SCIENCE AND TECH CO LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "2024234571",
+        "num_claims": 10,
+        "patent_date": "2024-11-21",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "YU TING",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "ZHANG CHONG",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "WANG JINGWEN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "TAN GUANGMING",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "ZHANG YAN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "WANG RUI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "LV JINBO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "MA SHUNGANG",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "WANG FEILONG",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "JIANG TAO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "ZHOU ZHENGJUN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "SHU CAIWEN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "HAN SHASHA",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "POWERCHINA CHENGDU ENGINEERING CORPORATION LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240386067",
+        "num_claims": 20,
+        "patent_date": "2024-11-21",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "MISHRA SHAUNAK",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "SVIRIDENKO MAXIM IVANOVICH",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "KUZNETSOV MIKHAIL",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "SRIVASTAVA GAURAV",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "YAHOO ASSETS LLC"
+            }
+        ]
+    },
+    {
+        "patent_id": "2024234706",
+        "num_claims": 22,
+        "patent_date": "2024-11-21",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "TANG YEHUI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "HAN KAI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "DING NING",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "FU ZHONGQIAN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "WANG YUNHE",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "HUAWEI TECH CO LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240386136",
+        "num_claims": 20,
+        "patent_date": "2024-11-21",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "MATHUR NAVNEET",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "NEO4J SWEDEN AB"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240386510",
+        "num_claims": 6,
+        "patent_date": "2024-11-21",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "FAN MINGSHENG",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "HAO YANAN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "HUANG YING",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "CHINA AGRICULTURAL UNIV"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240386506",
+        "num_claims": 20,
+        "patent_date": "2024-11-21",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "HONG FENG",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "BEIJING HYDROPHIS NETWORK TECH CO LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240386068",
+        "num_claims": 20,
+        "patent_date": "2024-11-21",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "HONG FENG",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "BEIJING HYDROPHIS NETWORK TECH CO LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "3811832",
+        "num_claims": 45,
+        "patent_date": "2024-11-20",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "HAN DAYUN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "PARK YUNSIK",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "HWANG SUNGMOK",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "LG ELECTRONICS INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "3633614",
+        "num_claims": 39,
+        "patent_date": "2024-11-20",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "POTOCEK PAVEL",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "KORKMAZ MS EMINE",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "SCHOENMAKERS REMCO",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "FEI CO"
+            }
+        ]
+    },
+    {
+        "patent_id": "3558102",
+        "num_claims": 45,
+        "patent_date": "2024-11-20",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "GEVA AMIR B",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "NETZER EITAN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "MANOR RAN EL",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "VAISMAN SERGEY",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "DEOUELL LEON Y",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "ANTMAN URI",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "INNEREYE LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "3070642",
+        "num_claims": 9,
+        "patent_date": "2024-11-20",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "MIYANO RUIKO",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "TOYOTA MOTOR CO LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "12148224",
+        "num_claims": 18,
+        "patent_date": "2024-11-19",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "NORTH NATHAN THOMAS",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "MATHUR ANKIT",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "TRANSP IP HOLDINGS LLC"
+            }
+        ]
+    },
+    {
+        "patent_id": "12147652",
+        "num_claims": 15,
+        "patent_date": "2024-11-19",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "SHARIFI MATTHEW",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "PETROU DAVID",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "GOOGLE LLC"
+            }
+        ]
+    },
+    {
+        "patent_id": "12147904",
+        "num_claims": 18,
+        "patent_date": "2024-11-19",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "MARKRAM HENRY",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "SCHÜRMANN FELIX",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "DELALONDRE FABIEN JONATHAN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "LEVI RAN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "HESS BELLWALD KATHRYN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "RAHMON JOHN",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "INAIT SA"
+            }
+        ]
+    },
+    {
+        "patent_id": "12147764",
+        "num_claims": 14,
+        "patent_date": "2024-11-19",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "KLEIN TASSILO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "NABI MOIN",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "SAP SE"
+            }
+        ]
+    },
+    {
+        "patent_id": "12147493",
+        "num_claims": 21,
+        "patent_date": "2024-11-19",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "MAKHIJA SUBHASH",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "BHAT SANTOSH GANESH DATTATRAYA",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "MATAWALA HUZAIFA S",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "NB VENTURES INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "12149778",
+        "num_claims": 20,
+        "patent_date": "2024-11-19",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "PANCHAKSHARAIAH VISHWAS SHARADANAGAR",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "GUPTA GAURAV",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "KALARIA NIMIT DINESHBHAI",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "ADEIA GUIDES INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "12147409",
+        "num_claims": 5,
+        "patent_date": "2024-11-19",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "DONG YUYANG",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "OYAMADA MASAFUMI",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "NEC CORP"
+            }
+        ]
+    },
+    {
+        "patent_id": "12147502",
+        "num_claims": 9,
+        "patent_date": "2024-11-19",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "ARANI ELAHE",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "RAMKUMAR VIJAYA RAGHAVAN THIRUVENGADATHAN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "ZONOOZ BAHRAM",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "NAVINFO EUROPE B V"
+            }
+        ]
+    },
+    {
+        "patent_id": "12146760",
+        "num_claims": 8,
+        "patent_date": "2024-11-19",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "HASHIMOTO KAZUYA",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "JVCKENWOOD CORP"
+            }
+        ]
+    },
+    {
+        "patent_id": "12147459",
+        "num_claims": 5,
+        "patent_date": "2024-11-19",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "DE SOUSA WEBBER FRANCISCO EDUARDO",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "CORTICAL IO AG"
+            }
+        ]
+    },
+    {
+        "patent_id": "12147747",
+        "num_claims": 20,
+        "patent_date": "2024-11-19",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "ODINAKA IKENNA",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "MANIPATRUNI SASIKANTH",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "DOSHI DARSHAK",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "DOKANIA RAJEEV KUMAR",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "MATHURIYA AMRITA",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "KEPLER COMPUTING INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "12147452",
+        "num_claims": 20,
+        "patent_date": "2024-11-19",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "WRIGHT RYAN",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "THATDOT INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "2024231568",
+        "num_claims": 1,
+        "patent_date": "2024-11-14",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "REISS SIMON",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "FREYTAG ALEXANDER",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "STIEFELHAGEN RAINER",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "SEIBOLD CONSTANTIN",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "CARL ZEISS AG"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240378865",
+        "num_claims": 21,
+        "patent_date": "2024-11-14",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "LI YEHAO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "PAN YINGWEI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "YAO TING",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "MEI TAO",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "BEIJING JINGDONG SHANGKE INFORMATION TECH CO LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240378236",
+        "num_claims": 20,
+        "patent_date": "2024-11-14",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "KHARBANDA HARSHIT",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "LEE JESSICA",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "KELLEY CHRISTOPHER JAMES",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "ZENG BELINDA LUNA",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "WANG LOUIS",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "GOOGLE LLC"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240378710",
+        "num_claims": 20,
+        "patent_date": "2024-11-14",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "LE HENAFF GUY",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "LE HENAFF GUY"
+            }
+        ]
+    },
+    {
+        "patent_id": "2024230641",
+        "num_claims": 10,
+        "patent_date": "2024-11-14",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "ZHANG JINLIN",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "SHANGHAI 2345 NETWORK TECH CO LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240380772",
+        "num_claims": 20,
+        "patent_date": "2024-11-14",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "ALBERO GEORGE",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "MUKHERJEE MAHARAJ",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "MAYERS DEBORAH",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "KIM JINNA",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "BANK OF AMERICA CORP"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240378237",
+        "num_claims": 20,
+        "patent_date": "2024-11-14",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "KHARBANDA HARSHIT",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "LEE JESSICA",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "KELLEY CHRISTOPHER JAMES",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "ZENG BELINDA LUNA",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "WANG LOUIS",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "GOOGLE LLC"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240378275",
+        "num_claims": 17,
+        "patent_date": "2024-11-14",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "WANG WEIPENG",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "KANG JIALIANG",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "BIAN KAI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "JI NAIGENG",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "CHINA UNIONPAY CO LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "2024229752",
+        "num_claims": 10,
+        "patent_date": "2024-11-14",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "ZHANG JINLIN",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "SHANGHAI 2345 NETWORK TECH CO LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240378616",
+        "num_claims": 20,
+        "patent_date": "2024-11-14",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "WEINFLASH LAURA",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "EARLY WARNING SERVICES LLC"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240378233",
+        "num_claims": 20,
+        "patent_date": "2024-11-14",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "FRIEDER OPHIR",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "CHOWDHURY ABDUR",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "JENSEN ERIC",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "CHERRY BEN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "SANFORD RICHARD",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "KOLCZ ALEK",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "SABERI PROOSHAT",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "AURA HOME INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240378882",
+        "num_claims": 20,
+        "patent_date": "2024-11-14",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "ROGAN AARON MATTHEW",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "YOON TAEHUN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "MAHOWALD GREGORY MARK",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "UBER TECH INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "3662371",
+        "num_claims": 39,
+        "patent_date": "2024-11-13",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "WYATT NATHANIEL",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "RASPUDIC STEVEN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "JUJJURI VENKATESWARARAO",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "SALESFORCE COM INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "3850834",
+        "num_claims": 36,
+        "patent_date": "2024-11-13",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "WU CHENGLEI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "YU SHOOU-I",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "META PLATFORMS TECH LLC"
+            }
+        ]
+    },
+    {
+        "patent_id": "4018362",
+        "num_claims": 42,
+        "patent_date": "2024-11-13",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "HARTY EDMOND PATRICK",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "BURNS SHANE JOSEPH",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "HANLEY ALAN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "DALY JOHN GERARD",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "MULLANE LIAM",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "O MAHONY NIALL",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "WALSH JOSEPH",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "RIORDAN DANIEL",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "DAIRYMASTER"
+            }
+        ]
+    },
+    {
+        "patent_id": "3582144",
+        "num_claims": 30,
+        "patent_date": "2024-11-13",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "HUANG SHENGJUN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "GAO NENGNENG",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "YUAN KUN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "CHEN WEI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "WANG DI",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "UNIV NANJING AERONAUTICS & ASTRONAUTICS"
+            },
+            {
+                "organization": "TENCENT TECH SHENZHEN CO LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "3629070",
+        "num_claims": 45,
+        "patent_date": "2024-11-13",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "OKADA MASAYA",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "IWANAGA SHIGEKI",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "SYSMEX CORP"
+            }
+        ]
+    },
+    {
+        "patent_id": "12142258",
+        "num_claims": 7,
+        "patent_date": "2024-11-12",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "TANAKA TOMOHIRO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "MASUMURA RYO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "OBA TAKANOBU",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "NIPPON TELEGRAPH AND TELEPHONE CORP"
+            }
+        ]
+    },
+    {
+        "patent_id": "12142121",
+        "num_claims": 20,
+        "patent_date": "2024-11-12",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "SEKINE MIZUTO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "KITADA MASATO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "EHARA YOSHINORI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "GOTO SAIKA",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "NEC CORP"
+            }
+        ]
+    },
+    {
+        "patent_id": "12142365",
+        "num_claims": 22,
+        "patent_date": "2024-11-12",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "KAETHNER CHRISTIAN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "REGENSBURGER ALOIS",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "SIEMENS HEALTHCARE GMBH"
+            },
+            {
+                "organization": "SIEMENS HEALTHINEERS AG"
+            }
+        ]
+    },
+    {
+        "patent_id": "12142083",
+        "num_claims": 22,
+        "patent_date": "2024-11-12",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "CHEN TIANXIANG",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "KHOURY ELIE",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "PINDROP SECURITY INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "12143695",
+        "num_claims": 20,
+        "patent_date": "2024-11-12",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "GUO HUI",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "TENCENT TECH SHENZHEN COMPANY LIMITED"
+            }
+        ]
+    },
+    {
+        "patent_id": "12141197",
+        "num_claims": 23,
+        "patent_date": "2024-11-12",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "CREMER MARKUS KURT",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "HODGES TODD",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "GRACENOTE INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "12141193",
+        "num_claims": 10,
+        "patent_date": "2024-11-12",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "JIE ZEQUN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "YUAN LI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "FENG JIASHI",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "TENCENT TECH SHENZHEN COMPANY LIMITED"
+            }
+        ]
+    },
+    {
+        "patent_id": "12141705",
+        "num_claims": 14,
+        "patent_date": "2024-11-12",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "ABELHA FERREIRA PAULO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "DIAS JONAS FURTADO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "BECHARA PRADO ADRIANA",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "EMC IP HOLDING COMPANY LLC"
+            }
+        ]
+    },
+    {
+        "patent_id": "12141702",
+        "num_claims": 20,
+        "patent_date": "2024-11-12",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "CLAESSEN FRANK THEODORUS CATHARINA",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "ANSSARI MOIN DAVID",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "CHERICI TEO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "GHAZVINIAN ZANJANI FARHAD",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "PROMATON HOLDING B V"
+            }
+        ]
+    },
+    {
+        "patent_id": "12141549",
+        "num_claims": 13,
+        "patent_date": "2024-11-12",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "JIANG YING",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "YAO WENJUN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "YANG YANG",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "TANG SHOUGUO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "LI LINGYU",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "LI RUNXIN",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "KUNMING UNIV OF SCIENCE AND TECHNOLOGY"
+            }
+        ]
+    },
+    {
+        "patent_id": "12138098",
+        "num_claims": 22,
+        "patent_date": "2024-11-12",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "SASAKI SHO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "AIZAWA YUSAKU",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "HIRAYAMA KODAI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "NAGAE RYOICHI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "FUJITO TOMOKI",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "CANON MEDICAL SYSTEMS CORP"
+            }
+        ]
+    },
+    {
+        "patent_id": "12142128",
+        "num_claims": 24,
+        "patent_date": "2024-11-12",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "PARIPALLY GOPAL",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "OUELLETTE JASON M",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "TYCO FIRE & SECURITY GMBH"
+            }
+        ]
+    },
+    {
+        "patent_id": "12142021",
+        "num_claims": 15,
+        "patent_date": "2024-11-12",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "CHOI JUNKWON",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "KANG SANGKYU",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "JUNG DONGJIN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "HAN KYUCHUN",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "SAMSUNG ELECTRONICS CO LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "12141851",
+        "num_claims": 18,
+        "patent_date": "2024-11-12",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "COLTEU CLAUDIU",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "BOUSETOUANE FOUAD",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "SARAIYA NIRAV",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "GILLESPIE WILLIAM",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "W W GRAINGER INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "12141943",
+        "num_claims": 7,
+        "patent_date": "2024-11-12",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "DAI WENRUI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "SHEN YANGMEI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "LI CHENGLIN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "ZOU JUNNI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "XIONG HONGKAI",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "SHANGHAI JIAO TONG UNIV"
+            }
+        ]
+    },
+    {
+        "patent_id": "12141527",
+        "num_claims": 18,
+        "patent_date": "2024-11-12",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "OLMSTEAD GREGORY ANDREW",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "RUMFELS ERIC",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "MIGLANI ADITI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "EZAMI SAHBA",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "ENE ADA CRISTIANA",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "DHARMARETNAM DHANUSH",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "BAIN STEPHEN",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "ROYAL BANK OF CANADA"
+            }
+        ]
+    },
+    {
+        "patent_id": "12141674",
+        "num_claims": 17,
+        "patent_date": "2024-11-12",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "SHI YIXUAN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "DAI MINGYANG",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "LIU ZIXIANG",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "BEIJING BAIDU NETCOM SCIENCE AND TECH CO LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "12141194",
+        "num_claims": 17,
+        "patent_date": "2024-11-12",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "HORIBA YUJI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "KONDO MASANORI",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "NEC CORP"
+            }
+        ]
+    },
+    {
+        "patent_id": "12141535",
+        "num_claims": 20,
+        "patent_date": "2024-11-12",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "GALITSKY BORIS",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "ORACLE INT CORPORATION"
+            }
+        ]
+    },
+    {
+        "patent_id": "12141665",
+        "num_claims": 14,
+        "patent_date": "2024-11-12",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "MALUR SRINIVASAN RAMYA",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "UCHINO KANJI",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "FUJITSU LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "12141751",
+        "num_claims": 9,
+        "patent_date": "2024-11-12",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "YONEZAWA YAEKO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "HORITA KAITO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "YAJIMA AKIRA",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "SEKINE MIZUTO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "EHARA YOSHINORI",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "NEC CORP"
+            }
+        ]
+    },
+    {
+        "patent_id": "12142007",
+        "num_claims": 20,
+        "patent_date": "2024-11-12",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "YANG PENG",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "LI WENJIAN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "WANG ZHAO MIN",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "ORBBEC INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "12141733",
+        "num_claims": 18,
+        "patent_date": "2024-11-12",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "MONTANO ROBERT A",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "MONTANO ROBERT A"
+            }
+        ]
+    },
+    {
+        "patent_id": "12141199",
+        "num_claims": 18,
+        "patent_date": "2024-11-12",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "VARADARAJAN BALAKRISHNAN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "TODERICI GEORGE DAN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "NATSEV APOSTOL",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "KHANDELWAL NITIN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "VIJAYANARASIMHAN SUDHEENDRA",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "YANG WEILONG",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "SHETTY SANKETH",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "GOOGLE LLC"
+            }
+        ]
+    },
+    {
+        "patent_id": "12141238",
+        "num_claims": 18,
+        "patent_date": "2024-11-12",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "SALLEE PHILIP A",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "MULLEN JAMES",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "RAYTHEON COMPANY"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240371009",
+        "num_claims": 20,
+        "patent_date": "2024-11-07",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "SMITH TIMOTHY",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "IMAGINATION TECH LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240370466",
+        "num_claims": 17,
+        "patent_date": "2024-11-07",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "CHEEK DANIELLE SUPKIS",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "BOTTALA MICHAEL JAMES",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "MINDBRIDGE"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240371193",
+        "num_claims": 21,
+        "patent_date": "2024-11-07",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "JAMES BARNABY JOHN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "BRENTANO GRACE TAIXI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "THORNTON CHRISTOPHER",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "TIDALX AL INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240369708",
+        "num_claims": 20,
+        "patent_date": "2024-11-07",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "CROUCH STEPHEN C",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "KAYLOR BRANT",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "REIBEL RANDY R",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "AURORA OPERATIONS INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240366340",
+        "num_claims": 15,
+        "patent_date": "2024-11-07",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "SALAH PHILIPPE",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "DEBRAUX LAURENT",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "PELLISSARD THOMAS",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "DENTAL MONITORING"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240370696",
+        "num_claims": 46,
+        "patent_date": "2024-11-07",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "MASSINGHAM TIMOTHY",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "HARVEY JOSEPH",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "MASSINGHAM TIMOTHY"
+            },
+            {
+                "organization": "HARVEY JOSEPH"
+            },
+            {
+                "organization": "OXFORD NANOPORE TECH LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240370500",
+        "num_claims": 14,
+        "patent_date": "2024-11-07",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "MUMCUYAN ARAS",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "PSAROUDAKIS IRAKLIS",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "CEPEK MIROSLAV",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "PATRA RHICHEEK",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "ORACLE INT CORP"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240370900",
+        "num_claims": 20,
+        "patent_date": "2024-11-07",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "BOGOLEA BRADLEY",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "SAFI JARIULLAH",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "VANDEGRIFT LORIN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "REDDY SHIVA",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "GEHANI TOM",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "SIMBE ROBOTICS INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240370514",
+        "num_claims": 31,
+        "patent_date": "2024-11-07",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "GOURLEY SEAN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "STEBBING RICHARD",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "HEINEIKE AMY",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "APELTSIN LEONARD",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "YERA EMMANUEL",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "PRIMER TECH INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "3685361",
+        "num_claims": 45,
+        "patent_date": "2024-11-06",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "GOULDEN JASON EVANS",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "ARAVAMUDHAN RENGARAJAN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "JEONG HAE RIM",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "DIXON MICHAEL",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "STEWART JAMES EDWARD",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "SHAFI SAYED YUSEF",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "MYSORE SAHANA",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "YANG SEUNGHO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "LIEN YU-AN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "BURNS CHRISTOPHER CHARLES",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "NONGPIUR RAJEEV",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "BOYD JEFFREY",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "GOOGLE LLC"
+            }
+        ]
+    },
+    {
+        "patent_id": "3920178",
+        "num_claims": 30,
+        "patent_date": "2024-11-06",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "SU DAN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "WANG JUN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "CHEN JIE",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "YU DONG",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "TENCENT TECH SHENZHEN CO LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "4459576",
+        "num_claims": 12,
+        "patent_date": "2024-11-06",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "HE LONG",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "ZHOU MINGZHAO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "ZHUANG ZHI",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "BMC MEDICAL CO LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "3985558",
+        "num_claims": 39,
+        "patent_date": "2024-11-06",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "NITSCH JULIA",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "MICROVISION INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "12136271",
+        "num_claims": 21,
+        "patent_date": "2024-11-05",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "YU RUICHI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "LI KANG",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "HAN TAO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "COSGRIFF ROBERT",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "KRETZSCHMAR HENRIK",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "WAYMO LLC"
+            }
+        ]
+    },
+    {
+        "patent_id": "12135922",
+        "num_claims": 15,
+        "patent_date": "2024-11-05",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "HARRISON BENJAMIN JAMES",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "KOPARKAR SHRUTI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "REYNOSO MARK",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "PICKARD PAUL",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "PETLURI RAGHURAM L V",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "VICK GARY",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "VILLEGAS ANDREW",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "KORRUS INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "12133625",
+        "num_claims": 5,
+        "patent_date": "2024-11-05",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "WANG GUO-ZHEN",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "PIXART IMAGING INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "12136321",
+        "num_claims": 20,
+        "patent_date": "2024-11-05",
+        "branch": "Data Science and Analytics",
+        "inventors": [
+            {
+                "inventor_name": "SEKINE MIZUTO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "KITADA MASATO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "EHARA YOSHINORI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "GOTO SAIKA",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "NEC CORP"
+            }
+        ]
+    }
+]

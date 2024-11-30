@@ -1,0 +1,2594 @@
+[
+    {
+        "patent_id": "20240395249",
+        "num_claims": 18,
+        "patent_date": "2024-11-28",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "Michael Andrew Goodman",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "GOOGLE LLC"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240395250",
+        "num_claims": 20,
+        "patent_date": "2024-11-28",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "Manoj Sindhwani",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "Amazon Technologies, Inc."
+            }
+        ]
+    },
+    {
+        "patent_id": "20240395247",
+        "num_claims": 18,
+        "patent_date": "2024-11-28",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "Ziwei Fan",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Jiqing Zhan",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Jian Yu",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Yanfeng Wang",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Yun Zhu",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Ang Zhao",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "BEIJING SOGOU TECHNOLOGY DEVELOPMENT CO., LTD."
+            }
+        ]
+    },
+    {
+        "patent_id": "20240391480",
+        "num_claims": 44,
+        "patent_date": "2024-11-28",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "Stephen J. Caron",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Wassim Rafrafi",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "Magna Mirrors of America, Inc."
+            }
+        ]
+    },
+    {
+        "patent_id": "20240395255",
+        "num_claims": 20,
+        "patent_date": "2024-11-28",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "Li ZHAO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Xiao HAN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Kojung CHEN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Jian TONG",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "BEIJING BYTEDANCE NETWORK TECHNOLOGY CO., LTD."
+            }
+        ]
+    },
+    {
+        "patent_id": "20240395248",
+        "num_claims": 21,
+        "patent_date": "2024-11-28",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "David D. Shoop",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Dylan M. Wondra",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "Rovi Guides, Inc."
+            }
+        ]
+    },
+    {
+        "patent_id": "20240395257",
+        "num_claims": 21,
+        "patent_date": "2024-11-28",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "Bryan Cox",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Joshua Adler",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Andi Rusu",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Joseph Dureau",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Luis R. Vega Zayas",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "Sonos, Inc."
+            }
+        ]
+    },
+    {
+        "patent_id": "20240394015",
+        "num_claims": 16,
+        "patent_date": "2024-11-28",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "Terrence Arthur Fagan",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "SHGI Corporation"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240395256",
+        "num_claims": 20,
+        "patent_date": "2024-11-28",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "Kundan Kumar",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Vicki Anand",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "Descript, Inc."
+            }
+        ]
+    },
+    {
+        "patent_id": "20240394014",
+        "num_claims": 20,
+        "patent_date": "2024-11-28",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "Dayn Wilberding",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "Sonos, Inc."
+            }
+        ]
+    },
+    {
+        "patent_id": "20240394072",
+        "num_claims": 21,
+        "patent_date": "2024-11-28",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "Alston Ghafourifar",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "Entefy Inc."
+            }
+        ]
+    },
+    {
+        "patent_id": "20240389934",
+        "num_claims": 20,
+        "patent_date": "2024-11-28",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "Raquel Norel",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Guillermo Cecchi",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Bo Wen",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "International Business Machines Corporation"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240395258",
+        "num_claims": 20,
+        "patent_date": "2024-11-28",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "Sushant Hiray",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Prashant Kukde",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "RingCentral, Inc."
+            }
+        ]
+    },
+    {
+        "patent_id": "20240395118",
+        "num_claims": 20,
+        "patent_date": "2024-11-28",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "Saumya Jain",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Hardik Agarwal",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "HONEYWELL INTERNATIONAL INC."
+            }
+        ]
+    },
+    {
+        "patent_id": "20240395244",
+        "num_claims": 20,
+        "patent_date": "2024-11-28",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "Vahram Edward SUKYAS",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Jeffrey G. HOPKINS",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Sebastien PARÉ",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Phani Kumar Srinivas SAVATHAM",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Sateesh PUVVALLA",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "VIQ Solutions Inc."
+            }
+        ]
+    },
+    {
+        "patent_id": "20240394932",
+        "num_claims": 20,
+        "patent_date": "2024-11-28",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "Pavlo Chemerys",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Colin Eles",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Ju Hu",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Qing Jin",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Yanyu Li",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Ergeta Muca",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Jian Ren",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Dhgritiman Sagar",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Aleksei Stoliar",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Sergey Tulyakov",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Huan Wang",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "Snap Inc."
+            }
+        ]
+    },
+    {
+        "patent_id": "20240389814",
+        "num_claims": 15,
+        "patent_date": "2024-11-28",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "Heesuk YOON",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Kiyong LEE",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "SAMSUNG ELECTRONICS CO., LTD."
+            }
+        ]
+    },
+    {
+        "patent_id": "4468206",
+        "num_claims": 15,
+        "patent_date": "2024-11-27",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "KIM JANGWON",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "KWON NAMHEE",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "O'CONNELL HENRY",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "WALSTAD PHILLIP",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "YANG KEVIN SHENGBIN",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "CANARY SPEECH LLC"
+            }
+        ]
+    },
+    {
+        "patent_id": "3579797",
+        "num_claims": 51,
+        "patent_date": "2024-11-27",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "SKOVGAARD PETER",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "FAVA GREG",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "NORLASE APS"
+            }
+        ]
+    },
+    {
+        "patent_id": "4468287",
+        "num_claims": 15,
+        "patent_date": "2024-11-27",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "MEIYAPPAN SOMASUNDARAM",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "BLAGROVE NATHAN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "TORRES PEPIN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "GANESHKUMAR ALAGANANDAN",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "BOSE CORP"
+            }
+        ]
+    },
+    {
+        "patent_id": "3665675",
+        "num_claims": 27,
+        "patent_date": "2024-11-27",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "GALLOPYN GUIDO REMI MARCEL",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "SHARMA DUSHYANT",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "ALMENDRO BARREDA DANIEL PAULINO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "NAYLOR PATRICK A",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "MICROSOFT TECHNOLOGY LICENSING LLC"
+            }
+        ]
+    },
+    {
+        "patent_id": "4468288",
+        "num_claims": 12,
+        "patent_date": "2024-11-27",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "KANAOKA TOSHIKAZU",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "NAGAO SHOTARO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "OSUMI KOUSUKE",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "KYOCERA CORP"
+            }
+        ]
+    },
+    {
+        "patent_id": "3836557",
+        "num_claims": 27,
+        "patent_date": "2024-11-27",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "LUO HAIBIN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "GU WENBIN",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "HUAWEI TECH CO LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "4202737",
+        "num_claims": 24,
+        "patent_date": "2024-11-27",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "GARCIA RICARDO ANTONIO",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "GOOGLE LLC"
+            }
+        ]
+    },
+    {
+        "patent_id": "4072114",
+        "num_claims": 27,
+        "patent_date": "2024-11-27",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "ZHANG LIRONG",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "LE CHAO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "LING BO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "LI LI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "JIANG ZHONGYIN",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "HONOR DEVICE CO LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "4060658",
+        "num_claims": 33,
+        "patent_date": "2024-11-27",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "CHEN XIANG",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "HUAWEI TECH CO LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "12154562",
+        "num_claims": 12,
+        "patent_date": "2024-11-26",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "Wei Wang",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "Volvo Car Corporation"
+            }
+        ]
+    },
+    {
+        "patent_id": "12154546",
+        "num_claims": 20,
+        "patent_date": "2024-11-26",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "Zizu Gowayyed",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Keyvan Mohajer",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "SoundHound, Inc."
+            }
+        ]
+    },
+    {
+        "patent_id": "12150882",
+        "num_claims": 9,
+        "patent_date": "2024-11-26",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "Jiang Wang",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Jinfeng Ji",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "Jiangsu Alphay Medical Devices Co., Ltd."
+            }
+        ]
+    },
+    {
+        "patent_id": "12154563",
+        "num_claims": 18,
+        "patent_date": "2024-11-26",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "Jonghoon Jeong",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Hosang Sung",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Doohwa Hong",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Kyoungbo Min",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Eunmi Oh",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Kihyun Choo",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "SAMSUNG ELECTRONICS CO., LTD."
+            }
+        ]
+    },
+    {
+        "patent_id": "12155500",
+        "num_claims": 4,
+        "patent_date": "2024-11-26",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "Zhiyu Liu",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "Beijing Baidu Netcom Science Technology Co., Ltd."
+            }
+        ]
+    },
+    {
+        "patent_id": "12154682",
+        "num_claims": 20,
+        "patent_date": "2024-11-26",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "Frederick E. Shelton, IV",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Shane R. Adams",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "Cilag GmbH International"
+            }
+        ]
+    },
+    {
+        "patent_id": "12154055",
+        "num_claims": 19,
+        "patent_date": "2024-11-26",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "Martin Reber",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "Telepathy Labs, Inc."
+            }
+        ]
+    },
+    {
+        "patent_id": "12154560",
+        "num_claims": 20,
+        "patent_date": "2024-11-26",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "Ranganathan Srinivasan",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Rekula Dinesh",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Kaushik Hazra",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Duff H. Gold",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "Vocollect, Inc."
+            }
+        ]
+    },
+    {
+        "patent_id": "12154565",
+        "num_claims": 1,
+        "patent_date": "2024-11-26",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "Sung Jin Park",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Eun Jin Park",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "Sung Jin Park"
+            },
+            {
+                "organization": "Eun Jin Park"
+            }
+        ]
+    },
+    {
+        "patent_id": "12154549",
+        "num_claims": 18,
+        "patent_date": "2024-11-26",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "Ágoston Weisz",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Leonid Velikovich",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "Google LLC"
+            }
+        ]
+    },
+    {
+        "patent_id": "12155793",
+        "num_claims": 17,
+        "patent_date": "2024-11-26",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "Pavan Agarwal",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Gabriel Albors Sanchez",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Jonathan Ortiz Rivera",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "Celligence International LLC"
+            }
+        ]
+    },
+    {
+        "patent_id": "12153895",
+        "num_claims": 28,
+        "patent_date": "2024-11-26",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "William Tunstall-Pedoe",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Finlay Curran",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Harry Roscoe",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Robert Heywood",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "UNLIKELY ARTIFICIAL INTELLIGENCE LIMITED"
+            }
+        ]
+    },
+    {
+        "patent_id": "12154567",
+        "num_claims": 14,
+        "patent_date": "2024-11-26",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "Haris Ramic",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Vikram Aggarwal",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Moises Morgenstern Gali",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "David Roy Schairer",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Yao Chen",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "GOOGLE LLC"
+            }
+        ]
+    },
+    {
+        "patent_id": "12154683",
+        "num_claims": 20,
+        "patent_date": "2024-11-26",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "Frederick E. Shelton, IV",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Shane R. Adams",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Kevin Fiebig",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Jeffrey D. Messerly",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "Cilag GmbH International"
+            }
+        ]
+    },
+    {
+        "patent_id": "12154557",
+        "num_claims": 20,
+        "patent_date": "2024-11-26",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "Gleb Skobeltsyn",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Mihaly Kozsevnyikov",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Vladimir Vuskovic",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "GOOGLE LLC"
+            }
+        ]
+    },
+    {
+        "patent_id": "12154236",
+        "num_claims": 60,
+        "patent_date": "2024-11-26",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "Brad K. Herman",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Shiraz Akmal",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "Apple Inc."
+            }
+        ]
+    },
+    {
+        "patent_id": "12154554",
+        "num_claims": 15,
+        "patent_date": "2024-11-26",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "Zhennan Ming",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Junjie Jiang",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "Beijing Xiaomi Mobile Software Co., Ltd."
+            },
+            {
+                "organization": "Beijing Xiaomi Pinecone Electronics Co., Ltd."
+            }
+        ]
+    },
+    {
+        "patent_id": "12154551",
+        "num_claims": 18,
+        "patent_date": "2024-11-26",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "Tobias Wolff",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Markus Buck",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Jonas Jungclaussen",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Amaury Astier",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Tim Haulick",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "Cerence Operating Company"
+            }
+        ]
+    },
+    {
+        "patent_id": "12154573",
+        "num_claims": 17,
+        "patent_date": "2024-11-26",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "Hyeonmok Ko",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Sungchan Kim",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "SAMSUNG ELECTRONICS CO., LTD."
+            }
+        ]
+    },
+    {
+        "patent_id": "12154568",
+        "num_claims": 12,
+        "patent_date": "2024-11-26",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "John Lemme",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "John Lemme"
+            }
+        ]
+    },
+    {
+        "patent_id": "12154559",
+        "num_claims": 8,
+        "patent_date": "2024-11-26",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "Chanwon Seo",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Yehoon Kim",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Sojung Yun",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "SAMSUNG ELECTRONICS CO., LTD."
+            }
+        ]
+    },
+    {
+        "patent_id": "12154570",
+        "num_claims": 22,
+        "patent_date": "2024-11-26",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "Harry William Printz",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "Promptu Systems Corporation"
+            }
+        ]
+    },
+    {
+        "patent_id": "12154556",
+        "num_claims": 20,
+        "patent_date": "2024-11-26",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "Christopher Camenares",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Joseph Boayue",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Lee Adcock",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Ana Cruz",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Nahid Farhady Ghalaty",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "Capital One Services, LLC"
+            }
+        ]
+    },
+    {
+        "patent_id": "12154587",
+        "num_claims": 21,
+        "patent_date": "2024-11-26",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "Timothy Alan Port",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Benjamin Alexander Jancovich",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "DOLBY LABORATORIES LICENSING CORPORATION"
+            }
+        ]
+    },
+    {
+        "patent_id": "12155884",
+        "num_claims": 22,
+        "patent_date": "2024-11-26",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "Robert James",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "SARONIKOS TRADING AND SERVICES, UNIPESSOAL LDS"
+            }
+        ]
+    },
+    {
+        "patent_id": "12154561",
+        "num_claims": 16,
+        "patent_date": "2024-11-26",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "Matthew Sharifi",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Victor Carbune",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "GOOGLE LLC"
+            }
+        ]
+    },
+    {
+        "patent_id": "12154553",
+        "num_claims": 9,
+        "patent_date": "2024-11-26",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "Vincent Lorphelin",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "100 BREVETS POUR LA FRENCH TECH"
+            }
+        ]
+    },
+    {
+        "patent_id": "12154569",
+        "num_claims": 20,
+        "patent_date": "2024-11-26",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "Robert Lambourne",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Dayn Wilberding",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Jeffrey Torgerson",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "Sonos, Inc."
+            }
+        ]
+    },
+    {
+        "patent_id": "12154101",
+        "num_claims": 20,
+        "patent_date": "2024-11-26",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "Matthew Joseph Castoro",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Andrew Lei",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "American Express Travel Related Services Co., Inc."
+            }
+        ]
+    },
+    {
+        "patent_id": "12154566",
+        "num_claims": 20,
+        "patent_date": "2024-11-26",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "Meng Yu",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Dong Yu",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "TENCENT AMERICA LLC"
+            }
+        ]
+    },
+    {
+        "patent_id": "12155794",
+        "num_claims": 20,
+        "patent_date": "2024-11-26",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "Duane Lee Marzinzik",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Eric R. Moore",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Gregory D. Carter",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Harsh Lalwani",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Matthew Mifflin",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Padmaja Uppaluri",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Ryan Jewell",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Richard J. Lovings",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "STATE FARM MUTUAL AUTOMOBILE INSURANCE COMPANY"
+            }
+        ]
+    },
+    {
+        "patent_id": "12154564",
+        "num_claims": 19,
+        "patent_date": "2024-11-26",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "Vikram Aggarwal",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Yew Jin Lim",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Adam Goldstein",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "GOOGLE LLC"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240383495",
+        "num_claims": 20,
+        "patent_date": "2024-11-21",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "HARRISON CHRISTOPHER",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "TORC ROBOTICS INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240386888",
+        "num_claims": 16,
+        "patent_date": "2024-11-21",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "GOVARI ASSAF",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "GLINER VADIM",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "BIOSENSE WEBSTER ISRAEL LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240386890",
+        "num_claims": 5,
+        "patent_date": "2024-11-21",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "NAKAMURA HIROSHI",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "KYOCERA DOCUMENT SOLUTIONS INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240386902",
+        "num_claims": 17,
+        "patent_date": "2024-11-21",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "SHEN XIAOZHENG",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "ESPRESSIF SYSTEMS SHANGHAI CO LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240386201",
+        "num_claims": 20,
+        "patent_date": "2024-11-21",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "AHER ANKUR",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "SEN SUSANTO",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "ROVI GUIDES INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240386894",
+        "num_claims": 14,
+        "patent_date": "2024-11-21",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "FUKUTOMI TAKAAKI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "WADA SANAE",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "MACHIDA KENICHI",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "NTT TECHNOCROSS CORP"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240386896",
+        "num_claims": 20,
+        "patent_date": "2024-11-21",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "GILLARD ANDREW",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "BAGLEY KATIE",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "JPMORGAN CHASE BANK N A"
+            }
+        ]
+    },
+    {
+        "patent_id": "2024237323",
+        "num_claims": 18,
+        "patent_date": "2024-11-21",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "HOSOMI NAOKI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "MISU TERUHISA",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "HATANAKA SHUMPEI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "YANG WEI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "SUGIURA KOMEI",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "HONDA MOTOR CO LTD"
+            },
+            {
+                "organization": "KEIO UNIV"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240387025",
+        "num_claims": 20,
+        "patent_date": "2024-11-21",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "SHAH MUNJAL",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "PARIKH VISHAL",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "BHIMANI MEENESH",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "MUKHERJEE SUBHABRATA",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "MILLER ALEX",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "GODIL SAAD",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "DATTA DEBAJYOTI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "GAMBLE PAUL",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "LASKO RAE",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "HEALTHGPT INC DBA HIPPOCRATIC AI"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240388651",
+        "num_claims": 20,
+        "patent_date": "2024-11-21",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "GRUBB JARED S",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "STEWART ROBERT M",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "SANCHEZ GABRIEL",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "ASHRAF ZAKA UR REHMAN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "JAIN ANSHUL",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "APPLE INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240386711",
+        "num_claims": 18,
+        "patent_date": "2024-11-21",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "HOSOMI NAOKI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "MISU TERUHISA",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "HATANAKA SHUMPEI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "YANG WEI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "SUGIURA KOMEI",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "HONDA MOTOR CO LTD"
+            },
+            {
+                "organization": "KEIO UNIV"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240386191",
+        "num_claims": 21,
+        "patent_date": "2024-11-21",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "HATCH JEFFREY JAMES",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "I Q JOE LLC"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240386886",
+        "num_claims": 19,
+        "patent_date": "2024-11-21",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "SHARIFI MATTHEW",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "CARBUNE VICTOR",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "GOOGLE LLC"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240386675",
+        "num_claims": 20,
+        "patent_date": "2024-11-21",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "HEALEY JENNIFER",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "SUN TONG",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "REWKOWSKI NICHOLAS",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "LIPKA NEDIM",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "WIGINGTON CURTIS",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "SIU ALEXA",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "ADOBE INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "2024237944",
+        "num_claims": 1,
+        "patent_date": "2024-11-21",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "SHARIFI MATTHEW",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "CARBUNE VICTOR",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "GOOGLE LLC"
+            }
+        ]
+    },
+    {
+        "patent_id": "2024236292",
+        "num_claims": 1,
+        "patent_date": "2024-11-21",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "WEN TSUNG-HSIEN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "VULIC IVAN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "MRKŠIC NIKOLA",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "BUDZIANOWSKI PAWEL FRANCISZEK",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "KUSZTOS RAZVAN-EMANUEL",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "ANNETTS PAUL JULIAN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "YAU HO MAN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "OXLEY CATHERINE RACHEL",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "SEVRIN EMMANUEL",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "DOLLET VINCENT YOHANN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "CASANUEVA PEREZ IÑIGO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "LEVIN BENJAMIN PETER",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "NGUYEN DUONG HÀ ANH",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "JAGADEESH SWAROOP",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "ZHENG QIAN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "JEFFRIES HOOK JOSHUA LUKE",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "COOPE SAMUEL JOHN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "SU PEI-HAO",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "POLYAI LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240386889",
+        "num_claims": 21,
+        "patent_date": "2024-11-21",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "MAMKINA NATALIA VLADIMIROVNA",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "BANCROFT NAOMI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "KUMAR NISHANT",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "SOMASHEKAR SHAMITHA",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "AMAZON TECH INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240386882",
+        "num_claims": 20,
+        "patent_date": "2024-11-21",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "LIN EDISON",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "YOUNG ROWENA",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "SRIPATHY KANCHAN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "HARB REDA",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "ROVI GUIDES INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240386887",
+        "num_claims": 20,
+        "patent_date": "2024-11-21",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "KUMAR DURGESH",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "TAHILIANI SAURABH",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "VERIZON PATENT AND LICENSING INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240386880",
+        "num_claims": 10,
+        "patent_date": "2024-11-21",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "OH JUNKWANG",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "CHO HOSIK",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "SAMSUNG ELECTRONICS CO LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "3811832",
+        "num_claims": 45,
+        "patent_date": "2024-11-20",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "HAN DAYUN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "PARK YUNSIK",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "HWANG SUNGMOK",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "LG ELECTRONICS INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "3984020",
+        "num_claims": 30,
+        "patent_date": "2024-11-20",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "MEIYAPPAN SOMASUNDARAM",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "BLAGROVE NATHAN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "TORRES PEPIN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "GANESHKUMAR ALAGANANDAN",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "BOSE CORP"
+            }
+        ]
+    },
+    {
+        "patent_id": "3740861",
+        "num_claims": 39,
+        "patent_date": "2024-11-20",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "KWON TAEJUN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "HAHM SEONGIL",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "KANG SEUNGSOO",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "SAMSUNG ELECTRONICS CO LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "3340206",
+        "num_claims": 39,
+        "patent_date": "2024-11-20",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "VAN LAACK ALEXANDER",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "WASSERFUHR PETER",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "TORSCHMIED AXEL",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "VISTEON GLOBAL TECH INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "4465187",
+        "num_claims": 12,
+        "patent_date": "2024-11-20",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "GILL DAREN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "ARAVAMUDAN MURALI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "WELLING GIRISH",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "ARDHANARI SANKAR",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "BARVE RAKESH",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "VENKATARAMAN SASHIKUMAR",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "ADEIA GUIDES INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "3465463",
+        "num_claims": 24,
+        "patent_date": "2024-11-20",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "SHARMA SHIKHAR",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "HE JING",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "SULEMAN KAHEER",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "BACHMAN PHILIP",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "SCHULZ HANNES",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "MICROSOFT TECHNOLOGY LICENSING LLC"
+            }
+        ]
+    },
+    {
+        "patent_id": "4464239",
+        "num_claims": 14,
+        "patent_date": "2024-11-20",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "GOVARI ASSAF",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "GLINER VADIM",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "BIOSENSE WEBSTER ISRAEL LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "3759617",
+        "num_claims": 33,
+        "patent_date": "2024-11-20",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "KIM BYUKSUN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "PARK KYOUNGJAE",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "CHOI JINWUK",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "SAMSUNG ELECTRONICS CO LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "4064645",
+        "num_claims": 45,
+        "patent_date": "2024-11-20",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "CHOPRA SEEMA",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "GOPALA KRISHNA KIRAN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "VEERANNA RAJIV",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "BOEING CO"
+            }
+        ]
+    },
+    {
+        "patent_id": "12149881",
+        "num_claims": 20,
+        "patent_date": "2024-11-19",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "MEIYAPPAN SOMASUNDARAM",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "BLAGROVE NATHAN A",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "TORRES PEPIN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "GANESHKUMAR ALAGANANDAN",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "BOSE CORP"
+            }
+        ]
+    },
+    {
+        "patent_id": "12148421",
+        "num_claims": 17,
+        "patent_date": "2024-11-19",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "BAEUML MARTIN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "AMARASIRIWARDENA THUSHAN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "PIERACCINI ROBERTO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "SRIDAR VIKRAM",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "ADIWARDANA DANIEL DE FREITAS",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "SHAZEER NOAM M",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "LE QUOC",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "GOOGLE LLC"
+            }
+        ]
+    },
+    {
+        "patent_id": "12148441",
+        "num_claims": 23,
+        "patent_date": "2024-11-19",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "SLAPAK ALON",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "CHERKASSKY DANI",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "KARDOME TECH LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "12148306",
+        "num_claims": 18,
+        "patent_date": "2024-11-19",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "KRATZ SVEN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "VERBEKE JOSEPH",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "MARTI STEFAN",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "HARMAN INT INDUSTRIES INCORPORATED"
+            }
+        ]
+    },
+    {
+        "patent_id": "12148425",
+        "num_claims": 20,
+        "patent_date": "2024-11-19",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "HONG YESEUL",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "LEE DAYOUNG",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "LEE BORAM",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "SAMSUNG ELECTRONICS CO LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "12149773",
+        "num_claims": 20,
+        "patent_date": "2024-11-19",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "SHARIFI MATTHEW",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "CARBUNE VICTOR",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "GOOGLE LLC"
+            }
+        ]
+    },
+    {
+        "patent_id": "12148119",
+        "num_claims": 20,
+        "patent_date": "2024-11-19",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "ZHANG RUIYI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "ZHOU YUFAN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "TENSMEYER CHRISTOPHER",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "GU JIUXIANG",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "YU TONG",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "SUN TONG",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "ADOBE INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "12149897",
+        "num_claims": 20,
+        "patent_date": "2024-11-19",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "HARTUNG KLAUS",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "KADRI ROMI",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "SONOS INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "12148429",
+        "num_claims": 11,
+        "patent_date": "2024-11-19",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "RAJAN KARTHIK",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "AGARWAL SANKET",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "REZNIK BARON",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "SUKI AI INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "12148445",
+        "num_claims": 19,
+        "patent_date": "2024-11-19",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "DORN VICTORIA",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "BEAN CELESTE",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "RUDI OLGA",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "YINGLING COURTNEY",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "CHIEN HSIN-YI",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "SONY INTERACTIVE ENTERTAINMENT INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "12146758",
+        "num_claims": 20,
+        "patent_date": "2024-11-19",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "AGGARWAL VIKRAM",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "GALI MOISES MORGENSTERN",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "GOOGLE LLC"
+            }
+        ]
+    },
+    {
+        "patent_id": "12147732",
+        "num_claims": 17,
+        "patent_date": "2024-11-19",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "LANGE JOSEPH",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "AGUIRRE ASIER",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "SIEGENTHALER OLIVIER",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "PRYT MICHAL",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "GOOGLE LLC"
+            }
+        ]
+    },
+    {
+        "patent_id": "12148426",
+        "num_claims": 14,
+        "patent_date": "2024-11-19",
+        "branch": "Artificial Intelligence",
+        "inventors": [
+            {
+                "inventor_name": "GELFENBEYN ILYA GENNADYEVICH",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "GONCHARUK ARTEM",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "SIROTIN PAVEL ALEKSANDROVICH",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "GOOGLE LLC"
+            }
+        ]
+    }
+]

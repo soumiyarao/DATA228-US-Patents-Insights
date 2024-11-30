@@ -1,0 +1,2585 @@
+[
+    {
+        "patent_id": "20240394119",
+        "num_claims": 20,
+        "patent_date": "2024-11-28",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "Sara Baghsorkhi",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Mohammad Reza Haghighat",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "Intel Corporation"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240394465",
+        "num_claims": 1,
+        "patent_date": "2024-11-28",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "Yusuf Ozuysal",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "Google LLC"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240394053",
+        "num_claims": 20,
+        "patent_date": "2024-11-28",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "Sachin Dev Duggal",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Utsav Preet",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Rohan Patel",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "Engineer.ai Corp."
+            }
+        ]
+    },
+    {
+        "patent_id": "20240394118",
+        "num_claims": 20,
+        "patent_date": "2024-11-28",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "Garth Overmyer",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "GO Beyond Solutions LLC"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240394054",
+        "num_claims": 20,
+        "patent_date": "2024-11-28",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "Sachin Dev Duggal",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Ustav Preet",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Rohan Patel",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "Engineer.ai Corp."
+            }
+        ]
+    },
+    {
+        "patent_id": "20240394104",
+        "num_claims": 20,
+        "patent_date": "2024-11-28",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "John Allen TARDIF",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "Microsoft Technology Licensing, LLC"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240394101",
+        "num_claims": 20,
+        "patent_date": "2024-11-28",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "ROBERT BARKER, JR.",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "PRAKASH DARJI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "CHARLES GIANCARLO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "RONALD KARR",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "CHADD KENNEY",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "PURE STORAGE, INC."
+            }
+        ]
+    },
+    {
+        "patent_id": "4468154",
+        "num_claims": 16,
+        "patent_date": "2024-11-27",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "BAI WEIHUA",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "XIAO WEI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "CHAI XIANPING",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "HUAWEI TECH CO LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "3709539",
+        "num_claims": 21,
+        "patent_date": "2024-11-27",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "DONALD JAMES LAWRENCE",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "WRIGHT DAVID HOWELL",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "NIELSEN MEDIA RES INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "4468153",
+        "num_claims": 19,
+        "patent_date": "2024-11-27",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "ZHANG YU",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "TANG WEN",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "HUAWEI TECH CO LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "4078901",
+        "num_claims": 30,
+        "patent_date": "2024-11-27",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "SHEN JIANJUN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "ZHOU ZHENSHENG",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "LIU DANTING",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "RAUT ABHISHEK",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "LIU YANG",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "SU KAI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "SUN QIAN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "LIU VICKY",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "HAN DONGHAI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "LAN JACKIE",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "VMWARE LLC"
+            }
+        ]
+    },
+    {
+        "patent_id": "4468155",
+        "num_claims": 12,
+        "patent_date": "2024-11-27",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "YAN JINBAO",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "HONOR DEVICE CO LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "4468757",
+        "num_claims": 14,
+        "patent_date": "2024-11-27",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "GONG ASHI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "BAO YAYONG",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "HAN LU",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "HUAWEI TECH CO LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "3591555",
+        "num_claims": 48,
+        "patent_date": "2024-11-27",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "PALKA ROBERT TADEUSZ",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "MEIER PHILIPP",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "RATNAM SENTHIL",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "SUNDAR RAJAGOPALAN",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "SECUDE AG"
+            }
+        ]
+    },
+    {
+        "patent_id": "12153635",
+        "num_claims": 26,
+        "patent_date": "2024-11-26",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "Alison Elizabeth Elenchin",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Douglas Charles Pratt",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "CERNER INNOVATION, INC."
+            }
+        ]
+    },
+    {
+        "patent_id": "12155534",
+        "num_claims": 20,
+        "patent_date": "2024-11-26",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "Lyle T. Bertz",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Laurent Alexandre Laporte",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Tracy Lee Nelson",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Milind Gunjan",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "T-Mobile Innovations LLC"
+            }
+        ]
+    },
+    {
+        "patent_id": "12153958",
+        "num_claims": 20,
+        "patent_date": "2024-11-26",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "Anirudh R. Acharya",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Michael J. Mantor",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Rex Eldon McCrary",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Anthony Asaro",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Jeffrey Gongxian Cheng",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Mark Fowler",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "Advanced Micro Devices, Inc."
+            },
+            {
+                "organization": "ATI Technologies ULC"
+            }
+        ]
+    },
+    {
+        "patent_id": "12154028",
+        "num_claims": 17,
+        "patent_date": "2024-11-26",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "Srinivas Sridharan",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Dheevatsa Mudigere",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "Intel Corporation"
+            }
+        ]
+    },
+    {
+        "patent_id": "12156108",
+        "num_claims": 20,
+        "patent_date": "2024-11-26",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "Shunan Fan",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Li Zhu",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Xiaobo Yu",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "Shuiping Long",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "Huawei Technologies Co., Ltd."
+            }
+        ]
+    },
+    {
+        "patent_id": "20240385575",
+        "num_claims": 58,
+        "patent_date": "2024-11-21",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "KAMAS CHARLES",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "PATEL JIGNESH",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "LIFE TECH CORPORATION"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240385903",
+        "num_claims": 20,
+        "patent_date": "2024-11-21",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "CRAIG MITCHELL ROY",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "PAVAN DAVID JOHN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "NAIK BHARAT",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "HONEYWELL INT INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240382845",
+        "num_claims": 10,
+        "patent_date": "2024-11-21",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "MOTOIKE SATOSHI",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "SEGA CORP"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240385929",
+        "num_claims": 20,
+        "patent_date": "2024-11-21",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "SHAH MANISH K",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "SAMBANOVA SYSTEMS INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240385874",
+        "num_claims": 27,
+        "patent_date": "2024-11-21",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "INIGUEZ ALFONSO",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "SWARM TECH LLC"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240388623",
+        "num_claims": 21,
+        "patent_date": "2024-11-21",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "SINGH ANUPREET",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "HOUSER KENNETH DOYLE",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "HOLT CAVENDER GEORGE",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "HEXAGON TECH CENTER GMBH"
+            }
+        ]
+    },
+    {
+        "patent_id": "2024207824",
+        "num_claims": 23,
+        "patent_date": "2024-11-21",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "ZHANG XIAOCHUN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "YANG LIXIA",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "ZHOU RUOYU",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "HUAWEI TECH CO LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240386365",
+        "num_claims": 3,
+        "patent_date": "2024-11-21",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "SANTOSH KUSH",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "GOPALAKRISHNAN GOPAL SANTOSH",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "MAPMYID INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240385898",
+        "num_claims": 18,
+        "patent_date": "2024-11-21",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "CAO JUNSHENG",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "GAO JIE",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "ZTE CORP"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240385906",
+        "num_claims": 20,
+        "patent_date": "2024-11-21",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "BIAN CHAO",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "HUAWEI TECH CO LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "2024169269",
+        "num_claims": 17,
+        "patent_date": "2024-11-21",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "WANG WEI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "AN NING",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "SUN WENYONG",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "HONOR DEVICE CO LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240385578",
+        "num_claims": 20,
+        "patent_date": "2024-11-21",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "NAIK BHARAT",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "PEDNEKAR ABHISHEK",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "HONEYWELL INT INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "2024238286",
+        "num_claims": 1,
+        "patent_date": "2024-11-21",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "CHOPRA VISHAL",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "PARASA ANANDA",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "RYBNIKOV DANIS",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "KHUSIDMAN ALEX",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "QUALCOMM INCORPORATED"
+            }
+        ]
+    },
+    {
+        "patent_id": "2023221857",
+        "num_claims": 27,
+        "patent_date": "2024-11-21",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "WANG YAPENG",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "LIU XIANFENG",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "CHENG ZHIMI",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "DATANG MOBILE COMMUNICATIONS EQUIPMENT CO LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240385905",
+        "num_claims": 20,
+        "patent_date": "2024-11-21",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "FONTAINE DAVID ANTHONY",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "NVIDIA CORP"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240385957",
+        "num_claims": 20,
+        "patent_date": "2024-11-21",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "YUAN HUI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "XUE KUN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "DING FEI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "LIU NING",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "HUAWEI TECH CO LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240385904",
+        "num_claims": 21,
+        "patent_date": "2024-11-21",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "SINGH ANUPREET",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "HOUSER KENNETH DOYLE",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "HOLT CAVENDER GEORGE",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "HEXAGON TECH CENTER GMBH"
+            }
+        ]
+    },
+    {
+        "patent_id": "4465177",
+        "num_claims": 6,
+        "patent_date": "2024-11-20",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "SAITO SHOGO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "FUJIMOTO KEI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "OTANI IKUO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "NATORI KO",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "NIPPON TELEGRAPH & TELEPHONE"
+            }
+        ]
+    },
+    {
+        "patent_id": "3869333",
+        "num_claims": 30,
+        "patent_date": "2024-11-20",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "SCHULZE MICHAEL",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "VK INVEST GMBH"
+            }
+        ]
+    },
+    {
+        "patent_id": "12147405",
+        "num_claims": 20,
+        "patent_date": "2024-11-19",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "MCCLELLAND PHILLIP",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "BROWN PHILIP",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "CARLETON CHRIS",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "D2L CORP"
+            }
+        ]
+    },
+    {
+        "patent_id": "12147838",
+        "num_claims": 36,
+        "patent_date": "2024-11-19",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "WELLUM RICHARD KEITH",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "GELPI JOHN HARDIN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "DAEHNRICH ALEXANDER",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "SAS INST INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "12147438",
+        "num_claims": 20,
+        "patent_date": "2024-11-19",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "SINHA SARIKA",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "SARAYA SIDDHARTH",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "RATHI PRADEEP KUMAR",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "INT BUSINESS MACHINES CORPORATION"
+            }
+        ]
+    },
+    {
+        "patent_id": "12147473",
+        "num_claims": 14,
+        "patent_date": "2024-11-19",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "XIA YINGLONG",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "XU JIAN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "XIA MINGZHEN",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "HUAWEI TECH CO LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "12147843",
+        "num_claims": 20,
+        "patent_date": "2024-11-19",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "OLJACA VANJA",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "RAMAKRISHNAN SWARUPA",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "NAGARAJA GIRISH",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "PATEL BHUMIKABEN RASHMIKANT",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "VAISHNAVI NIKHIL YOGRAJ",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "TAMMANA VENKATA RAMA PRASAD",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "WILSON GREGG ALAN",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "ORACLE INT CORPORATION"
+            }
+        ]
+    },
+    {
+        "patent_id": "12147842",
+        "num_claims": 10,
+        "patent_date": "2024-11-19",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "ARTUSIO LUIGI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "MANZALINI ANTONIO",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "TELECOM ITALIA S P A"
+            }
+        ]
+    },
+    {
+        "patent_id": "12147561",
+        "num_claims": 20,
+        "patent_date": "2024-11-19",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "GUMMADIVALLI NAGESH",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "SINKAR ANIKET",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "CHAKRABORTY ARINDAM",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "BAILEY NORFLET",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "MOTTLEY CLAYTON",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "MALTSON ARTHUR",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "SATTLER ELIJAH",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "MOCZYGEMBA GREGORY",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "SHARMA NITIN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "MARCELIN EMPRESS",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "BARTON BRYAN",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "CAPITAL ONE SERVICES LLC"
+            }
+        ]
+    },
+    {
+        "patent_id": "12147828",
+        "num_claims": 20,
+        "patent_date": "2024-11-19",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "SODAGAR IRAJ",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "TENCENT AMERICA LLC"
+            }
+        ]
+    },
+    {
+        "patent_id": "12147399",
+        "num_claims": 14,
+        "patent_date": "2024-11-19",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "WELDEMARIAM KOMMINIST",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "JAYACHANDRAN PRAVEEN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "DIRIYE ABDIGANI",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "INT BUSINESS MACHINES CORPORATION"
+            }
+        ]
+    },
+    {
+        "patent_id": "2024233097",
+        "num_claims": 1,
+        "patent_date": "2024-11-14",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "SHAFFER JOSHUA H",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "CATO ANDREW B",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "MACOMBER KYLE S",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "BERNARDI LUCA",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "HARPER JOHN S",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "APPLE INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "2024232987",
+        "num_claims": 1,
+        "patent_date": "2024-11-14",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "OJHA KUNAL",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "ASHBY GERALD",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "GUINAN ASHLEY",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "GARABADU BRIJESH",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "BAREISS DAMAN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "WANAGE SHRADDHA",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "MASTERCARD INT INCORPORATED"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240380820",
+        "num_claims": 21,
+        "patent_date": "2024-11-14",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "YAMADA ATARO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "NIWA SATOSHI",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "DENSO CORP"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240373782",
+        "num_claims": 22,
+        "patent_date": "2024-11-14",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "ROOS LARS",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "HOLGERSSON JONAS",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "THORN CHRISTER",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "HUSQVARNA AB"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240378048",
+        "num_claims": 22,
+        "patent_date": "2024-11-14",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "COHEN AVIHAY",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "SERAPHIC ALGORITHMS LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240378079",
+        "num_claims": 20,
+        "patent_date": "2024-11-14",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "SHAMI GAURAVDEEP SINGH",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "WANG ZIQIANG",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "LYONNAIS MARC",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "BITTAR ABDULLAH",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "CIENA CORP"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240378093",
+        "num_claims": 20,
+        "patent_date": "2024-11-14",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "YU BOWEN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "CHEN WENGUANG",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "TSINGHUA UNIV"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240378074",
+        "num_claims": 20,
+        "patent_date": "2024-11-14",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "CHASTAIN WALTER COOPER",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "CARIELLO FRANK",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "KLEIN REUBEN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "SMITH JR PAUL EDWARD",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "ATLASSIAN US INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240378466",
+        "num_claims": 20,
+        "patent_date": "2024-11-14",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "WANAGE SHRADDHA",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "GARABADU BRIJESH",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "OJHA KUNAL",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "BAREISS DAMAN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "GUINAN ASHLEY",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "ASHBY GERALD",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "MASTERCARD INT INCORPORATED"
+            }
+        ]
+    },
+    {
+        "patent_id": "2024233736",
+        "num_claims": 1,
+        "patent_date": "2024-11-14",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "FLYNN WILLIAM ROBERT",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "LIU LU",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "LY QUANG",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "SEED DALE",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "CONVIDA WIRELESS LLC"
+            }
+        ]
+    },
+    {
+        "patent_id": "4462264",
+        "num_claims": 19,
+        "patent_date": "2024-11-13",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "YUAN HUI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "XUE KUN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "DING FEI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "LIU NING",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "HUAWEI TECH CO LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "4462255",
+        "num_claims": 13,
+        "patent_date": "2024-11-13",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "LU YUANZHI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "QIU MEIQING",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "HUAWEI TECH CO LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "12141613",
+        "num_claims": 20,
+        "patent_date": "2024-11-12",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "HEBBALALU RAGHAVENDRA SATYANARAYANA",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "SINHA RAJA",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "KULKARNI DATTATRAYA",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "BARIK PARTHA SARATHI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "NALLURI SRIKANTH",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "REVASHETTI SIDDARAYA B",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "MCAFEE LLC"
+            }
+        ]
+    },
+    {
+        "patent_id": "12143434",
+        "num_claims": 20,
+        "patent_date": "2024-11-12",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "SHEPSTONE LEE",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "CROWDSTRIKE INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "12141626",
+        "num_claims": 7,
+        "patent_date": "2024-11-12",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "DUPONT DE DINECHIN BENOIT",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "ODINOT ARNAUD",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "RAY VINCENT",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "KALRAY"
+            }
+        ]
+    },
+    {
+        "patent_id": "12141080",
+        "num_claims": 19,
+        "patent_date": "2024-11-12",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "GONG YIFAN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "JIN JIANGMING",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "BEIJING TUSEN ZHITU TECH CO LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "12141127",
+        "num_claims": 20,
+        "patent_date": "2024-11-12",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "QUICK S RYAN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "KOLSTER ARMAND",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "PROVIDENTIA WORLDWIDE LLC"
+            }
+        ]
+    },
+    {
+        "patent_id": "12141591",
+        "num_claims": 20,
+        "patent_date": "2024-11-12",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "FLYNN BRENDAN",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "MICROSOFT TECH LICENSING LLC"
+            }
+        ]
+    },
+    {
+        "patent_id": "12141667",
+        "num_claims": 22,
+        "patent_date": "2024-11-12",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "HAYES PATRICK",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "MCCOURT MICHAEL",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "JOHNSON ALEXANDRA",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "KE GEORGE",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "CLARK SCOTT",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "INTEL CORP"
+            }
+        ]
+    },
+    {
+        "patent_id": "12141709",
+        "num_claims": 20,
+        "patent_date": "2024-11-12",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "BADR IBRAHIM",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "ZULUAGA MAURICIO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "OKONKWO ANETO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "BAKIR GÖKHAN",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "GOOGLE LLC"
+            }
+        ]
+    },
+    {
+        "patent_id": "12143394",
+        "num_claims": 20,
+        "patent_date": "2024-11-12",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "RANCHOD SACHIN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "O'NEILL BRIAN STEPHEN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "SHAN AMY DONG",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "CHEN STEVEN",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "SALESFORCE INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "12141033",
+        "num_claims": 20,
+        "patent_date": "2024-11-12",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "KUMAR SATISH",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "ALLEN GARRETT",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "RHOADS JESSE",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "DERUSSO KATHLEEN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "VECCHIONE KEVIN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "WATSON RICHARD",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "SHANDROW SAMANTHA",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "PRADHAN TUSHAR",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "DATTO INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240370461",
+        "num_claims": 20,
+        "patent_date": "2024-11-07",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "ATUR BALACHANDER",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "ELMELEEGY HAZEM",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "LEE JUNG LIN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "PARAMESWARAN ADITYA G",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "PETERSOHN DEVIN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "VASHISHTHA MAHESH SHANKAR",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "SNOWFLAKE INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240370142",
+        "num_claims": 21,
+        "patent_date": "2024-11-07",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "GRAY THEODORE",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "HENNIGAN RICHARD",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "GRAY CONNOR",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "WOLFRAM STEPHEN",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "WOLFRAM RES INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240372417",
+        "num_claims": 20,
+        "patent_date": "2024-11-07",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "KOEPPEL ADAM",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "LOCKE TYLER",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "WURMFELD DAVID",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "CAPITAL ONE SERVICES LLC"
+            }
+        ]
+    },
+    {
+        "patent_id": "2024229473",
+        "num_claims": 1,
+        "patent_date": "2024-11-07",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "WOLFRAM STEPHEN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "GRAY THEODORE",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "HENNIGAN RICHARD",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "GRAY CONNOR",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "WOLFRAM RES INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240372861",
+        "num_claims": 20,
+        "patent_date": "2024-11-07",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "MOON BILLY GAYLE",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "MOON WILLIAM VICTOR",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "REDDIG FABIAN",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "WHITESTAR COMMUNICATIONS INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240370295",
+        "num_claims": 20,
+        "patent_date": "2024-11-07",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "VENKATESAN ABHIRAAM",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "JPMORGAN CHASE BANK NA"
+            }
+        ]
+    },
+    {
+        "patent_id": "2024227262",
+        "num_claims": 1,
+        "patent_date": "2024-11-07",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "SMITH BARBARA SUE",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "SULLIVAN DANIEL J",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "THE STRATEGIC COACH INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240370385",
+        "num_claims": 20,
+        "patent_date": "2024-11-07",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "LIU HAOCHENG",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "ZHU QI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "CUI BAOLONG",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "WANG HAIJIANG",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "HUAWEI TECH CO LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240370132",
+        "num_claims": 30,
+        "patent_date": "2024-11-07",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "ROOS JAN PETER",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "AQ MEDIA INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240366872",
+        "num_claims": 20,
+        "patent_date": "2024-11-07",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "MORRIS GARY A",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "BELLIVEAU SCOTT M",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "CABRERA JR ESTEBAN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "DAVIS ANNA LEIGH",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "DRAEGER RIAN W",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "DUNN LAURA J",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "GOLDSMITH TIMOTHY JOSEPH",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "HAMPAPURAM HARI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "HANNEMANN CHRISTOPHER ROBERT",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "KAMATH APURV ULLAS",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "KOEHLER KATHERINE YERRE",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "MCBRIDE PATRICK WILE",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "MENSINGER MICHAEL ROBERT",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "PASCUAL FRANCIS WILLIAM",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "PELLOUCHOUD PHILIP MANSIEL",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "POLYTARIDIS NICHOLAS",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "PUPA PHILIP THOMAS",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "SHOEMAKER KEVIN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "SMITH BRIAN CHRISTOPHER",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "WEST BENJAMIN ELROD",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "WILEY ATIIM JOSEPH",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "DEXCOM INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240369456",
+        "num_claims": 18,
+        "patent_date": "2024-11-07",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "ISHIDA EIICHI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "MIZOBUCHI TOMOYA",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "HARADA KO",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "NIPPON TELEGRAPH & TELEPHONE"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240370692",
+        "num_claims": 20,
+        "patent_date": "2024-11-07",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "AGGARWAL VIKRAM",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "GOOGLE LLC"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240370309",
+        "num_claims": 20,
+        "patent_date": "2024-11-07",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "PABARI VIPUL",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "TOUTVIRTUAL INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240370263",
+        "num_claims": 30,
+        "patent_date": "2024-11-07",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "VENU BALAJI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "EYOLE MBOU",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "GABRIELLI GIACOMO",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "VENU BALAJI"
+            },
+            {
+                "organization": "EYOLE MBOU"
+            },
+            {
+                "organization": "GABRIELLI GIACOMO"
+            },
+            {
+                "organization": "ADVANCED RISC MACH LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "4459448",
+        "num_claims": 19,
+        "patent_date": "2024-11-06",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "XU JIA",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "ZHANG WEI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "WANG XINPENG",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "HONOR DEVICE CO LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "4459458",
+        "num_claims": 37,
+        "patent_date": "2024-11-06",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "RYU BYOUNGWOOK",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "JUNG IN SUNG",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "LG ELECTRONICS INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "4459467",
+        "num_claims": 19,
+        "patent_date": "2024-11-06",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "XIAO CHENGLIU",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "LIN BUKAI",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "TENCENT TECH SHENZHEN CO LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "4459460",
+        "num_claims": 21,
+        "patent_date": "2024-11-06",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "CUI ZEHAN",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "HYGON INFORMATION TECH CO LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "4459464",
+        "num_claims": 14,
+        "patent_date": "2024-11-06",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "ZHOU ZHENHUA",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "ZHU XIAOXUN",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "SIEMENS AG"
+            }
+        ]
+    },
+    {
+        "patent_id": "4459931",
+        "num_claims": 24,
+        "patent_date": "2024-11-06",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "RYU BYOUNGWOOK",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "LEE JIN WOOK",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "NO HYOHOUN",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "LG ELECTRONICS INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "12135978",
+        "num_claims": 18,
+        "patent_date": "2024-11-05",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "STARRATT KARA S",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "DENSON DAVID W",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "IREDALE JAMES A",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "MADIGAN SANDRA T",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "SKINNER ERIK J",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "GRIMES LESLEY",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "BLACK KNIGHT IP HOLDING COMPANY LLC"
+            }
+        ]
+    },
+    {
+        "patent_id": "12135847",
+        "num_claims": 12,
+        "patent_date": "2024-11-05",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "ANDREASSON MARKUS",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "FLATFROG LAB AB"
+            }
+        ]
+    },
+    {
+        "patent_id": "12137351",
+        "num_claims": 33,
+        "patent_date": "2024-11-05",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "KUMAR NITIN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "VLADYKA ANDRII",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "KOPIEICHYK IHOR",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "GILINSKY ARKADY",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "SHCHERBYNA PAVLO",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "HARMONIC INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "12137101",
+        "num_claims": 20,
+        "patent_date": "2024-11-05",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "WOLAFKA RAINER",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "JOYNER AARON",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "STILLSON KEN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "CZAPINSKI MICHAEL",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "GOOGLE LLC"
+            }
+        ]
+    },
+    {
+        "patent_id": "12137114",
+        "num_claims": 17,
+        "patent_date": "2024-11-05",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "VLAHOVIC TATJANA",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "RAHN FREDERICK GAIL ANNA",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "EBAY INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "12135999",
+        "num_claims": 14,
+        "patent_date": "2024-11-05",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "ZHAO JUNJIE",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "ZHANG QIAN",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "BEIJING BOE TECHNOLOGY DEV CO LTD"
+            },
+            {
+                "organization": "BOE TECHNOLOGY GROUP CO LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "2024222015",
+        "num_claims": 13,
+        "patent_date": "2024-10-31",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "ZHANG RONG",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "HUAWEI TECH CO LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "2024221991",
+        "num_claims": 14,
+        "patent_date": "2024-10-31",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "PAN XUN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "ZHANG MING",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "HUAWEI TECH CO LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240362030",
+        "num_claims": 20,
+        "patent_date": "2024-10-31",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "VAIKAR AMOL MANOHAR",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "VMWARE LLC"
+            }
+        ]
+    },
+    {
+        "patent_id": "2024221469",
+        "num_claims": 35,
+        "patent_date": "2024-10-31",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "MA WENKAI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "LIU BAOYANG",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "CHEN JIN",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "SUZHOU METABRAIN INTELLIGENT TECHNOLOGY CO LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "2024226055",
+        "num_claims": 1,
+        "patent_date": "2024-10-31",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "ZHAO YIWEI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "LIU BIN",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "INNOPEAK TECH INC"
+            }
+        ]
+    }
+]

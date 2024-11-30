@@ -1,0 +1,2621 @@
+[
+    {
+        "patent_id": "4465606",
+        "num_claims": 13,
+        "patent_date": "2024-11-20",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "ADACHI TAKAHIRO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "UJIIE YOSHIHIRO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "KISHIKAWA TAKESHI",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "PANASONIC IP CORP AMERICA"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240364727",
+        "num_claims": 13,
+        "patent_date": "2024-10-31",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "ADACHI TAKAHIRO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "UJIIE YOSHIHIRO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "KISHIKAWA TAKESHI",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "PANASONIC IP CORP AMERICA"
+            }
+        ]
+    },
+    {
+        "patent_id": "2024214478",
+        "num_claims": 17,
+        "patent_date": "2024-10-17",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "TANIGUCHI TSUYOSHI",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "FUJITSU LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "2024209576",
+        "num_claims": 14,
+        "patent_date": "2024-10-10",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "ARAMAKI TOORU",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "SAITO GO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "ZHANG XICEN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "KIJIMA MIHOKO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "KAKINUMA TAKEFUMI",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "HITACHI HIGH TECH CORP"
+            }
+        ]
+    },
+    {
+        "patent_id": "2024209608",
+        "num_claims": 8,
+        "patent_date": "2024-10-10",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "TAKEMURA TATSUYA",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "KAMIYA KAZUNORI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "TOBIYAMA SHUN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "OBA SHOSUKE",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "NIPPON TELEGRAPH & TELEPHONE"
+            }
+        ]
+    },
+    {
+        "patent_id": "2024195486",
+        "num_claims": 12,
+        "patent_date": "2024-09-26",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "WADA KENYA",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "ADACHI NAOKI",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "AUTONETWORKS TECHNOLOGIES LTD"
+            },
+            {
+                "organization": "SUMITOMO WIRING SYSTEMS"
+            },
+            {
+                "organization": "SUMITOMO ELECTRIC INDUSTRIES"
+            }
+        ]
+    },
+    {
+        "patent_id": "12093602",
+        "num_claims": 30,
+        "patent_date": "2024-09-17",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "BIERBOWER CHRIS",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "VOSSEL PHILIPPE",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "SONOS INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "2024185163",
+        "num_claims": 6,
+        "patent_date": "2024-09-12",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "TAKATSU TAKESHI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "HATADA MITSUHIRO",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "NTT COMM CORP"
+            }
+        ]
+    },
+    {
+        "patent_id": "2024185164",
+        "num_claims": 6,
+        "patent_date": "2024-09-12",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "TAKATSU TAKESHI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "HATADA MITSUHIRO",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "NTT COMM CORP"
+            }
+        ]
+    },
+    {
+        "patent_id": "2024184981",
+        "num_claims": 7,
+        "patent_date": "2024-09-12",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "TAKEMURA TATSUYA",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "WATANABE TAKUYA",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "AKIYAMA MITSUAKI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "SHIOJI EITARO",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "NIPPON TELEGRAPH & TELEPHONE"
+            }
+        ]
+    },
+    {
+        "patent_id": "2024185161",
+        "num_claims": 9,
+        "patent_date": "2024-09-12",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "TAKATSU TAKESHI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "HATADA MITSUHIRO",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "NTT COMM CORP"
+            }
+        ]
+    },
+    {
+        "patent_id": "2024185162",
+        "num_claims": 5,
+        "patent_date": "2024-09-12",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "TAKATSU TAKESHI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "HATADA MITSUHIRO",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "NTT COMM CORP"
+            }
+        ]
+    },
+    {
+        "patent_id": "2024180621",
+        "num_claims": 7,
+        "patent_date": "2024-09-06",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "FUJIKI NAOTO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "KOYAMA TAKAAKI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "NAGAFUCHI YUKIO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "CHIBA NOBUHIRO",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "NIPPON TELEGRAPH & TELEPHONE"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240291832",
+        "num_claims": 10,
+        "patent_date": "2024-08-29",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "TSUKAMOTO HIROYUKI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "UEDA HIROSHI",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "SUMITOMO ELECTRIC INDUSTRIES"
+            },
+            {
+                "organization": "SUMITOMO WIRING SYSTEMS"
+            },
+            {
+                "organization": "AUTONETWORKS TECHNOLOGIES LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "12073422",
+        "num_claims": 8,
+        "patent_date": "2024-08-27",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "HEAD MELINDA",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "KUMAR HEMANT",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "WRIGHT JAMES ANDREW",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "RATTENBURY BRIAN BLAKENY",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "NATHANSON MARTIN DANIEL",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "HEAD RES INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "2024171457",
+        "num_claims": 7,
+        "patent_date": "2024-08-22",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "CHIBA NOBUHIRO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "KOYAMA TAKAAKI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "FUJIKI NAOTO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "NAGAFUCHI YUKIO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "NAKAJIMA YOSHIAKI",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "NIPPON TELEGRAPH & TELEPHONE"
+            }
+        ]
+    },
+    {
+        "patent_id": "4404526",
+        "num_claims": 12,
+        "patent_date": "2024-07-24",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "OKADA HIROYUKI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "OBA TATSUMI",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "PANASONIC IP CORP AMERICA"
+            }
+        ]
+    },
+    {
+        "patent_id": "2024150522",
+        "num_claims": 6,
+        "patent_date": "2024-07-18",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "SASAKI MASAHIDE",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "FUJIWARA MIKIO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "ESUMI ATSUSHI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "LI KAI",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "NAT INST INF & COMM TECH"
+            },
+            {
+                "organization": "SIGLEAD INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "12041179",
+        "num_claims": 23,
+        "patent_date": "2024-07-16",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "SHAW DONGXIAO",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "SHANGHAI FINANASIA INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240214809",
+        "num_claims": 12,
+        "patent_date": "2024-06-27",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "OKADA HIROYUKI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "OBA TATSUMI",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "PANASONIC IP CORP AMERICA"
+            }
+        ]
+    },
+    {
+        "patent_id": "2024135266",
+        "num_claims": 17,
+        "patent_date": "2024-06-27",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "DOIRADO EURICO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "AKAISHI AKIRA",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "SPIDER LABS INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "12022345",
+        "num_claims": 10,
+        "patent_date": "2024-06-25",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "FUTAKI HISASHI",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "NEC CORP"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240205156",
+        "num_claims": 20,
+        "patent_date": "2024-06-20",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "MORENO VICTOR MANUEL",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "HOODA SANJAY KUMAR",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "VETTETH ANOOP",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "JAIN PRAKASH C",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "CISCO TECH INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "2024127706",
+        "num_claims": 5,
+        "patent_date": "2024-06-20",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "IWATA KEIICHI",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "INTERFACE CORP"
+            }
+        ]
+    },
+    {
+        "patent_id": "2024116666",
+        "num_claims": 9,
+        "patent_date": "2024-06-06",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "YAMAMOTO MASAYA",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "TSUTSUI TOMOAKI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "ODA TOMOHIRO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "UJIIE YOSHIHIRO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "HIRAISHI RIKIYA",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "HAGA TOMOYUKI",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "PANASONIC IP MAN CO LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "12003420",
+        "num_claims": 20,
+        "patent_date": "2024-06-04",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "MORENO VICTOR MANUEL",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "HOODA SANJAY KUMAR",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "VETTETH ANOOP",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "JAIN PRAKASH C",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "CISCO TECH INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "11997069",
+        "num_claims": 20,
+        "patent_date": "2024-05-28",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "GUPTA BIKRAM KUMAR",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "RAMAN ANANTH",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "NEDBAL MANUEL",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "ANBALAGAN ELANTHIRAIYAN A",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "MCAFEE LLC"
+            }
+        ]
+    },
+    {
+        "patent_id": "2024105792",
+        "num_claims": 6,
+        "patent_date": "2024-05-23",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "YAMANAKA YUKI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "TAKIGUCHI HIROYOSHI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "SHINOHARA MASANORI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "MINAMI TAKUYA",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "WADA YASUNORI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "KANEMOTO YO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "NOMURA HIROTO",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "NIPPON TELEGRAPH & TELEPHONE"
+            }
+        ]
+    },
+    {
+        "patent_id": "2024106222",
+        "num_claims": 13,
+        "patent_date": "2024-05-23",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "KAMIGUCHI SHOGO",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "AUTONETWORKS TECHNOLOGIES LTD"
+            },
+            {
+                "organization": "SUMITOMO WIRING SYSTEMS"
+            },
+            {
+                "organization": "SUMITOMO ELECTRIC INDUSTRIES"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240152607",
+        "num_claims": 11,
+        "patent_date": "2024-05-09",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "YOSHIDA KEIGO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "TSUKAMOTO HIROYUKI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "KAMIGUCHI SHOGO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "UEDA HIROSHI",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "AUTONETWORKS TECHNOLOGIES LTD"
+            },
+            {
+                "organization": "SUMITOMO WIRING SYSTEMS"
+            },
+            {
+                "organization": "SUMITOMO ELECTRIC INDUSTRIES"
+            }
+        ]
+    },
+    {
+        "patent_id": "11962609",
+        "num_claims": 20,
+        "patent_date": "2024-04-16",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "SANDER TOMAS",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "HEIN BRIAN FREDERIK HOSEA CHE",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "COHEN NADAV",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "ROSS TED",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "ENTIT SOFTWARE LLC"
+            },
+            {
+                "organization": "MICRO FOCUS LLC"
+            }
+        ]
+    },
+    {
+        "patent_id": "11936486",
+        "num_claims": 20,
+        "patent_date": "2024-03-19",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "KIM SUNGWHAN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "JUNG CHAEWON",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "LEE HYUN JUNG",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "CHO SEO HYUN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "JOUNG EUN JUNG",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "LINE PLUS CORP"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240086140",
+        "num_claims": 30,
+        "patent_date": "2024-03-14",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "BIERBOWER CHRIS",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "VOSSEL PHILIPPE",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "SONOS INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "2024045088",
+        "num_claims": 17,
+        "patent_date": "2024-03-07",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "GUO DAIFEI",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "SIEMENS AG"
+            },
+            {
+                "organization": "SIEMENS LTD CHINA"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240070790",
+        "num_claims": 20,
+        "patent_date": "2024-02-29",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "CHONG CHOO YEI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "KENYON HEIDI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "SHAH NEHA PARIKH",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "SHENVI PRIOLKAR DEEPA",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "DOLLAR CHRISTOPHER MICHAEL",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "KIM JIN YOUNG",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "MELHAFF AARON NASH",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "KANNEPALLI VENKATA SREEKANTH",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "COPFER WENDE E",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "BECKER HARALD",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "ZHANG QINTIAN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "HUANG AMY L",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "MICROSOFT TECHNOLOGY LICENSING LLC"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240048441",
+        "num_claims": 20,
+        "patent_date": "2024-02-08",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "ZHAO JUNJIE",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "SHEN HONGXIANG",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "WANG YAOPING",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "BEIJING BOE TECHNOLOGY DEV CO LTD"
+            },
+            {
+                "organization": "BOE TECHNOLOGY GROUP CO LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "11888642",
+        "num_claims": 6,
+        "patent_date": "2024-01-30",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "KANG HYEONJIN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "MOON SANGJUN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "BANG JONGHO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "HONG DOHY",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "SAMSUNG ELECTRONICS CO LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240031348",
+        "num_claims": 17,
+        "patent_date": "2024-01-25",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "PALMER JODY HUPTON",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "SCOTT NICHOLAS EDWARD",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "OPEN TEXT SA ULC"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240028010",
+        "num_claims": 5,
+        "patent_date": "2024-01-25",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "ONOSE NAO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "NISHINAGA NAOYA",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "FANUC CORP"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240031382",
+        "num_claims": 12,
+        "patent_date": "2024-01-25",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "ISHIKAWA FUMIYA",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "AUTONETWORKS TECHNOLOGIES LTD"
+            },
+            {
+                "organization": "SUMITOMO WIRING SYSTEMS"
+            },
+            {
+                "organization": "SUMITOMO ELECTRIC INDUSTRIES"
+            }
+        ]
+    },
+    {
+        "patent_id": "4311190",
+        "num_claims": 10,
+        "patent_date": "2024-01-24",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "HATANAKA ISSEI",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "TOSHIBA KK"
+            },
+            {
+                "organization": "TOSHIBA INFRASTRUCTURE SYSTEMS & SOLUTIONS CORP"
+            }
+        ]
+    },
+    {
+        "patent_id": "2024009540",
+        "num_claims": 15,
+        "patent_date": "2024-01-11",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "OHKUBO KEIKO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "KOUNOURA HIROAKI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "INOMATA HIROFUMI",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "HITACHI LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "11870777",
+        "num_claims": 10,
+        "patent_date": "2024-01-09",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "KASAHARA SABURO",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "MITSUBISHI ELECTRIC CORP"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240007390",
+        "num_claims": 20,
+        "patent_date": "2024-01-04",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "MISHRA MANKAMANA PRASAD",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "BUDHIRAJA ANUJ",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "SANTHANAM SRIDHAR",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "K SUNIL KRISHNAN",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "CISCO TECH INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "2024006110",
+        "num_claims": 1,
+        "patent_date": "2024-01-04",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "MISHRA MANKAMANA",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "BUDHIRAJA ANUJ",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "SANTHANAM SRIDHAR",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "K SUNIL",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "CISCO TECH INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "20230403177",
+        "num_claims": 9,
+        "patent_date": "2023-12-14",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "HATANAKA ISSEI",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "TOSHIBA KK"
+            },
+            {
+                "organization": "TOSHIBA INFRASTRUCTURE SYSTEMS & SOLUTIONS CORP"
+            }
+        ]
+    },
+    {
+        "patent_id": "11835932",
+        "num_claims": 16,
+        "patent_date": "2023-12-05",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "MAGNAVACCA SYLVAIN",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "SIEMENS SCHWEIZ AG"
+            }
+        ]
+    },
+    {
+        "patent_id": "11831452",
+        "num_claims": 17,
+        "patent_date": "2023-11-28",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "MANICKAM SATHISH KUMAR",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "JACOB EBY",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "SUGUMARAN SRIRAMAJEYAM",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "MOHAN RAMESH GUMMUDIPUNDI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "GATKAL MAHESH",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "SYEDANSARI SHEIK AHAMED KABIR",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "RAMANATHAN GNANASAKTHIVEL",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "COGNIZANT TECH SOLUTIONS INDIA PVT LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "2023223973",
+        "num_claims": 1,
+        "patent_date": "2023-11-23",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "NAKAGOSHI TATSUYA",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "CENTER MOBILE CO LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "2023223817",
+        "num_claims": 9,
+        "patent_date": "2023-11-23",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "XIAN YUANJUN",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "AUTONETWORKS TECHNOLOGIES LTD"
+            },
+            {
+                "organization": "SUMITOMO WIRING SYSTEMS"
+            },
+            {
+                "organization": "SUMITOMO ELECTRIC INDUSTRIES"
+            }
+        ]
+    },
+    {
+        "patent_id": "2023223863",
+        "num_claims": 12,
+        "patent_date": "2023-11-23",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "WATANABE MASASHI",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "AUTONETWORKS TECHNOLOGIES LTD"
+            },
+            {
+                "organization": "SUMITOMO WIRING SYSTEMS"
+            },
+            {
+                "organization": "SUMITOMO ELECTRIC INDUSTRIES"
+            }
+        ]
+    },
+    {
+        "patent_id": "11822853",
+        "num_claims": 26,
+        "patent_date": "2023-11-21",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "BIERBOWER CHRIS",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "VOSSEL PHILIPPE",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "SONOS INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "2023219078",
+        "num_claims": 5,
+        "patent_date": "2023-11-16",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "FUTAMURA NORIHITO",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "PZP CO"
+            }
+        ]
+    },
+    {
+        "patent_id": "11816216",
+        "num_claims": 20,
+        "patent_date": "2023-11-14",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "ARDELI RAMESH",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "HEWLETT PACKARD ENTPR DEV LP"
+            }
+        ]
+    },
+    {
+        "patent_id": "11785053",
+        "num_claims": 18,
+        "patent_date": "2023-10-10",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "FILSFILS CLARENCE",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "WARD DAVID DELANO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "RAHMAN RESHAD",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "DHESIKAN SUBHASRI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "VOIT ERIC ALBIN",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "CISCO TECH INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "2023190257",
+        "num_claims": 7,
+        "patent_date": "2023-10-05",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "MINAKUCHI TORU",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "MATSUSHIMA KEISUKE",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "KAJITANI JUNICHI",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "NTT COMM CORP"
+            }
+        ]
+    },
+    {
+        "patent_id": "2023166457",
+        "num_claims": 1,
+        "patent_date": "2023-09-07",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "KRISHNASWAMY DILIP",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "BHAMRAH DIPENDER",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "GUPTA RAJEEV",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "JIO PLATFORMS LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "11743246",
+        "num_claims": 17,
+        "patent_date": "2023-08-29",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "PALMER JODY HUPTON",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "SCOTT NICHOLAS EDWARD",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "OPEN TEXT SA ULC"
+            }
+        ]
+    },
+    {
+        "patent_id": "2023157191",
+        "num_claims": 8,
+        "patent_date": "2023-08-24",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "OTA TOSHIO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "KASAI MIO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "MIYAMOTO YASUHIRO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "MIYAMOTO JUNKO",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "FIVEDRIVE INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "2023149194",
+        "num_claims": 11,
+        "patent_date": "2023-08-10",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "AIBA SHINICHI",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "AUTONETWORKS TECHNOLOGIES LTD"
+            },
+            {
+                "organization": "SUMITOMO WIRING SYSTEMS"
+            },
+            {
+                "organization": "SUMITOMO ELECTRIC INDUSTRIES"
+            }
+        ]
+    },
+    {
+        "patent_id": "2023144905",
+        "num_claims": 10,
+        "patent_date": "2023-08-03",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "MITANI SHOHEI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "UEDA HIROFUMI",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "NEC CORP"
+            }
+        ]
+    },
+    {
+        "patent_id": "2023145379",
+        "num_claims": 6,
+        "patent_date": "2023-08-03",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "SASAKI MASAHIDE",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "ESUMI ATSUSHI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "LI KAI",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "NAT INST INF & COMM TECH"
+            },
+            {
+                "organization": "SIGLEAD INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "20230246832",
+        "num_claims": 22,
+        "patent_date": "2023-08-03",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "ERSOY OKAN",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "GERCHBERG OPHTHALMIC DISPENSING PLLC"
+            }
+        ]
+    },
+    {
+        "patent_id": "2540037",
+        "num_claims": 33,
+        "patent_date": "2023-08-02",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "LEE MIN SOO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "KIM JIN HO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "JEON BEOM JIN",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "LG ELECTRONICS INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "2023136111",
+        "num_claims": 13,
+        "patent_date": "2023-07-20",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "ADACHI TAKAHIRO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "UJIIE YOSHIHIRO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "KISHIKAWA TAKESHI",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "PANASONIC IP CORP AMERICA"
+            }
+        ]
+    },
+    {
+        "patent_id": "20230224784",
+        "num_claims": 6,
+        "patent_date": "2023-07-13",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "FUTAKI HISASHI",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "NEC CORP"
+            }
+        ]
+    },
+    {
+        "patent_id": "20230221801",
+        "num_claims": 20,
+        "patent_date": "2023-07-13",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "COLEMAN TREVOR CE",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "AIMONE CHRISTOPHER ALLEN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "GARTEN ARIEL STEPHANIE",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "PINO LOCILLO (LOU) GIUSEPPE",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "BARANOWSKI PAUL HARRISON",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "RUPSINGH RAUL RAJIV",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "VIDYARTHI KAPIL JAY MISHRA",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "INTERAXON INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "11698769",
+        "num_claims": 26,
+        "patent_date": "2023-07-11",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "BIERBOWER CHRIS",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "VOSSEL PHILIPPE",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "SONOS INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "2023127477",
+        "num_claims": 14,
+        "patent_date": "2023-07-06",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "KURACHI RYO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "TAKADA HIROAKI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "UEDA HIROSHI",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "NATIONAL UNIV CORPORATION TOKAI NATIONAL HIGHER EDUCATION AND RESEARCH SYSTEM"
+            },
+            {
+                "organization": "AUTONETWORKS TECHNOLOGIES LTD"
+            },
+            {
+                "organization": "SUMITOMO WIRING SYSTEMS"
+            },
+            {
+                "organization": "SUMITOMO ELECTRIC INDUSTRIES"
+            }
+        ]
+    },
+    {
+        "patent_id": "11695582",
+        "num_claims": 18,
+        "patent_date": "2023-07-04",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "KIM YOUNG HYUK",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "LINE PLUS CORP"
+            }
+        ]
+    },
+    {
+        "patent_id": "2023115154",
+        "num_claims": 1,
+        "patent_date": "2023-06-29",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "MCDONALD IAIN",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "8SEATS GROUP PTY LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "4202876",
+        "num_claims": 16,
+        "patent_date": "2023-06-28",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "RENDELL MARK",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "LANGE DETLEF",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "SCHWARZLI ROBERT",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "BEAVER MACHINE CORP"
+            }
+        ]
+    },
+    {
+        "patent_id": "20230195407",
+        "num_claims": 26,
+        "patent_date": "2023-06-22",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "BIERBOWER CHRIS",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "VOSSEL PHILIPPE",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "SONOS INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "20230185959",
+        "num_claims": 14,
+        "patent_date": "2023-06-15",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "TAKADA TOMONORI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "AKABORI HIDEAKI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "KISHIDA TSUNECHIKA",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "KOBAYASHI YOSHIHIKO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "SUZUKI MASATAKA",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "MINAKUCHI TOHRU",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "NTT COMM CORP"
+            }
+        ]
+    },
+    {
+        "patent_id": "4195056",
+        "num_claims": 14,
+        "patent_date": "2023-06-14",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "TAKADA TOMONORI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "AKABORI HIDEAKI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "KISHIDA TSUNECHIKA",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "KOBAYASHI YOSHIHIKO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "SUZUKI MASATAKA",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "MINAKUCHI TOHRU",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "NTT COMM CORP"
+            }
+        ]
+    },
+    {
+        "patent_id": "20230179526",
+        "num_claims": 21,
+        "patent_date": "2023-06-08",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "MORENO VICTOR MANUEL",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "HOODA SANJAY KUMAR",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "VETTETH ANOOP",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "JAIN PRAKASH C",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "CISCO TECH INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "3220577",
+        "num_claims": 12,
+        "patent_date": "2023-06-07",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "KANG HYEONJIN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "MOON SANGJUN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "BANG JONGHO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "HONG DOHY",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "SAMSUNG ELECTRONICS CO LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "1895738",
+        "num_claims": 45,
+        "patent_date": "2023-06-07",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "AKYOL BORA",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "AGARWAL PUNEET",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "AVAGO TECH INT SALES PTE LID"
+            }
+        ]
+    },
+    {
+        "patent_id": "3654581",
+        "num_claims": 45,
+        "patent_date": "2023-05-10",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "HA MIKYUNG",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "LG ELECTRONICS INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "11637727",
+        "num_claims": 20,
+        "patent_date": "2023-04-25",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "PAN CHENGHAO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "WU CHUAN",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "SHANGHAI PANCHIP MICROELECTRONICS CO LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "11635813",
+        "num_claims": 29,
+        "patent_date": "2023-04-25",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "COLEMAN TREVOR CE",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "AIMONE CHRISTOPHER ALLEN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "GARTEN ARIEL STEPHANIE",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "PINO LOCILLO (LOU) GIUSEPPE",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "BARANOWSKI PAUL HARRISON",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "RUPSINGH RAUL RAJIV",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "VIDYARTHI KAPIL JAY MISHRA",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "INTERAXON INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "2023042710",
+        "num_claims": 12,
+        "patent_date": "2023-03-23",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "OKADA HIROYUKI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "OBA TATSUMI",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "PANASONIC IP CORP AMERICA"
+            }
+        ]
+    },
+    {
+        "patent_id": "2023005745",
+        "num_claims": 50,
+        "patent_date": "2023-02-02",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "XU LING",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "PENG SHUPING",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "CHEN XIA",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "HUAWEI TECH CO LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "11569855",
+        "num_claims": 20,
+        "patent_date": "2023-01-31",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "KAUPPERT THOMAS",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "GOTTSCHALK KLAUS",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "PETKOV HRISTO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "MZYK RAPHAEL",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "DIEHL METERING SYSTEMS GMBH"
+            }
+        ]
+    },
+    {
+        "patent_id": "11570109",
+        "num_claims": 20,
+        "patent_date": "2023-01-31",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "MORENO VICTOR MANUEL",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "HOODA SANJAY KUMAR",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "VETTETH ANOOP",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "JAIN PRAKASH C",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "CISCO TECH INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "20230012385",
+        "num_claims": 25,
+        "patent_date": "2023-01-12",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "MANICKAM SATHISH KUMAR",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "JACOB EBY",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "SUGUMARAN SRIRAMAJEYAM",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "MOHAN RAMESH GUMMUDIPUNDI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "GATKAL MAHESH",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "SYEDANSARI SHEIK AHAMED KABIR",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "RAMANATHAN GNANASAKTHIVEL",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "COGNIZANT TECH SOLUTIONS INDIA PVT LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "20230006987",
+        "num_claims": 17,
+        "patent_date": "2023-01-05",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "PALMER JODY HUPTON",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "SCOTT NICHOLAS EDWARD",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "OPEN TEXT SA ULC"
+            }
+        ]
+    },
+    {
+        "patent_id": "4113335",
+        "num_claims": 9,
+        "patent_date": "2023-01-04",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "UNO KAZUYA",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "HASEBE TAKAYUKI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "MATSUDA MASAHIRO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "MATSUMOTO TATSURO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "TAKECHI RYUICHI",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "FUJITSU LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "2022270240",
+        "num_claims": 10,
+        "patent_date": "2022-12-29",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "TSUKAMOTO HIROYUKI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "UEDA HIROSHI",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "SUMITOMO ELECTRIC INDUSTRIES"
+            },
+            {
+                "organization": "SUMITOMO WIRING SYSTEMS"
+            },
+            {
+                "organization": "AUTONETWORKS TECHNOLOGIES LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "11503084",
+        "num_claims": 13,
+        "patent_date": "2022-11-15",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "MA KA-YUI KEVIN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "ERICKSON JOHN",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "MA KA YUI KEVIN"
+            },
+            {
+                "organization": "ERICKSON JOHN"
+            },
+            {
+                "organization": "VONAGE AMERICA INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "20220353097",
+        "num_claims": 18,
+        "patent_date": "2022-11-03",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "KIM YOUNG HYUK",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "LINE PLUS CORP"
+            }
+        ]
+    },
+    {
+        "patent_id": "20220353186",
+        "num_claims": 20,
+        "patent_date": "2022-11-03",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "MORENO VICTOR MANUEL",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "HOODA SANJAY KUMAR",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "VETTETH ANOOP",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "JAIN PRAKASH C",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "CISCO TECH INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "2022224651",
+        "num_claims": 9,
+        "patent_date": "2022-10-27",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "KAMIGUCHI SHOGO",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "AUTONETWORKS TECHNOLOGIES LTD"
+            },
+            {
+                "organization": "SUMITOMO WIRING SYSTEMS"
+            },
+            {
+                "organization": "SUMITOMO ELECTRIC INDUSTRIES"
+            }
+        ]
+    },
+    {
+        "patent_id": "11483302",
+        "num_claims": 17,
+        "patent_date": "2022-10-25",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "PALMER JODY HUPTON",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "SCOTT NICHOLAS EDWARD",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "OPEN TEXT SA ULC"
+            }
+        ]
+    },
+    {
+        "patent_id": "20220337430",
+        "num_claims": 9,
+        "patent_date": "2022-10-20",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "UNO KAZUYA",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "HASEBE TAKAYUKI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "MATSUDA MASAHIRO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "MATSUMOTO TATSURO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "TAKECHI RYUICHI",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "FUJITSU LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "2022213617",
+        "num_claims": 10,
+        "patent_date": "2022-10-13",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "TANG HONG",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "GONG XIA",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "ZHU YONGQING",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "CHEN HUANAN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "WU YOUMING",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "CHINA TELECOM CO LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "2022199164",
+        "num_claims": 21,
+        "patent_date": "2022-09-29",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "LIU WENJIE",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "LI DONGFENG",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "CHENG LIANG",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "LI FENGLIN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "WU BO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "SUN GUANGYU",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "XIE KUN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "TIAN JIAZHENG",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "HUAWEI TECH CO LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "2022196439",
+        "num_claims": 10,
+        "patent_date": "2022-09-22",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "HATANAKA ISSEI",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "TOSHIBA KK"
+            },
+            {
+                "organization": "TOSHIBA INFRASTRUCTURE SYSTEMS & SOLUTIONS CORP"
+            }
+        ]
+    },
+    {
+        "patent_id": "11431588",
+        "num_claims": 16,
+        "patent_date": "2022-08-30",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "SEO JOONKYU",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "KANG KYUNGA",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "KWAK JIYEON",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "KIM HYUNJIN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "LEE JUYOUN",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "SAMSUNG ELECTRONICS CO LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "2022174672",
+        "num_claims": 15,
+        "patent_date": "2022-08-25",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "HOU XIAOHUI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "YANG ZHUO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "WU DI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "WANG NING",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "ZTE CORP"
+            }
+        ]
+    }
+]
