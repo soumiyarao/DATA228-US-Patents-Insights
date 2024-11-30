@@ -78,7 +78,7 @@ def process_branch(branch_name, query_string):
                     "inventors": [
                         {
                             "inventor_name": inventor.get("extracted_name", {}).get("value"),
-                            "gender": "U"
+                            "gender": "U"  #As the api doesnt provide gender information, we are providing unknown value
                         }
                         for inventor in record.get("biblio", {})
                                                .get("parties", {})
