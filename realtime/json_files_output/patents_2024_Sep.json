@@ -1,0 +1,192 @@
+[
+    {
+        "patent_id": "2024195486",
+        "num_claims": 12,
+        "patent_date": "2024-09-26",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "WADA KENYA",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "ADACHI NAOKI",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "AUTONETWORKS TECHNOLOGIES LTD"
+            },
+            {
+                "organization": "SUMITOMO WIRING SYSTEMS"
+            },
+            {
+                "organization": "SUMITOMO ELECTRIC INDUSTRIES"
+            }
+        ]
+    },
+    {
+        "patent_id": "12093602",
+        "num_claims": 30,
+        "patent_date": "2024-09-17",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "BIERBOWER CHRIS",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "VOSSEL PHILIPPE",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "SONOS INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "2024185163",
+        "num_claims": 6,
+        "patent_date": "2024-09-12",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "TAKATSU TAKESHI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "HATADA MITSUHIRO",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "NTT COMM CORP"
+            }
+        ]
+    },
+    {
+        "patent_id": "2024185164",
+        "num_claims": 6,
+        "patent_date": "2024-09-12",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "TAKATSU TAKESHI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "HATADA MITSUHIRO",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "NTT COMM CORP"
+            }
+        ]
+    },
+    {
+        "patent_id": "2024184981",
+        "num_claims": 7,
+        "patent_date": "2024-09-12",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "TAKEMURA TATSUYA",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "WATANABE TAKUYA",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "AKIYAMA MITSUAKI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "SHIOJI EITARO",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "NIPPON TELEGRAPH & TELEPHONE"
+            }
+        ]
+    },
+    {
+        "patent_id": "2024185161",
+        "num_claims": 9,
+        "patent_date": "2024-09-12",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "TAKATSU TAKESHI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "HATADA MITSUHIRO",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "NTT COMM CORP"
+            }
+        ]
+    },
+    {
+        "patent_id": "2024185162",
+        "num_claims": 5,
+        "patent_date": "2024-09-12",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "TAKATSU TAKESHI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "HATADA MITSUHIRO",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "NTT COMM CORP"
+            }
+        ]
+    },
+    {
+        "patent_id": "2024180621",
+        "num_claims": 7,
+        "patent_date": "2024-09-06",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "FUJIKI NAOTO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "KOYAMA TAKAAKI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "NAGAFUCHI YUKIO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "CHIBA NOBUHIRO",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "NIPPON TELEGRAPH & TELEPHONE"
+            }
+        ]
+    }
+]

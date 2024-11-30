@@ -1,0 +1,95 @@
+[
+    {
+        "patent_id": "20240291832",
+        "num_claims": 10,
+        "patent_date": "2024-08-29",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "TSUKAMOTO HIROYUKI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "UEDA HIROSHI",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "SUMITOMO ELECTRIC INDUSTRIES"
+            },
+            {
+                "organization": "SUMITOMO WIRING SYSTEMS"
+            },
+            {
+                "organization": "AUTONETWORKS TECHNOLOGIES LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "12073422",
+        "num_claims": 8,
+        "patent_date": "2024-08-27",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "HEAD MELINDA",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "KUMAR HEMANT",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "WRIGHT JAMES ANDREW",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "RATTENBURY BRIAN BLAKENY",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "NATHANSON MARTIN DANIEL",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "HEAD RES INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "2024171457",
+        "num_claims": 7,
+        "patent_date": "2024-08-22",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "CHIBA NOBUHIRO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "KOYAMA TAKAAKI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "FUJIKI NAOTO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "NAGAFUCHI YUKIO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "NAKAJIMA YOSHIAKI",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "NIPPON TELEGRAPH & TELEPHONE"
+            }
+        ]
+    }
+]
