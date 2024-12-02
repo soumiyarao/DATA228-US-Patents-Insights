@@ -1,0 +1,36 @@
+import boto3
+from botocore.exceptions import NoCredentialsError
+
+# S3 Configuration
+ACCESS_KEY = 'your_access_key'
+SECRET_KEY = 'your_secret_key'
+BUCKET_NAME = 'my-bigdata-project'
+
+# Initialize S3 Client
+s3 = boto3.client('s3', aws_access_key_id=ACCESS_KEY, aws_secret_access_key=SECRET_KEY)
+
+# Upload File
+def upload_file_to_s3(file_name, bucket, object_name=None):
+    if object_name is None:
+        object_name = file_name
+    try:
+        s3.upload_file(file_name, bucket, object_name)
+        print(f"File '{file_name}' uploaded successfully to {bucket}/{object_name}")
+    except FileNotFoundError:
+        print("File not found.")
+    except NoCredentialsError:
+        print("Credentials not available.")
+
+# Download File
+def download_file_from_s3(bucket, object_name, file_name):
+    try:
+        s3.download_file(bucket, object_name, file_name)
+        print(f"File '{object_name}' downloaded successfully as '{file_name}'")
+    except FileNotFoundError:
+        print("File not found.")
+    except NoCredentialsError:
+        print("Credentials not available.")
+
+# Example Usage
+upload_file_to_s3('local_file.txt', BUCKET_NAME, 'uploaded_file.txt')
+download_file_from_s3(BUCKET_NAME, 'uploaded_file.txt', 'downloaded_file.txt')
