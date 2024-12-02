@@ -8,7 +8,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 
 # Define the API URL and token
 API_URL = "https://api.lens.org/patent/search"
-TOKEN = "A5NTTH4NTeEQHU3h63k3J2Fo3POHxbei6bSOGyU9fdGXl8RAVyZi"
+TOKEN = ""
 
 # Branches for the analytic purpose
 branches_data = {
