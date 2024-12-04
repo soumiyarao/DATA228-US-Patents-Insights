@@ -1,0 +1,1093 @@
+[
+    {
+        "patent_id": "20240364727",
+        "num_claims": 13,
+        "patent_date": "2024-10-31",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "ADACHI TAKAHIRO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "UJIIE YOSHIHIRO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "KISHIKAWA TAKESHI",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "PANASONIC IP CORP AMERICA"
+            }
+        ]
+    },
+    {
+        "patent_id": "2024214478",
+        "num_claims": 17,
+        "patent_date": "2024-10-17",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "TANIGUCHI TSUYOSHI",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "FUJITSU LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "2024209576",
+        "num_claims": 14,
+        "patent_date": "2024-10-10",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "ARAMAKI TOORU",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "SAITO GO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "ZHANG XICEN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "KIJIMA MIHOKO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "KAKINUMA TAKEFUMI",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "HITACHI HIGH TECH CORP"
+            }
+        ]
+    },
+    {
+        "patent_id": "2024209608",
+        "num_claims": 8,
+        "patent_date": "2024-10-10",
+        "branch": "Networking and Distributed Systems",
+        "inventors": [
+            {
+                "inventor_name": "TAKEMURA TATSUYA",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "KAMIYA KAZUNORI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "TOBIYAMA SHUN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "OBA SHOSUKE",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "NIPPON TELEGRAPH & TELEPHONE"
+            }
+        ]
+    },
+    {
+        "patent_id": "2024223433",
+        "num_claims": 1,
+        "patent_date": "2024-10-31",
+        "branch": "Software Development and Security",
+        "inventors": [
+            {
+                "inventor_name": "TEGLIA YANNICK",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "QUENTIN LE ROUX",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "BOURBAO ERIC",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "THALES DIS FRANCE SAS"
+            }
+        ]
+    },
+    {
+        "patent_id": "2024227143",
+        "num_claims": 1,
+        "patent_date": "2024-10-31",
+        "branch": "Software Development and Security",
+        "inventors": [
+            {
+                "inventor_name": "BABANI DENIS",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "AKOYA LLC"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240362303",
+        "num_claims": 17,
+        "patent_date": "2024-10-31",
+        "branch": "Software Development and Security",
+        "inventors": [
+            {
+                "inventor_name": "LI NING",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "REN YILONG",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "GAO XIANG",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "LIU WEIJIA",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "XEPIC TECH SHENZHEN CO LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240364805",
+        "num_claims": 21,
+        "patent_date": "2024-10-31",
+        "branch": "Software Development and Security",
+        "inventors": [
+            {
+                "inventor_name": "KNIGHT MARK STEPHEN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "LAMB MICHAEL IAN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "LEWIS ROBERT JOHN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "POCOCK STEPHEN WILLIAM",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "SANT PHILIP ANTHONY",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "SULLIVAN MARK PETER",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "EVANS CHRISTOPHER JOHN",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "TIKTOK PTE LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "2024222422",
+        "num_claims": 31,
+        "patent_date": "2024-10-31",
+        "branch": "Software Development and Security",
+        "inventors": [
+            {
+                "inventor_name": "LU DUOJUN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "WU HAILIANG",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "HUANG XIAOJIE",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "CAO KAILE",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "YANG XIAOYONG",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "LV JUNTAO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "WANG GANG",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "HUAWEI CLOUD COMPUTING TECH CO LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "2024223424",
+        "num_claims": 1,
+        "patent_date": "2024-10-31",
+        "branch": "Software Development and Security",
+        "inventors": [
+            {
+                "inventor_name": "BIEBER YANN",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "NAGRAVISION SARL"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240362316",
+        "num_claims": 20,
+        "patent_date": "2024-10-31",
+        "branch": "Software Development and Security",
+        "inventors": [
+            {
+                "inventor_name": "PEDDIBHOTLA SUDHAKAR",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "JONES DARRYL",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "KALER RAMINDER DEEP SINGH",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "BARKER PETER",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "FORGEROCK INC"
+            },
+            {
+                "organization": "PING IDENTITY INT INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240362348",
+        "num_claims": 20,
+        "patent_date": "2024-10-31",
+        "branch": "Software Development and Security",
+        "inventors": [
+            {
+                "inventor_name": "FLIAM RICHARD",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "ARBUCKLE DAVID",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "COMCAST CABLE COMM LLC"
+            }
+        ]
+    },
+    {
+        "patent_id": "3821355",
+        "num_claims": 42,
+        "patent_date": "2024-10-30",
+        "branch": "Software Development and Security",
+        "inventors": [
+            {
+                "inventor_name": "SACHS PAUL",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "NETMASTER SOLUTIONS LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "4455946",
+        "num_claims": 17,
+        "patent_date": "2024-10-30",
+        "branch": "Software Development and Security",
+        "inventors": [
+            {
+                "inventor_name": "TEGLIA YANNICK",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "LE ROUX QUENTIN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "BOURBAO ERIC",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "THALES DIS FRANCE SAS"
+            }
+        ]
+    },
+    {
+        "patent_id": "4455908",
+        "num_claims": 15,
+        "patent_date": "2024-10-30",
+        "branch": "Software Development and Security",
+        "inventors": [
+            {
+                "inventor_name": "BIEBER YANN",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "NAGRAVISION SARL"
+            }
+        ]
+    },
+    {
+        "patent_id": "4094170",
+        "num_claims": 27,
+        "patent_date": "2024-10-30",
+        "branch": "Software Development and Security",
+        "inventors": [
+            {
+                "inventor_name": "FARRE GUIU MIQUEL ANGEL",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "DRAKE EDWARD C",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "ACCARDO ANTHONY M",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "ARANA MARK",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "DISNEY ENTPR INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "3714376",
+        "num_claims": 42,
+        "patent_date": "2024-10-30",
+        "branch": "Software Development and Security",
+        "inventors": [
+            {
+                "inventor_name": "LAI JOHN",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "DROPBOX INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "12131270",
+        "num_claims": 19,
+        "patent_date": "2024-10-29",
+        "branch": "Software Development and Security",
+        "inventors": [
+            {
+                "inventor_name": "AUGUSTINE SCOTT",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "FLOREANI MARTIN",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "ROKFIN INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "12130893",
+        "num_claims": 20,
+        "patent_date": "2024-10-29",
+        "branch": "Software Development and Security",
+        "inventors": [
+            {
+                "inventor_name": "WANG GANG",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "YUNG MARCEL M MOTI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "LAMBERT TIMOTHY DAVID",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "GOOGLE LLC"
+            }
+        ]
+    },
+    {
+        "patent_id": "12130941",
+        "num_claims": 20,
+        "patent_date": "2024-10-29",
+        "branch": "Software Development and Security",
+        "inventors": [
+            {
+                "inventor_name": "BURCKARD ANTOINE",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "NAGRAVISION SARL"
+            }
+        ]
+    },
+    {
+        "patent_id": "12130870",
+        "num_claims": 20,
+        "patent_date": "2024-10-29",
+        "branch": "Software Development and Security",
+        "inventors": [
+            {
+                "inventor_name": "RICCI CHRISTOPHER P",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "AUTOCONNECT HOLDINGS LLC"
+            }
+        ]
+    },
+    {
+        "patent_id": "12133075",
+        "num_claims": 20,
+        "patent_date": "2024-10-29",
+        "branch": "Software Development and Security",
+        "inventors": [
+            {
+                "inventor_name": "OLSHANSKY VADIM",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "NORO RAFFAELE",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "NOMADIX INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "12130935",
+        "num_claims": 20,
+        "patent_date": "2024-10-29",
+        "branch": "Software Development and Security",
+        "inventors": [
+            {
+                "inventor_name": "BLASS OSCAR J",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "GIMER JOSHUA",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "WALMART APOLLO LLC"
+            }
+        ]
+    },
+    {
+        "patent_id": "12130910",
+        "num_claims": 18,
+        "patent_date": "2024-10-29",
+        "branch": "Software Development and Security",
+        "inventors": [
+            {
+                "inventor_name": "VIVEK S SREE",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "DANDEKAR HRISHIKESH ANIL",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "SRINIVASAMURTHY CHAITANYA MATTUR",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "ICU MEDICAL INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "12130156",
+        "num_claims": 18,
+        "patent_date": "2024-10-29",
+        "branch": "Software Development and Security",
+        "inventors": [
+            {
+                "inventor_name": "LACAZE ALBERTO DANIEL",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "SMITH KYLE",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "ROBOTIC RES OPCO LLC"
+            }
+        ]
+    },
+    {
+        "patent_id": "12131328",
+        "num_claims": 20,
+        "patent_date": "2024-10-29",
+        "branch": "Software Development and Security",
+        "inventors": [
+            {
+                "inventor_name": "ARORA SAURABH",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "BHATIA SHEETAL",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "CHAUHAN SANDEEP KUMAR",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "BANK OF AMERICA"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240354378",
+        "num_claims": 20,
+        "patent_date": "2024-10-24",
+        "branch": "Software Development and Security",
+        "inventors": [
+            {
+                "inventor_name": "STROM CLIFFORD PAUL",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "MCBRIDE DANIEL KEVIN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "RAMAKRISHNAN ARVIND",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "BORSE YASHRAJ MOTILAL",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "PATTEKAR CHITTARANJAN",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "MICROSOFT TECHNOLOGY LICENSING LLC"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240354423",
+        "num_claims": 20,
+        "patent_date": "2024-10-24",
+        "branch": "Software Development and Security",
+        "inventors": [
+            {
+                "inventor_name": "MARDIKAR UPENDRA",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "BRASWELL AMY TYNDALL",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "DHOTRE RAJNEEL M",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "VAIDYA KANAN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "GERARD BRIAN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "AMICK JOEL",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "MACK COLEMAN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "STERN RICHARD",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "NAHAN AYSHA",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "CAMPAZ JEFFREY",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "DICKEY MAXSELL",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "KRISHNAMACHARY SURESH",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "TEACHERS INSURANCE AND ANNUITY ASS OF AMERICA"
+            }
+        ]
+    },
+    {
+        "patent_id": "2024220693",
+        "num_claims": 1,
+        "patent_date": "2024-10-24",
+        "branch": "Software Development and Security",
+        "inventors": [
+            {
+                "inventor_name": "LAL DHANANJAY",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "OLLIKAINEN VILLE",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "KOSKELA PEKKA",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "KYLÄNPÄÄ MARKKU",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "KARINSALO ANNI",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "ADEIA GUIDES INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240356903",
+        "num_claims": 13,
+        "patent_date": "2024-10-24",
+        "branch": "Software Development and Security",
+        "inventors": [
+            {
+                "inventor_name": "GRAB ERIC WILLIAM",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "SOROUSHIAN KOUROSH",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "LIN TUNG",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "CHAN FRANCIS YEE-DUG",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "WALLIN EVAN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "AMIDEI WILLIAM DAVID",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "DIVX LLC"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240356907",
+        "num_claims": 21,
+        "patent_date": "2024-10-24",
+        "branch": "Software Development and Security",
+        "inventors": [
+            {
+                "inventor_name": "LAL DHANANJAY",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "OLLIKAINEN VILLE",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "KOSKELA PEKKA",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "KYLANPAA MARKKU",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "KARINSALO ANNI",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "ADEIA GUIDES INC"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240357186",
+        "num_claims": 26,
+        "patent_date": "2024-10-24",
+        "branch": "Software Development and Security",
+        "inventors": [
+            {
+                "inventor_name": "REY JOE",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "RUSH DANIEL D",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "POPOLOGY MEGAVERSE LLC"
+            }
+        ]
+    },
+    {
+        "patent_id": "2024219899",
+        "num_claims": 15,
+        "patent_date": "2024-10-24",
+        "branch": "Software Development and Security",
+        "inventors": [
+            {
+                "inventor_name": "PARK SHIN HYUN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "KIM SHA RON",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "LEE SANG HYUN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "KIM JI SOO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "KANG YOUN HO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "BAEK SEUNG DAE",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "CHEONG YOUNG SOO",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "HD KOREA SHIPBUILDING ＆ OFFSHORE ENG CO LTD"
+            },
+            {
+                "organization": "HD HYUNDAI HEAVY IND CO LTD"
+            },
+            {
+                "organization": "HD HYUNDAI SAMHO CO LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "3555884",
+        "num_claims": 30,
+        "patent_date": "2024-10-23",
+        "branch": "Software Development and Security",
+        "inventors": [
+            {
+                "inventor_name": "SHIM WOO-CHUL",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "KIM IL-JOO",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "SAMSUNG ELECTRONICS CO LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "3585658",
+        "num_claims": 36,
+        "patent_date": "2024-10-23",
+        "branch": "Software Development and Security",
+        "inventors": [
+            {
+                "inventor_name": "WELLER ANDREW D",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "WRIGHT THOMAS S",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "GENTEX CORP"
+            }
+        ]
+    },
+    {
+        "patent_id": "12121821",
+        "num_claims": 13,
+        "patent_date": "2024-10-22",
+        "branch": "Software Development and Security",
+        "inventors": [
+            {
+                "inventor_name": "CELLA CHARLES H",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "PARENTI JENNA",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "CARDNO ANDREW",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "CHARON TAYLOR",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "BLIVEN BRENT",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "STRONG FORCE TX PORTFOLIO 2018 LLC"
+            }
+        ]
+    },
+    {
+        "patent_id": "12126616",
+        "num_claims": 20,
+        "patent_date": "2024-10-22",
+        "branch": "Software Development and Security",
+        "inventors": [
+            {
+                "inventor_name": "MOROS ORTIZ JORGE ANDRES",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "DE ASSIS MARQUES BRUNO",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "SEDAI SUMAN",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "IBM"
+            }
+        ]
+    },
+    {
+        "patent_id": "2024222015",
+        "num_claims": 13,
+        "patent_date": "2024-10-31",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "ZHANG RONG",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "HUAWEI TECH CO LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "2024221991",
+        "num_claims": 14,
+        "patent_date": "2024-10-31",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "PAN XUN",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "ZHANG MING",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "HUAWEI TECH CO LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "20240362030",
+        "num_claims": 20,
+        "patent_date": "2024-10-31",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "VAIKAR AMOL MANOHAR",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "VMWARE LLC"
+            }
+        ]
+    },
+    {
+        "patent_id": "2024221469",
+        "num_claims": 35,
+        "patent_date": "2024-10-31",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "MA WENKAI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "LIU BAOYANG",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "CHEN JIN",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "SUZHOU METABRAIN INTELLIGENT TECHNOLOGY CO LTD"
+            }
+        ]
+    },
+    {
+        "patent_id": "2024226055",
+        "num_claims": 1,
+        "patent_date": "2024-10-31",
+        "branch": "Advanced Computing Technologies",
+        "inventors": [
+            {
+                "inventor_name": "ZHAO YIWEI",
+                "gender": "U"
+            },
+            {
+                "inventor_name": "LIU BIN",
+                "gender": "U"
+            }
+        ],
+        "applicants": [
+            {
+                "organization": "INNOPEAK TECH INC"
+            }
+        ]
+    }
+]
