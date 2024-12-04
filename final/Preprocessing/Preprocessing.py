@@ -279,5 +279,20 @@ save_dfs_as_parquet_with_names([patent_info_joined_df, cpc_df, cpc_section_df, c
 
 
 
+def save_dfs_as_csv_with_names(dfs, directory_path, df_names):
+    
+    for df, df_name in zip(dfs, df_names):
+        # Generate file path using the DataFrame variable name
+        file_path = f"{directory_path}/{df_name}"
+        
+        try:
+            # Save DataFrame as Parquet
+            df.write.option("header", "true").csv(file_path, mode="overwrite")
+            print(f"DataFrame '{df_name}' saved successfully to {file_path}")
+        except Exception as e:
+            print(f"Error saving DataFrame '{df_name}' to {file_path}: {e}")
 
+
+save_dfs_as_csv_with_names([patent_info_joined_df, cpc_df, cpc_section_df, cpc_group_df,cpc_subclass_df, cpc_class_df, joined_df_inventor, applicant_df_dropped], "output_csv_schema", 
+                               ["patent_info", "cpc_info", "cpc_section", "cpc_group", "cpc_subclass", "cpc_class", "inventor_info", "applicant_info"])
 
