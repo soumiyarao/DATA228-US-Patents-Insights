@@ -17,6 +17,10 @@ Sample analytics ready data are uploaded at:
 - final/Analytics/PowerBI/csv/
 - final/Analytics/Superset/results/
 
+Sample Dashboard Screenshots are uploaded at:
+- final/Analytics/PowerBI/
+- final/Analytics/Superset/
+
 <b>Tools and Technologies Used:</b>
 - Apache Spark
 - Apache Spark Structured Streaming
